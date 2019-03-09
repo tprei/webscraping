@@ -66,8 +66,8 @@ class Scraper:
             # placing all info together, appending to the csv and printing to the output console
             for item in info:
                 with open(f'{self.what}_{self.where}.csv', 'a') as fi:
-                    print(f"{item[0]}\n{item[1]}\n{item[2]}\n".replace('[', '').replace(']', ''))
-                    fi.write(f"{item[0]},{item[1]},{item[2]}\n".replace('[', '').replace(']', ''))
+                    print(f"\n{item[0]}\n{item[1]}\n{item[2]}".replace('[', '').replace(']', '').replace('\'', ''))
+                    fi.write(f"\n{item[0]},{item[1]},{item[2]}".replace('[', '').replace(']', '').replace('\'', ''))
         
             page_num+=1        
 
