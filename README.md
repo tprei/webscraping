@@ -6,3 +6,8 @@ It's fairly simple, it parses the html for a query and fetches the data and outp
 
 There's a slight problem that I noticed afterwards: some queries depend on the website JS to load (which is quite stupid if you ask me), so these aren't included in the .csv since requests only parses the default html. Those results can be easily identified: they have stars (review stars).
 
+To run this you'll need BeautifulSoup so run:
+   
+   ```shell
+   pip3 install BeautifulSoup
+   ```
