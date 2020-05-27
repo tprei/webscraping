@@ -39,6 +39,7 @@ class Scraper:
             print(f'Page {page_num}\n')
             r = requests.get(url)
             soup = bs(r.text, 'html.parser')
+
             # finds every query result in the current page
             items = soup.findAll('div', {'itemprop': 'itemListElement'})
 
