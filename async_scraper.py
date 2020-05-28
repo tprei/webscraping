@@ -15,22 +15,48 @@ class Entry:
 
     def __init__(self, **kwargs):
         self.name = kwargs['name']
-        self.address = kwargs['address'].replace(',', '')
+
+        if not kwargs['address']:
+            self.address = ''
+            self.type = ''
+        else:
+            self.address = kwargs['address'].replace(',', ' ')
+            self.address = ' '.join(self.address.split())
+
+            words = self.address.split(' ')
+            self.type = words[0]
+            self.address = ' '.join(words[1:-1])
+
+        if not kwargs['cep']:
+            self.cep = ''
+        else:
+            self.cep = kwargs['cep'].replace(',', ' ')
+            self.cep = self.cep.replace('\n', '')
+
         self.city = kwargs['city'].replace('\n', '')
         self.query = kwargs['query'].replace('\n', '')
         self.phones = []
+        self.ddd = ''
         
         for phone in kwargs['phones']:
-            self.phones.append(phone)
+            separated_phone = phone.split()
+            ddd = separated_phone[0]
+            number = separated_phone[1]
+
+            self.ddd = ddd[1:-1]
+
+            self.phones.append(number)
 
     def __str__(self):
         row = self.name + ',' 
+        row += self.query + ','
+        row += self.type + ','
         row += self.address + ','
         row += self.city + ','
-        row += self.query + ','
+        row += self.cep + ','
+        row += self.ddd + ','
         row += ','.join(self.phones)
         return row
-                
 
 class FileHandlerThread(threading.Thread):
 
@@ -81,14 +107,11 @@ async def setup(query, city) -> int:
     return initial_url, num_pages, session
 
 async def get_entry(item, query, city, session):
-    name = None
     address = None
+    cep = None
     
     name = item.find('h2', {'class':'aTitle'}).text
     name = name.lstrip().rstrip()
-
-    address = item.find('div', {'class': 'advAdress'}).find('span').text
-    address = address.lstrip().rstrip()
 
     phone_url = 'https://www.guiamais.com.br/' + item.find('h2', {'class':'aTitle'}).find('a')['href']
     phone_url = phone_url.lstrip().rstrip()
@@ -100,9 +123,20 @@ async def get_entry(item, query, city, session):
     phones = parsed.findAll('li', {'class':'detail'})
     phones = [phone.text.lstrip().rstrip() for phone in phones]
 
+    address_div = parsed.find('span', {'class':'tp-address'})
+
+    if address_div:
+        address = address_div.text.lstrip().rstrip()
+
+    cep_div = parsed.find('span', {'class': 'tp-postalCode'})
+
+    if cep_div:
+        cep = cep_div.text.lstrip().rstrip()
+
     return Entry (
             name=name,
             address=address,
+            cep=cep,
             phones=phones,
             query=query,
             city=city
@@ -128,7 +162,6 @@ async def main(queries, cities):
                 html = await get_html(session, url)
                 pages.append(html)
 
-            print('Gathering results')
             asyncio.sleep(3)
 
             results = 0
