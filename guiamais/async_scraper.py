@@ -7,7 +7,6 @@ from queue import Queue
 from time import time
 from tqdm import tqdm
 
-
 DEFAULT_URL = 'https://www.guiamais.com.br/encontre?searchbox=true'
 PAGE_MODIFIER = '&page='
 
@@ -142,6 +141,14 @@ async def get_entry(item, query, city, session):
             city=city
     )
 
+async def get_pages(url, num_pages, session) -> list:
+    pages = []
+    for page in tqdm(range(1, num_pages + 1), desc='Pages'):
+        url += PAGE_MODIFIER + str(page)
+        html = await get_html(session, url)
+        pages.append(html)
+
+    return pages
 
 async def main(queries, cities):
     thread = FileHandlerThread('output.csv')
@@ -156,13 +163,7 @@ async def main(queries, cities):
         for c in tqdm(cities, desc='Cities'):
             url, num_pages, session = await setup(q, c)
 
-            pages = []
-            for page in tqdm(range(1, num_pages + 1), desc='Pages'):
-                url += PAGE_MODIFIER + str(page)
-                html = await get_html(session, url)
-                pages.append(html)
-
-            asyncio.sleep(3)
+            pages = await get_pages(url, num_pages, session)
 
             results = 0
             for html in pages:
@@ -175,13 +176,7 @@ async def main(queries, cities):
                 count += results
 
                 for item in items:
-
-                    try:
-                        while True:
-                            entry = await get_entry(item, q, c, session)
-                            break
-                    except:
-                        pass
+                    entry = await get_entry(item, q, c, session)
 
                     thread.q.put(entry)
                     print(entry)
