@@ -26,6 +26,10 @@ class Entry:
             self.type = words[0]
             self.address = ' '.join(words[1:-1])
 
+            words = self.address.split('-')
+            self.neighbour = ''.join(words[-1])
+            self.address = ''.join(words[:-1])
+
         if not kwargs['cep']:
             self.cep = ''
         else:
@@ -40,7 +44,7 @@ class Entry:
         for phone in kwargs['phones']:
             separated_phone = phone.split()
             ddd = separated_phone[0]
-            number = separated_phone[1]
+            number = separated_phone[1].replace('-', '')
 
             self.ddd = ddd[1:-1]
 
@@ -51,6 +55,7 @@ class Entry:
         row += self.query + ','
         row += self.type + ','
         row += self.address + ','
+        row += self.neighbour + ','
         row += self.city + ','
         row += self.cep + ','
         row += self.ddd + ','
