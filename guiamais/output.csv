@@ -1,632 +1,448 @@
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-OFICINAS MECÂNICA,Oficina mecanica,R,Boquim 300 - Centro,Aracaju,49010-280,79,3241-2743
-OFICINA MECÂNICA E ELÉTRICA GRAZIELLE,Oficina mecanica,R,Padre Nestor Sampaio 91 - Luzia,Aracaju,49045-015,79,99138-0036
-JUDICAR OFICINA MECÂNICA,Oficina mecanica,Tv,Santa Gleide 3 - José Conrado de Araújo,Aracaju,49085-340,79,99813-2700
-OFICINA MECÂNICA MEGATRON,Oficina mecanica,Av,Deputado Airton Teles 661 - Santo Antônio,Aracaju,49060-120,79,99979-3366
-OFICINA MECÂNICA ORIENTE,Oficina mecanica,R,Thales Ferraz 241 - Industrial,Aracaju,49065-800,79,3215-0519
-OFICINA MECÂNICA OF SERVICE,Oficina mecanica,R,Nova Paraíba 88 - América,Aracaju,49080-380,79,99998-3443
-AUTOPEÇAS E OFICINA MECÂNICA SÃO JOSÉ,Oficina mecanica,Av,General Euclides Figueiredo 380 - Industrial,Aracaju,49065-786,79,3241-4643
-OFICINA MECÂNICA ORLANDO XAVIER,Oficina mecanica,R,Siriri 113 - Centro,Aracaju,49010-450,79,3215-3732
-OFICINA MECÂNICA 29,Oficina mecanica,R,Campo do Brito 29 - América,Aracaju,49080-120,79,3259-2229,3044-3326
-OFICINA MECÂNICA POLIVALENTE,Oficina mecanica,Av,Deputado Airton Teles 209 - Industrial,Aracaju,49065-270,79,3215-4628
-LOSCAR OFICINA MECÂNICA,Oficina mecanica,Av,Desembargador Maynard 350 - Cirurgia,Aracaju,49055-210,79,3259-7177
-OFICINA MECÂNICA AEROGIPE,Oficina mecanica,Av,Deputado Airton Teles 921 - Santo Antônio,Aracaju,49060-120,79,3215-1433
-OFICINA MECÂNICA DML,Oficina mecanica,R,José Vieira de Andrade 888 - José Conrado de Araújo,Aracaju,49085-180,,
-OFICINA MECÂNICA DO ERI,Oficina mecanica,Pc,Major Edeltrudes Teles 202 - Farolândia,Aracaju,49030-510,79,3248-4037
-OFICINA MECÂNICA ALCOOLDIESEL,Oficina mecanica,R,Goiás 1791 - AP 1791 - - José Conrado Araújo,Aracaju,49085-150,,
-JOÃO BOLA OFICINA MECÂNICA & FERRO VELHO,Oficina mecanica,R,Thales Ferraz 210 - Industrial,Aracaju,49065-800,79,3215-5199
-CENTRO AUTOMOTIVO PORTO SEGURO,Oficina mecanica,Av,Ivo do Prado 904 - São José,Aracaju,49015-070,79,4009-7416,4009-7400
-TORMEC TORNEARIA E MECÂNICA INDUSTRIAL,Oficina mecanica,R,Distrito Federal 789 - Siqueira Campos,Aracaju,49075-190,79,3241-1506,3044-0694
-OFICINA BRASÍLIA,Oficina mecanica,Av,José Conrado de Araújo 36 - Industrial,Aracaju,49065-470,79,3215-1264
-OFICINA SÃO THIAGO,Oficina mecanica,R,Amazonas 708 - Siqueira Campos,Aracaju,49075-070,79,99988-6397
-AUTO ELETROBARRA,Oficina mecanica,Av,Oceânica 22 -,Barra dos Coqueiros,49140-000,,
-OFICINA CASUSA,Oficina mecanica,Av,Oceânica 475 -,Barra dos Coqueiros,49140-000,,
-OFICINA SANTA LUZIA,Oficina mecanica,R,25 de Novembro 102 - Centro,Barra dos Coqueiros,49140-000,79,3262-2831
-AUTO PE+AS S,Oficina mecanica,Av,I R 15 01 1 - SALA01 CJ JOAO 1 - -,Nossa Senhora do Socorro,49160-000,79,3256-0131
-SUCUPIRA MOTOS,Oficina mecanica,Av,Coleto C 256 - TAIÇOCA - -,Nossa Senhora do Socorro,49160-000,79,3256-4221
-MECÂNICA SÃO PAULO,Oficina mecanica,R,41 5 - SL - - Parque Faróis,Nossa Senhora do Socorro,49160-000,79,3236-4342
-SERGIPE MOTOS E BIKES,Oficina mecanica,R,1 2 - Bugio,Nossa Senhora do Socorro,49160-000,79,3254-8748
-CHAPARRAL FREIOS,Oficina mecanica,Rod,BR-101 - km-94 - - Centro,Nossa Senhora do Socorro,49160-000,79,3253-4413
-MECÂNICA SAMPAIO,Oficina mecanica,R,Vereador José Gomes Del 118 - Rosa Elze,São Cristovao,49100-000,79,3257-6922,3257-1040,3257-6853
-RENATO MOTO PEÇAS E ACESSÓRIOS,Oficina mecanica,R,69 108 - S/n Conj.eduardo Gomes - - Rosa Elze,São Cristovao,49100-000,79,3257-1647,98801-6828,99810-5758
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 160 - Salgado Filho,Aracaju,49020-040,79,3246-5455
-MIRELLE CAR CENTRO AUTOMOTIVO,Centro automotivo,R,Germiniano Maia 720 - Salgado Filho,Aracaju,49020-040,,
-CENTRO AUTOMOTIVO PIATÃ,Centro automotivo,R,Firmino Fontes 205 - Atalaia,Aracaju,49037-220,79,3024-0004
-K. M. CENTRO AUTOMOTIVO,Centro automotivo,R,Vinte e Um de Abril 305 - Dezoito do Forte,Aracaju,49072-760,79,99937-0557
-CENTRO AUTOMOTIVO MOTA,Centro automotivo,Av,Augusto Franco 1330 - Siqueira Campos,Aracaju,49075-100,79,3222-3585
-DM CENTRO AUTOMOTIVO,Centro automotivo,Av,Simeão Sobral 389 - Industrial,Aracaju,49065-770,79,3205-2269
-MANEZINHO CENTRO AUTOMOTIVO,Centro automotivo,R,Thales Ferraz 218 - Industrial,Aracaju,49065-800,79,99948-2310,98835-0762
-CENTRO AUTOMOTIVO MARCEL MULTIMARCAS,Centro automotivo,R,Coronel José Figueiredo de Albuquerque 2047 - Atalaia,Aracaju,49035-180,79,3255-2284
-RENNOVAUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Canadá 234 - Novo Paraíso,Aracaju,49082-415,79,3241-8585
-CENTRO AUTOMOTIVO FIGUEIREDO SKAP,Centro automotivo,R,Laranjeiras 1231 - Getúlio Vargas,Aracaju,49055-380,79,3214-5191
-FAST AUTO CENTRO AUTOMOTIVO,Centro automotivo,R,Santa Catarina 160 - Siqueira Campos,Aracaju,49075-520,79,99981-8515
-CENTRO ESTÉTICO AUTOMOTIVO MB CAR,Centro automotivo,R,Urquiza Leal 333 - AP 402 - - Salgado Filho,Aracaju,49020-490,79,3215-4934,99940-0424
-JET CLEAN,Centro automotivo,R,Leopoldo Mesquita 134 - CS A - - Jardins,Aracaju,49025-380,,
-AUTOPEÇAS REAL,Centro automotivo,Av,Coelho e Campos 462 - Santo Antônio,Aracaju,49060-000,79,3222-8117
-L A SANTOS REPRESENTAÇÕES,Centro automotivo,R,Hildete Falcão Baptista 33 - Jabutiana,Aracaju,49095-470,79,3247-1100
-PRO ESCAPE,Centro automotivo,Av,Coelho e Campos 1126 - Santo Antônio,Aracaju,49060-000,79,3215-2915,3215-3594
-AUTO PEÇAS SÃO JOSÉ,Centro automotivo,R,Mariano Salmeron 34 - Siqueira Campos,Aracaju,49075-370,79,3211-5278,3041-8061,3043-6999
-OFICINA ORICO,Centro automotivo,R,Barra dos Coqueiros 634 - Novo Paraíso,Aracaju,49082-040,79,3241-3284,99988-2278
-RETÍFICA MESTRE LINDOLFO,Centro automotivo,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-JET CLEAN,Centro automotivo,Av,Engenheiro Gentil Tavares 807 - Getúlio Vargas,Aracaju,49055-260,61,3244-2247,3244-4817,3297-2247
-LUIZ CARLOS OLIVEIRA SILVA,Centro automotivo,Av,Canal 67 - Q 12 LT 7 - - Prisco Viana,Barra dos Coqueiros,49140-000,,
-INJECAR CENTRO AUTOMOTIVO,Centro automotivo,Av,Um 875 -,Nossa Senhora do Socorro,49160-000,79,3254-5553
-ARACAJUTRUCK,Centro automotivo,Qd,A - Loteamento S Francisco,Nossa Senhora do Socorro,49160-000,79,3214-0171
-J.F. SERVIÇOS EM TRATORES,Centro automotivo,R,Gh 49 - LOTE 8126 QUADRAGN L - - Santa Cecília,Nossa Senhora do Socorro,49160-000,79,99982-5669
-PODEROSO E FONTES PEÇAS ACESSÓRIOS,Centro automotivo,Av,1 721 - Conjunto João Alves,Nossa Senhora do Socorro,49160-000,79,3256-7689
-MECÂNICA DIESEL MESSIAS,Centro automotivo,Rod,BR 101 Km 93 360 - Palestina,Nossa Senhora do Socorro,49160-000,,
-POSTO DE LAVAGEM E BORRACHARIA DO JURUNA,Centro automotivo,Rod,BR 235 Km 5 - Sobrado,Nossa Senhora do Socorro,49160-000,79,3253-3629
-AUTO PEÇAS IRMÃOS XAVIER,Centro automotivo,Av,1 Cj Gov João Alves Filho 755 - Conjunto Governador João Área Filho,Nossa Senhora do Socorro,49160-000,79,99934-3554
-POSTO DE LAVAGEM CENTRAL,Centro automotivo,R,Jucelino Emílio de Carvalho - Palestina,Nossa Senhora do Socorro,49160-000,79,3179-3101
-OFICINA MEDELO,Centro automotivo,Av,C 639 - CJ JARDIM I - - Centro,Nossa Senhora do Socorro,49160-000,79,99930-0606
-AUTOPEÇAS FARIAS,Centro automotivo,R,1 763 - Conjunto Taicoca,Nossa Senhora do Socorro,49160-000,79,3256-1328
-ELETRONIC DIESEL SERVICE,Centro automotivo,Rod,BR 101 Km 90 - Palestina,Nossa Senhora do Socorro,49160-000,79,3253-4416,3215-3723
-CRISTIANO SANTOS,Centro automotivo,R,Três 31 - CASA A - - Conjunto Marcos Freire I,Nossa Senhora do Socorro,49160-000,79,3256-9216
-LUIZ JOSÉ DOS SANTOS,Centro automotivo,R,A 47 - CJ MARCOS FREIRE III - - Conjunto M Freire Iii,Nossa Senhora do Socorro,49160-000,79,98836-1712
-MARCOS AUTO MECÂNICA,Centro automotivo,Av,L 38 - CJ JOAO ALVES FILHO - - Taiçoca,Nossa Senhora do Socorro,49160-000,79,3576-6583,3256-5026,98818-2551
-KADORE,Centro automotivo,Av,1 885 - Centro,Nossa Senhora do Socorro,49160-000,79,3256-4533
-RODOSERGIPE,Centro automotivo,Rod,BR-101 - km-92 lt-326 - - Centro,Nossa Senhora do Socorro,49160-000,79,3216-1700
-OFICINA DO PAPAPA,Centro automotivo,Rod,BR 101 Km 90 - Palestina,Nossa Senhora do Socorro,49160-000,79,3211-0696
-H S MOTORES,Centro automotivo,Rod,BR-101 - Palestina,Nossa Senhora do Socorro,49160-000,,
-SERGIPE CAMINHÕES,Centro automotivo,R,B 178 - Loteamento Terra Nova,Nossa Senhora do Socorro,49160-000,79,3253-1773,99908-0547
-IRAN SANTOS LUDUVICE,Centro automotivo,R,Padre Manoel Gomes 239 - GALPAO - - Centro,Nossa Senhora do Socorro,49160-000,,
-INJECAR CENTRO AUTOMOTIVO,Centro automotivo,Av,Um 875 -,Nossa Senhora do Socorro,49160-000,79,3254-5553
-ARACAJUTRUCK,Centro automotivo,Qd,A - Loteamento S Francisco,Nossa Senhora do Socorro,49160-000,79,3214-0171
-J.F. SERVIÇOS EM TRATORES,Centro automotivo,R,Gh 49 - LOTE 8126 QUADRAGN L - - Santa Cecília,Nossa Senhora do Socorro,49160-000,79,99982-5669
-PODEROSO E FONTES PEÇAS ACESSÓRIOS,Centro automotivo,Av,1 721 - Conjunto João Alves,Nossa Senhora do Socorro,49160-000,79,3256-7689
-MECÂNICA DIESEL MESSIAS,Centro automotivo,Rod,BR 101 Km 93 360 - Palestina,Nossa Senhora do Socorro,49160-000,,
-POSTO DE LAVAGEM E BORRACHARIA DO JURUNA,Centro automotivo,Rod,BR 235 Km 5 - Sobrado,Nossa Senhora do Socorro,49160-000,79,3253-3629
-AUTO PEÇAS IRMÃOS XAVIER,Centro automotivo,Av,1 Cj Gov João Alves Filho 755 - Conjunto Governador João Área Filho,Nossa Senhora do Socorro,49160-000,79,99934-3554
-POSTO DE LAVAGEM CENTRAL,Centro automotivo,R,Jucelino Emílio de Carvalho - Palestina,Nossa Senhora do Socorro,49160-000,79,3179-3101
-OFICINA MEDELO,Centro automotivo,Av,C 639 - CJ JARDIM I - - Centro,Nossa Senhora do Socorro,49160-000,79,99930-0606
-AUTOPEÇAS FARIAS,Centro automotivo,R,1 763 - Conjunto Taicoca,Nossa Senhora do Socorro,49160-000,79,3256-1328
-ELETRONIC DIESEL SERVICE,Centro automotivo,Rod,BR 101 Km 90 - Palestina,Nossa Senhora do Socorro,49160-000,79,3253-4416,3215-3723
-CRISTIANO SANTOS,Centro automotivo,R,Três 31 - CASA A - - Conjunto Marcos Freire I,Nossa Senhora do Socorro,49160-000,79,3256-9216
-LUIZ JOSÉ DOS SANTOS,Centro automotivo,R,A 47 - CJ MARCOS FREIRE III - - Conjunto M Freire Iii,Nossa Senhora do Socorro,49160-000,79,98836-1712
-MARCOS AUTO MECÂNICA,Centro automotivo,Av,L 38 - CJ JOAO ALVES FILHO - - Taiçoca,Nossa Senhora do Socorro,49160-000,79,3576-6583,3256-5026,98818-2551
-KADORE,Centro automotivo,Av,1 885 - Centro,Nossa Senhora do Socorro,49160-000,79,3256-4533
-RODOSERGIPE,Centro automotivo,Rod,BR-101 - km-92 lt-326 - - Centro,Nossa Senhora do Socorro,49160-000,79,3216-1700
-OFICINA DO PAPAPA,Centro automotivo,Rod,BR 101 Km 90 - Palestina,Nossa Senhora do Socorro,49160-000,79,3211-0696
-H S MOTORES,Centro automotivo,Rod,BR-101 - Palestina,Nossa Senhora do Socorro,49160-000,,
-SERGIPE CAMINHÕES,Centro automotivo,R,B 178 - Loteamento Terra Nova,Nossa Senhora do Socorro,49160-000,79,3253-1773,99908-0547
-IRAN SANTOS LUDUVICE,Centro automotivo,R,Padre Manoel Gomes 239 - GALPAO - - Centro,Nossa Senhora do Socorro,49160-000,,
-LENIVALDO SOUZA,Centro automotivo,R,Noventa Quatro 138 - CONJ e.g. - - Rosa Elze,São Cristovao,49100-000,79,99990-3644
-ANDRÉ LUIZ NAJAR PEREIRA,Centro automotivo,Av,Ayrton Sena 917 - CONJ EDUARDO GOMES - - Rosa Elze,São Cristovao,49100-000,79,3257-7986,98152-6936
-ALMEIDA AUTOPEÇAS CHAPARIA E ACESSÓRIOS,Centro automotivo,R,José Conrado de Araújo 1831 - Rosa Elze,São Cristovao,49100-000,79,3257-6265
-AUTO CENTER RIBEIRO,Centro automotivo,Av,Chesf 9 - Centro,São Cristovao,49100-000,79,3257-3822,99997-9636
-ELAINE CRISTINA MELO SOUZA,Centro automotivo,R,Noventa Quatro 138 - CONJ ED G - - Rosa Elze,São Cristovao,49100-000,79,99990-3644
-KAKÁ SERVIÇOS,Centro automotivo,Rod,João Bebê Água - SL A 965 - - Rosa Elze,São Cristovao,49100-000,79,3257-2983
-OFICINA CARLOS SILVA,Centro automotivo,R,83 91 - CS 91 - - Centro,São Cristovao,49100-000,79,99971-5387
-ELETROMECÂNICA NASCIMENTO,Centro automotivo,Tv,Félix Pereira 34 - Centro,São Cristovao,49100-000,,
-AUTO ELÉTRICA ANDRADE,Auto eletrico,Av,General Euclides Figueiredo 197 - A LOTEAMENTO SANTA M - - Santos Dumont,Aracaju,49087-645,79,3245-6710
-AUTO ELÉTRICA MARCONE,Auto eletrico,R,Coronel Stanley da Silveira 431 - CASA - - São José,Aracaju,49015-400,,
-AUTO ELÉTRICA BETO,Auto eletrico,R,Olinda Araújo 61 - CS A - - Farolândia,Aracaju,49030-800,79,3248-2460
-AUTO ELÉTRICA PLANALTO,Auto eletrico,Av,Santa Gleide 684 - Jardim Centenário,Aracaju,49090-270,79,3252-3959,3252-1569,99945-1209
-AUTO ELÉTRICA PATRÍCIA,Auto eletrico,R,Acre 1844 - SL 4 - - América,Aracaju,49080-010,,
-AUTO ELÉTRICA WALTER,Auto eletrico,R,Deputado Euclides Paes Mendonça 909 - Salgado Filho,Aracaju,49020-460,79,99978-1152
-AUTO ELÉTRICA MESSIAS,Auto eletrico,R,Paulo Barreto 552 - José Conrado de Araújo,Aracaju,49085-300,79,3241-1785
-AUTO ELÉTRICA E MECÂNICA MESSIAS,Auto eletrico,R,Santa Catarina 29 - Siqueira Campos,Aracaju,49075-520,79,3214-7666,99988-1550
-AUTO ELÉTRICA BARROS,Auto eletrico,R,Distrito Federal 543 - CS 543 - - Siqueira Campos,Aracaju,49075-190,79,3042-2493,3231-9833,98813-8966
-AUTO ELETROBARRA,Auto eletrico,Av,Oceânica 22 -,Barra dos Coqueiros,49140-000,,
-SENGE SERVIÇOS DE ENGENHARIA ELÉTRICA,Auto eletrico,R,8 670 - Distrito Industrial,Nossa Senhora do Socorro,49160-000,79,3254-1011
-AUTO ESCOLA SERGIPE,Auto eletrico,R,1 Cj Gov João Alves Filho 565 - Conjunto Governador João Área Filho,Nossa Senhora do Socorro,49160-000,79,3256-8527
-L.A. TELECOM E SISTEMAS DE SEGURANÇA,Auto eletrico,Av,Contorno 2673 - Jardim Piabeta,Nossa Senhora do Socorro,49160-000,79,99920-8884,99920-8883
-HELP LIGHT,Auto eletrico,Av,Coletora A 355 - Conjunto M Freire I,Nossa Senhora do Socorro,49160-000,79,3215-5656,3223-2901,3241-8269
-ALBERTO FERRAGENS & FERRAMENTAS,Auto eletrico,Av,J 700 - Bugio,Nossa Senhora do Socorro,49160-000,79,3241-3553,3254-5723
-SEFECOL,Auto eletrico,Av,Coletora A 74 - Centro,Nossa Senhora do Socorro,49160-000,79,3254-2630
-LG PARAFUSOS E FERRAGENS,Auto eletrico,R,J 656 - Nossa Senhora Socorro,Nossa Senhora do Socorro,49160-000,79,3254-2368
-TOPO COMERCIAL,Auto eletrico,Av,Coletora C 1153 - Centro,Nossa Senhora do Socorro,49160-000,,
-LUZ - PROJETOS E CONSTRUÇÕES ELÉTRICAS,Auto eletrico,R,88 25 - SL 2 MARCOS F - - São Conrado,Nossa Senhora do Socorro,49160-000,,
-E G MATERIAIS ELÉTRICOS,Auto eletrico,Av,Principal 760 - Centro,Nossa Senhora do Socorro,49160-000,79,3254-3435
-AUTO PEÇAS I. XAVIER,Auto eletrico,Av,Um 755 -,Nossa Senhora do Socorro,49160-000,,
-AUTO PE+AS S,Auto eletrico,Av,I R 15 01 1 - SALA01 CJ JOAO 1 - -,Nossa Senhora do Socorro,49160-000,79,3256-0131
-SKINA AUTO PEÇAS,Auto eletrico,Av,I 858 - A CONJ JOAO ALVES FI - - Centro,Nossa Senhora do Socorro,49160-000,79,3254-1274,3254-4607
-AUTO PEÇAS SANTA CECÍLIA,Auto eletrico,Rod,BR 101 Km 85 - Nssocorro,Nossa Senhora do Socorro,49160-000,79,3213-8093,3279-1691
-AUTO PEÇAS IRMÃOS XAVIER,Auto eletrico,Av,1 Cj Gov João Alves Filho 755 - Conjunto Governador João Área Filho,Nossa Senhora do Socorro,49160-000,79,99934-3554
-AUTO PEÇAS IRMÃOS XAVIER,Auto eletrico,Av,1 755 - Centro,Nossa Senhora do Socorro,49160-000,79,3256-6950
-MARCOS AUTO MECÂNICA,Auto eletrico,Av,L 38 - CJ JOAO ALVES FILHO - - Taiçoca,Nossa Senhora do Socorro,49160-000,79,3576-6583,3256-5026,98818-2551
-AUTO SKAP PEÇAS E SERV,Auto eletrico,Av,1 885 - Bugio,Nossa Senhora do Socorro,49160-000,79,3256-2188
-AUTO ESCOLA EDUTRAN,Auto eletrico,Av,Coletora A 1152 - Centro,Nossa Senhora do Socorro,49160-000,79,3222-6202
-D B DOS SANTOS SERVIÇOS ELÉTRICOS E HIDRÁULICOS,Auto eletrico,R,41 576 - João Alves Filho,Nossa Senhora do Socorro,49160-000,79,3114-3131
-COMÉRCIO DE MATERIAIS ELÉTRICOS ESTERJON,Auto eletrico,R,Maria do Carmo Silva 958 - LT 6 - - Centro,São Cristovao,49100-000,,
-ENERGIPE - EMPRESA ENERGÉTICA SERGIPE,Auto eletrico,Av,Lourival Batista - Centro,São Cristovao,49100-000,79,3261-1275
-ALVA ELÉTRICA,Auto eletrico,R,Barão de Mauá 87 - SALA 2 - - Rosa Elze,São Cristovao,49100-000,79,3257-2180
-EPJEL EMPRESA JÚNIOR DE ENGENHARIA ELÉTRICA,Auto eletrico,Av,Marechal Rondon - Centro,São Cristovao,49100-000,79,2105-6837
-AUTO POSTO ROSA ELZE,Auto eletrico,Rod,João Bebe Água 0 - KM 4 - -,São Cristovao,49100-000,79,3257-3250
-AUTO PEÇAS JB,Auto eletrico,Rod,João Bebe Água 1807 -,São Cristovao,49100-000,,
-ELSHADAI AUTO-PECAS,Auto eletrico,Av,Lourival Batista 332 - Col Pintos,São Cristovao,49100-000,,
-AUTO PEÇAS NOVA ALIANÇA,Auto eletrico,R,Rodagem Jardim 156 - A - - Centro,São Cristovao,49100-000,,
-AUTO CENTER RIBEIRO,Auto eletrico,Av,Chesf 9 - Centro,São Cristovao,49100-000,79,3257-3822,99997-9636
-HIPER AUTO PEÇAS JOÃO BEBÊ ÁGUA,Auto eletrico,Rod,João Bebê Água 1821 - LJ - - Rosa Elze,São Cristovao,49100-000,79,3257-1301
-CASA DO LUBRIFICANTE,Troca de oleo,Av,Maranhão 970 - Dezoito Forte,Aracaju,49072-000,,
-COMLUB DISTRIBUIDORA,Troca de oleo,Av,Maranhão 1391 - Dezoito Forte,Aracaju,49072-000,79,3236-1695,3236-1841,3236-2391
-DUNAX LUBRIFICANTES,Troca de oleo,Av,Josino José de Almeida 498 - LOJA: 04; - - Farolândia,Aracaju,49030-000,85,3275-3070,3311-6165
-UNIQUE,Troca de oleo,Av,Desembargador Maynard 280 - Cirurgia,Aracaju,49055-210,79,3259-9363
-LUBRIFICAR,Troca de oleo,R,Professor Nunes Mendonça 118 - Cirurgia,Aracaju,49055-550,79,3214-7108
-AUTOLUB,Troca de oleo,R,Pedro Paes Azevedo 801 - Grageru,Aracaju,49025-570,79,3231-7375
-FELIZOLA COMÉRCIO REPRES,Troca de oleo,Av,Professor José Olino de Lima Neto 664 - América,Aracaju,49080-480,79,3259-7047,3259-1001
-CASA DO ÓLEO LUBRIFICANTE,Troca de oleo,Av,Chanceler Osvaldo Aranha 324 - José Conrado de Araújo,Aracaju,49085-100,79,3241-7660,3241-1548
-TROCA DE ÓLEO PREÇO BOM,Troca de oleo,Av,General Euclides Figueiredo 1759 - Santos Dumont,Aracaju,49087-645,79,3245-4885
-OLIVEIRA LUBRIFICANTES E CIA,Troca de oleo,R,Waldemar Monteiro 149 - Farolândia,Aracaju,49030-770,79,3248-5312
-POLICAR,Troca de oleo,R,Laranjeiras 1690 - Getúlio Vargas,Aracaju,49055-380,79,3042-2524
-DISTRIBUIDORA GAMA,Troca de oleo,R,Goiás 1536 - José Conrado Araújo,Aracaju,49085-150,79,3241-2747
-POLICAR,Troca de oleo,R,Laranjeiras 1690 - Getúlio Vargas,Barra dos Coqueiros,49055-380,79,3042-2524
-AUTOLUB,Troca de oleo,R,Pedro Paes Azevedo 801 - Grageru,Barra dos Coqueiros,49025-570,79,3231-7375
-COMLUB DISTRIBUIDORA,Troca de oleo,Av,Maranhão 1391 - Dezoito Forte,Barra dos Coqueiros,49072-000,79,3236-1695,3236-1841,3236-2391
-UNIQUE,Troca de oleo,Av,Desembargador Maynard 280 - Cirurgia,Barra dos Coqueiros,49055-210,79,3259-9363
-CASA DO ÓLEO LUBRIFICANTE,Troca de oleo,Av,Chanceler Osvaldo Aranha 324 - José Conrado de Araújo,Barra dos Coqueiros,49085-100,79,3241-7660,3241-1548
-CASA DO LUBRIFICANTE,Troca de oleo,Av,Maranhão 970 - Dezoito Forte,Barra dos Coqueiros,49072-000,,
-DISTRIBUIDORA GAMA,Troca de oleo,R,Goiás 1536 - José Conrado Araújo,Barra dos Coqueiros,49085-150,79,3241-2747
-FELIZOLA COMÉRCIO REPRES,Troca de oleo,Av,Professor José Olino de Lima Neto 664 - América,Barra dos Coqueiros,49080-480,79,3259-7047,3259-1001
-OLIVEIRA LUBRIFICANTES E CIA,Troca de oleo,R,Waldemar Monteiro 149 - Farolândia,Barra dos Coqueiros,49030-770,79,3248-5312
-MUNDO DOS LUBRICANTES,Troca de oleo,Av,Francisco Bragança 456 - Centro,Barra dos Coqueiros,49500-000,79,3431-3280
-CASA DO LUBRIFICANTE,Troca de oleo,Av,Maranhão 970 - Dezoito Forte,Nossa Senhora do Socorro,49072-000,,
-DISTRIBUIDORA GAMA,Troca de oleo,R,Goiás 1536 - José Conrado Araújo,Nossa Senhora do Socorro,49085-150,79,3241-2747
-CASA DO ÓLEO LUBRIFICANTE,Troca de oleo,Av,Chanceler Osvaldo Aranha 324 - José Conrado de Araújo,Nossa Senhora do Socorro,49085-100,79,3241-7660,3241-1548
-COMLUB DISTRIBUIDORA,Troca de oleo,Av,Maranhão 1391 - Dezoito Forte,Nossa Senhora do Socorro,49072-000,79,3236-1695,3236-1841,3236-2391
-UNIQUE,Troca de oleo,Av,Desembargador Maynard 280 - Cirurgia,Nossa Senhora do Socorro,49055-210,79,3259-9363
-FELIZOLA COMÉRCIO REPRES,Troca de oleo,Av,Professor José Olino de Lima Neto 664 - América,Nossa Senhora do Socorro,49080-480,79,3259-7047,3259-1001
-POLICAR,Troca de oleo,R,Laranjeiras 1690 - Getúlio Vargas,Nossa Senhora do Socorro,49055-380,79,3042-2524
-AUTOLUB,Troca de oleo,R,Pedro Paes Azevedo 801 - Grageru,Nossa Senhora do Socorro,49025-570,79,3231-7375
-OLIVEIRA LUBRIFICANTES E CIA,Troca de oleo,R,Waldemar Monteiro 149 - Farolândia,Nossa Senhora do Socorro,49030-770,79,3248-5312
-MUNDO DOS LUBRICANTES,Troca de oleo,Av,Francisco Bragança 456 - Centro,Nossa Senhora do Socorro,49500-000,79,3431-3280
-JETOIL,Troca de oleo,R,A - Lt Jd Loreto 01 Qd 03 - -,São Cristovao,49100-000,79,99972-4560
-RETIFICA DOIS IRMAOS,Retifica,R,Radialista Geraldo Mendes 291 - Dezoito do Forte,Aracaju,49072-590,79,3236-4060,3085-2073,99986-5782
-RETÍFICA VITÓRIA,Retifica,Av,Maranhão 1183 - Dezoito Forte,Aracaju,49072-000,79,3236-6001
-RETÍFICA VITÓRIA,Retifica,R,Fernando de Noronha 3 - José Conrado de Araújo,Aracaju,49085-140,79,3241-7685
-RETÍFICA ALMEIDA,Retifica,R,Paraíba 83 - Dezoito do Forte,Aracaju,49072-530,79,3236-2677
-RETÍFICA MAGNETO,Retifica,Tv,José de Barros 59 - Getúlio Vargas,Aracaju,49055-350,79,3214-1236,3214-5057
-RETÍFICA IDEAL ARACAJU,Retifica,R,Manoel Dantas 71 - José Conrado de Araújo,Aracaju,49085-210,79,99934-5794,98813-3232,99930-6227
-FOFÃO RETÍFICA DE CABEÇOTE,Retifica,Av,Doutor Edésio Vieira de Melo 2201 - Suíssa,Aracaju,49050-240,79,3211-5249
-BARRETO LOCAÇÕES E COMÉRCIO DE MÁQUINAS & VEÍCULOS,Retifica,R,Acre 1212 - Dezoito do Forte,Aracaju,49072-010,79,3241-6872
-CAMPINA GRANDE DIESEL,Retifica,Av,Maranhão 1147 - Dezoito Forte,Aracaju,49072-000,79,3236-1487
-CALASANS & LEMOS SERVIÇOS,Retifica,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,79,3215-8044
-AUTO LIMA,Retifica,Av,São Paulo 1126 - Dezoito do Forte,Aracaju,49072-660,79,3241-6362
-ALMIR RODRIGUES VALENÇA,Retifica,R,Distrito Federal 1634 - Siqueira Campos,Aracaju,49075-190,79,3259-7045
-RETÍFICA SERGIPANA,Retifica,Av,Maranhão 1943 - Santos Dumont,Aracaju,49087-420,79,3245-3439
-RETÍFICA DKF,Retifica,R,Paraíba 435 - Siqueira Campos,Aracaju,49075-420,,
-RETÍFICA ARACAJU,Retifica,Av,Chanceler Osvaldo Aranha 986 - José Conrado de Araújo,Aracaju,49085-100,79,3212-6300
-RETÍFICA FOFÃO,Retifica,Av,Doutor Edésio Vieira de Melo 2201 - Suíssa,Aracaju,49050-240,79,3221-5249
-RETÍFICA CARNAÚBA,Retifica,Av,São João Batista 1446 - Ponto Novo,Aracaju,49097-000,79,3217-6931
-RETÍFICA MESTRE LINDOLFO,Retifica,Av,João Ribeiro 1233 - Santo Antônio,Aracaju,49060-330,,
-RETÍFICA E USINAGEM DUAS RODAS,Retifica,R,Armindo Guaraná 267 - Santo Antônio,Aracaju,49060-030,79,3215-4312,3042-2124,3043-0786
-RETÍFICA DE CABEÇOTE PERNAMBUCANA,Retifica,Av,Mamede Paes Mendonça 860 - Getúlio Vargas,Aracaju,49055-670,79,3254-6072,3042-0041,3241-5890
+A R A F R E I O S,centros automotivo,R,Rouxinol 856 - FDS - - Vila Aratimbó,Arapongas, PR,86700-410,43,3252-4721,99121-3220,99957-4754
+A.W.- PRESTADORA DE SERVIÇO DE POLIMENTO E ESPELHAMENTO,centros automotivo,R,Uirapuru 1480 - Centro,Arapongas, PR,86700-130,43,3056-1417
+ADEMIR JOSÉ DA SILVA,centros automotivo,R,Cisne-Negro 810 - Jardim Petrópolis,Arapongas, PR,86709-010,43,3252-3896
+ADRIANA VIEIRA BAPTISTUCI,Oficina mecanica,R,Mateiro 218 - Jardim Santo Antônio,Arapongas, PR,86705-670,43,3275-1327
+ADRYAN FERRO VELHO DE MOTOS,Oficina mecanica,R,Irataua 12 - Parque Industrial,Arapongas, PR,86700-001,43,3011-1971,99600-4251
+ADÃO FERREIRA SERVIÇOS,centros automotivo,R,Mutum-Pinima 85 - Vila Edio,Arapongas, PR,86705-240,43,3055-3311
+ALESSANDRO A ALMEIDA,centros automotivo,R,Tico-Tico-Do-Bico-Amarelo 858 - Jardim Universitário,Arapongas, PR,86702-690,43,3276-6057
+ALICE ALVES DE MATTOS COSTA,centros automotivo,R,Bonito-Do-Campo 205 - Jardim Baroneza,Arapongas, PR,86706-130,43,3055-3128
+ALINHAUTO ALINHAMENTO E BALANCIAMENTO,centros automotivo,R,Hugo Maria do Valle 56 - Centro,Rolandia, PR,86600-000,43,3255-1218
+ALTAMIR COSTA,Oficina mecanica,Av,Minas Gerais 2171 - Jardim Apucarana,Apucarana, PR,86808-015,43,3423-7986
+ALTEVIR MISKOWISKI,Oficina mecanica,R,Firman Neto 157 - Vila São José,Apucarana, PR,86808-020,43,3422-5845
+AMAR ASSOCIAÇÃO DOS MOTOCICLISTAS DE ARAPONGAS E REGIÃO,centros automotivo,R,Gaturamo 486 - AP 2 - - Jardim Primavera,Arapongas, PR,86702-001,,
+AMC - AUTO MECÂNICA CASTELINHO,centros automotivo,R,Turaco 49 - Vila Bernardes,Arapongas, PR,86705-020,43,3276-7787
+ANDERSON P MARTINS E CIA,troca de oleo,R,Eliezer Botelho Manhas 533 - Jardim Santos Dumont III,Apucarana, PR,86812-535,43,3033-5151
+ANDORINHAS AUTO CENTER,centros automotivo,R,das Andorinhas 605 - Centro,Arapongas, PR,86700-055,43,3252-5218
+ANDORINHAS AUTO CENTER,centros automotivo,R,das Andorinhas 605 - Centro,Arapongas, PR,86700-055,43,3274-1610,3252-1280,3252-5218
+ANTÔNIO APARECIDO DOS REIS & CIA,centros automotivo,R,Araçari-Limão 60 - Vila Triângulo,Arapongas, PR,86709-226,,
+ANTÔNIO CARLOS GARCIA OFICINA,Oficina mecanica,Av,Minas Gerais 870 - Jardim Apucarana,Apucarana, PR,86804-000,43,3122-0348
+ANTÔNIO CARLOS GASPARELO & CIA,centros automotivo,R,Lori 550 - Centro,Arapongas, PR,86700-225,43,98402-5029,98409-8113,99975-9248
+ANTÔNIO CÍCERO FERREIRA,Oficina mecanica,R,Pica-Pau 1509 - Centro,Arapongas, PR,86701-040,43,3055-3820
+ANTÔNIO DE SOUZA,centros automotivo,R,Furriel-Vermelho 152 - Conjunto Flamingos III,Arapongas, PR,86703-590,43,3152-6049
+ANTÔNIO JCARLOS GASPARELO E CIA,Oficina mecanica,R,Lori 558 - Centro,Arapongas, PR,86700-225,43,3252-0398
+APUCARANA MOTO PEÇAS,Oficina mecanica,Av,Minas Gerais 775 - Jardim Apucarana,Apucarana, PR,86804-000,43,3425-6103
+APUCARANA MOTO PEÇAS,Oficina mecanica,R,Padre Severino Cerutti 200 - Vila São José,Apucarana, PR,86808-080,43,3423-3220
+ARABENZ OFICINA MECÂNICA,Oficina mecanica,Av,Maracanã 736 - FDS - - Vila Industrial,Arapongas, PR,86706-000,43,3252-2269,3055-4838,3252-3349
+ARABENZ OFICINA MECÂNICA,centros automotivo,Av,Maracanã 736 - FDS - - Vila Industrial,Arapongas, PR,86706-000,43,3252-2269,3055-4838,3252-3349
+ARAMASSADOS TECNOLOGIA EM AMASSADOS,Oficina mecanica,R,Falcão 460 - Centro,Arapongas, PR,86700-005,43,3055-2171
+ARAPONGAS PNEUS,centros automotivo,Av,Maracanã 2741 - Vila Bernardes,Arapongas, PR,86705-280,,
+ARMANDO MARQUES,centros automotivo,R,Anambé-De-Cauda-Branca 150 - Condomínio Residencial Italian Ville,Arapongas, PR,86701-760,43,3152-3237
+ARTLUB LUBRIFICANTES E FILTROS,troca de oleo,Av,Maracanã 1604 - Vila Bernardes,Arapongas, PR,86705-280,43,3152-6279,99177-4900
+ATACADÃO DUAS RODAS,Oficina mecanica,Av,Presidente Getúlio Vargas 3059 - Centro,Rolandia, PR,86600-000,43,3255-2746,3256-4413
+ATACADÃO DUAS RODAS,Oficina mecanica,R,Condor 400 - Vila Cascata,Arapongas, PR,86701-472,43,3276-6088
+AUTO CANDASP,Oficina mecanica,R,Drongo 1445 - Centro,Arapongas, PR,86700-025,43,3275-1277
+AUTO CENTER SÃO BERNARDO,Oficina mecanica,R,Zacarias de Goes e Vasconcelos 309 - Núcleo Habitacional Parigot de Souza,Apucarana, PR,86802-690,43,3033-3561
+AUTO DIESEL ESTRELA,Oficina mecanica,R,Ciro Bolivar Araujo Moreira 18 - Centro,Rolandia, PR,86600-049,43,3256-1974
+AUTO ELETRICA TANAKA,auto eletrico,Av,Santa Catarina 2513 - Vila Minas Gerais,Apucarana, PR,86808-000,43,3422-8790
+AUTO ELÉTRICA ANDORINHAS,auto eletrico,R,Rolinhas 372 - Centro,Arapongas, PR,86701-030,43,3252-3592
+AUTO ELÉTRICA BR,auto eletrico,Av,Minas Gerais 2681 - Vila São Miguel,Apucarana, PR,86812-490,,
+AUTO ELÉTRICA BRASIL,auto eletrico,Av,Minas Gerais 175 - Jardim Apucarana,Apucarana, PR,86804-000,43,3422-2114
+AUTO ELÉTRICA BRASIL,centros automotivo,Av,Minas Gerais 175 - Jardim Apucarana,Apucarana, PR,86804-000,43,3422-2114
+AUTO ELÉTRICA CARRO & CIA,auto eletrico,R,Bonito-Do-Campo 319 - Jardim Baroneza,Arapongas, PR,86706-130,43,98828-8624,98833-9951,99921-2555
+AUTO ELÉTRICA CARRO & CIA,centros automotivo,R,Bonito-Do-Campo 319 - Jardim Baroneza,Arapongas, PR,86706-130,43,98828-8624,98833-9951,99921-2555
+AUTO ELÉTRICA DAVID,auto eletrico,R,Hans Lehmann 348 - Jardim Novo Horizonte,Rolandia, PR,86604-550,43,3256-4697
+AUTO ELÉTRICA E MECÂNICA DURAN,auto eletrico,R,Cristiano Kussmaul 1584 - Jardim Menegazzo,Apucarana, PR,86802-620,43,3033-3199,3033-3699
+AUTO ELÉTRICA FAISÃO,auto eletrico,R,Faisão 957 - Vila Sampaio,Arapongas, PR,86705-548,43,3276-3936
+AUTO ELÉTRICA IPIRANGA,auto eletrico,Av,Minas Gerais 1300 - Jardim Apucarana,Apucarana, PR,86808-015,43,3422-6292
+AUTO ELÉTRICA IVAI,auto eletrico,Av,Souza Naves 369 - LT 5 - - Barra Funda,Apucarana, PR,86800-570,43,3422-1235
+AUTO ELÉTRICA NAGANO,auto eletrico,Rod,BR-369 Saída para Rolândia 181 - Conjunto Aguias,Arapongas, PR,86703-735,,
+AUTO ELÉTRICA NATAL,auto eletrico,R,Rouxinol 728 - Centro,Arapongas, PR,86700-075,43,3274-1160,3152-5748
+AUTO ELÉTRICA PARANÁ,auto eletrico,Av,Siriema 22 - Vila Araponguinha,Arapongas, PR,86705-500,43,99199-0680,3055-3263,3252-8196
+AUTO ELÉTRICA PARANÁ,centros automotivo,Av,Siriema 22 - Vila Araponguinha,Arapongas, PR,86705-500,43,99199-0680,3055-3263,3252-8196
+AUTO ELÉTRICA STAR SOM,auto eletrico,R,Pavão 390 - Centro,Arapongas, PR,86700-245,43,3152-1949
+AUTO ELÉTRICA UNIÃO,auto eletrico,Av,Minas Gerais 2105 - Jardim Apucarana,Apucarana, PR,86808-015,43,99911-3253
+AUTO ELÉTRICA VÍTOR,auto eletrico,Av,Maracanã 720 - Vila Industrial,Arapongas, PR,86706-000,43,3252-3640
+AUTO ELÉTRICO E MECÂNICA PESADA BORTOTTI,auto eletrico,R,Louro-Verde 758 - Conjunto Delegado Condor,Arapongas, PR,86703-380,43,98805-8692,98849-3309,98849-3802
+AUTO FREIOS STOP CAR,centros automotivo,Av,Governador Roberto da Silveira 590 - Barra Funda,Apucarana, PR,86800-520,43,3422-5311
+AUTO MECANICA DMI,Oficina mecanica,R,Rouxinol 2074 - Vila Aparecida,Arapongas, PR,86706-190,43,3274-0257,99978-0020
+AUTO MECÂNICA 2 AMIGOS II,Oficina mecanica,R,Dançarino-Negro 142 - Conjunto Delegado Condor,Arapongas, PR,86703-340,43,3152-5281
+AUTO MECÂNICA 2 AMIGOS,Oficina mecanica,R,Patativa 187 - Jardim Bandeirantes,Arapongas, PR,86703-110,43,3152-3072
+AUTO MECÂNICA ALARCON,Oficina mecanica,Av,Siriema 389 - Vila Araponguinha,Arapongas, PR,86705-500,43,3276-1586
+AUTO MECÂNICA ARRUDA,Oficina mecanica,Av,Curitiba 1861 - Centro,Apucarana, PR,86800-005,43,3424-4877
+AUTO MECÂNICA ASTOR,Oficina mecanica,Av,Minas Gerais 102 - SL - - Jardim Apucarana,Apucarana, PR,86804-000,43,3033-7798,3275-5142,99147-6193
+AUTO MECÂNICA BUENO,Oficina mecanica,R,Caetano Lopes Pineda 205 - Jardim Apucarana,Apucarana, PR,86804-270,43,3422-3289,3122-1763,3122-1779
+AUTO MECÂNICA CENTRAL,Oficina mecanica,R,Falcão 861 - Centro,Arapongas, PR,86700-165,43,3055-3003
+AUTO MECÂNICA CIDADE ALTA,Oficina mecanica,Rod,BR-376 - km-7 - - Vila São Francisco,Apucarana, PR,86813-240,43,3426-3132
+AUTO MECÂNICA COMETA,Oficina mecanica,R,Tangará 260 - Vila Triângulo,Arapongas, PR,86709-224,43,3252-3055
+AUTO MECÂNICA CONTINENTAL,Oficina mecanica,R,Falcão 1197 - Centro,Arapongas, PR,86700-165,43,3252-0687
+AUTO MECÂNICA CRISTAL,centros automotivo,R,Castro 65 - Vila Vera Cruz,Apucarana, PR,86804-290,43,99105-1257,99105-2852,99105-7102
+AUTO MECÂNICA CUIABANO E BATERIAS,Oficina mecanica,R,Rouxinol 4050 - Arapongas - - Vila Aparecida,Arapongas, PR,86706-190,43,3275-6652
+AUTO MECÂNICA DIESEL ADILSON SÉRGIO,Oficina mecanica,Av,Zilda Seixas Amaral 750 - Parque Industrial Zona Norte,Apucarana, PR,86806-380,43,3426-9855
+AUTO MECÂNICA E FUNILARIA MOTTA,Oficina mecanica,R,Ciro Bolivar Araujo Moreira 85 - Centro,Rolandia, PR,86600-049,43,3256-3470
+AUTO MECÂNICA FERREIRA,Oficina mecanica,R,Guarapuava 839 - Centro,Apucarana, PR,86800-250,43,3423-2363
+AUTO MECÂNICA GOMES,Oficina mecanica,R,Ema 652 - Vila Sampaio,Arapongas, PR,86705-550,43,3276-3826
+AUTO MECÂNICA HARTWIG,Oficina mecanica,R,Orquídea - KM 8 - - Jardim das Flores I,Apucarana, PR,86810-250,43,3424-1453
+AUTO MECÂNICA IGUAÇU,Oficina mecanica,R,Araçari-Limão 45 - Vila Triângulo,Arapongas, PR,86709-226,43,3252-5431
+AUTO MECÂNICA LE,Oficina mecanica,R,Uru 57 - Vila Aratimbó,Arapongas, PR,86700-430,43,3275-2386
+AUTO MECÂNICA MARUO DISQUE MECÂNICO,Oficina mecanica,R,Biguatinga 435 - Jardim Primavera,Arapongas, PR,86702-430,43,3274-6106
+AUTO MECÂNICA MULTIMARCAS,Oficina mecanica,Av,Maracanã 1604 - Vila Bernardes,Arapongas, PR,86705-280,43,3055-4966
+AUTO MECÂNICA PANORAMA,centros automotivo,R,Rouxinol 1579 - AP 9 - - Vila Aparecida,Arapongas, PR,86706-190,43,3252-2560,3252-8192,98828-8025
+AUTO MECÂNICA PIRAPÓ,Oficina mecanica,R,Erwin Schindler 329 -,Apucarana, PR,86800-001,43,3440-1108
+AUTO MECÂNICA PIRATININGA,Oficina mecanica,R,Piratininga 310 - Jardim Ponta Grossa,Apucarana, PR,86804-140,43,3427-8451
+AUTO MECÂNICA PLANALTO,Oficina mecanica,R,Rouxinol 4018 - Arapongas - - Vila Aparecida,Arapongas, PR,86706-190,43,3152-8447
+AUTO MECÂNICA RECCAR,Oficina mecanica,R,Doutor Munhoz da Rocha 611 - Centro,Apucarana, PR,86800-010,43,3033-1031
+AUTO MECÂNICA S VICENTE,Oficina mecanica,R,Uirapuru 1417 - Centro,Arapongas, PR,86700-130,43,3252-3812
+AUTO MECÂNICA SCANIA,Oficina mecanica,Rod,BR-369 - km-197 - - Parque Industrial Zona Norte,Apucarana, PR,86806-000,43,3427-7582
+AUTO MECÂNICA SCHURMANN,Oficina mecanica,R,Epitácio Pessoa 103 - Centro,Rolandia, PR,86600-019,43,3256-2181,3015-3181
+AUTO MECÂNICA SIRIEMA,Oficina mecanica,Av,Siriema 390 - Vila Araponguinha,Arapongas, PR,86705-500,43,99935-2007,99935-3845,99935-3856
+AUTO MECÂNICA SÃO JORGE,Oficina mecanica,R,Geremias Lunardelli 315 - Barra Funda,Apucarana, PR,86800-600,43,3033-2260
+AUTO MECÂNICA TRADIÇÃO,Oficina mecanica,Av,Maracanã 971 - Vila Industrial,Arapongas, PR,86706-000,43,3275-6873
+AUTO MECÂNICA Z 8,Oficina mecanica,R,Tricodomo 23 - Vila Edio,Arapongas, PR,86705-220,43,3152-3565
+AUTO PEÇAS PERFECT,centros automotivo,R,Pérola 210 - c - - Vila Agari,Apucarana, PR,86808-380,43,3122-2183
+AUTO PINTURAS MAURÍLIO,centros automotivo,R,Drongo 2135 - Vila São João,Arapongas, PR,86708-300,43,3274-3554,99193-4143
+AUTO UNIÃO PEÇAS E SERVIÇOS,centros automotivo,R,Guaratinga 2455 - Jardim Bandeirantes,Arapongas, PR,86703-010,43,3276-7100
+AUTO-TEC,centros automotivo,R,Uirapuru 1641 - Centro,Arapongas, PR,86701-010,43,3055-4996,3056-3456,98821-0278
+AUTOCAR - PEÇAS E SERVIÇOS,centros automotivo,R,Tangará 66 - FDS - - Centro,Arapongas, PR,86701-350,11,3275-6818,2203-1228
+AUTOCENTER G3,centros automotivo,R,Rouxinol 922 - Vila Aratimbó,Arapongas, PR,86700-410,43,3152-0087
+AUTOELÉTRICA BR,centros automotivo,R,Benedito Ribeiro Valim 12 - Núcleo Habitacional Marcos Freire,Apucarana, PR,86805-150,43,3425-8161
+AUTOELÉTRICA NATAL,Oficina mecanica,R,Louro-Verde 133 - Conjunto Delegado Condor,Arapongas, PR,86703-380,43,3152-1161,3056-1185,3152-5748
+AUTOELÉTRICA PETE,centros automotivo,R,Gaturamo 437 - Jardim Primavera,Arapongas, PR,86702-001,43,3274-5611,3056-3611
+AUTOMECÂNICA NASCAR,Oficina mecanica,R,Rio Grande do Sul 280 - Jardim Apucarana,Apucarana, PR,86804-390,43,3422-6483
+AUTONORTE CENTRO AUTOMOTIVO,centros automotivo,Av,Arapongas 1173 - Centro,Arapongas, PR,86700-140,43,3055-2007
+AUTOPECAS GERSON,centros automotivo,Av,Minas Gerais 821 - Jardim Apucarana,Apucarana, PR,86804-000,43,3422-7811
+AUTOPEÇAS E MECÂNICA RODICAR,centros automotivo,R,Sangue-De-Boi 280 - Vila Araponguinha,Arapongas, PR,86705-510,43,3276-4664,3152-4665
+AUTOPEÇAS FALCÃO,centros automotivo,R,Falcão 1015 - Centro,Arapongas, PR,86700-165,43,3252-4719
+AUTOPEÇAS GARCIA,centros automotivo,Av,Rio de Janeiro 43 - Jardim Apucarana,Apucarana, PR,86808-010,43,3422-8655,3033-2088,3033-2089
+AUTOPEÇAS IMBATIVEL IMPORTAÇÃO E EXPORT,centros automotivo,Av,Curitiba 2081 - Centro,Apucarana, PR,86800-005,43,3422-3695
+AUTOPEÇAS LUZITANA,centros automotivo,Av,Irati 400 - Barra Funda,Apucarana, PR,86800-220,43,3423-1466,3423-1499
+AUTOPEÇAS PARANÁ,centros automotivo,Av,Curitiba 4 - Centro,Apucarana, PR,86800-005,43,3423-4292
+AUTOPEÇAS SKILL,centros automotivo,Av,Zilda Seixas Amaral 220 - sl A - - Parque Industrial Zona Norte,Apucarana, PR,86806-380,43,3424-0294
+AUTOPEÇAS TREVÃO,centros automotivo,R,Guaratinga 2815 - Parque Industrial II,Arapongas, PR,86703-010,43,3276-1681,3276-6562
+B. A. - CENTRO DE ESTÉTICA AUTOMOTIVA,centros automotivo,Av,Minas Gerais 999 - Jardim Apucarana,Apucarana, PR,86804-000,43,99914-8237
+BACANA MOTOS,Oficina mecanica,R,Pérola 126 - Vila Oliveira,Rolandia, PR,86604-040,43,3256-6372
+BATERIAS E AUTO ELÉTRICA INDUSTRIAL,auto eletrico,Av,Maracanã 1414 - Vila Industrial,Arapongas, PR,86706-000,43,3276-4472
+BATERIAS E AUTO ELÉTRICA SCARP,auto eletrico,R,Gaturamo 303 - Jardim Primavera,Arapongas, PR,86702-001,43,3055-3542
+BATERIAS MARCHIOLI II,centros automotivo,R,Rouxinol 1887 - Arapongas - - Vila Aparecida,Arapongas, PR,86706-190,43,3152-6032
+BATERIAS SATO COMERCIAL E AUTO ELÉTRICA,auto eletrico,R,Uirapuru 1543 - Centro,Arapongas, PR,86700-130,43,3252-5259
+BATS CAR-MECANICA E COMÉRCIO DE PEÇAS P/ AUTOS,centros automotivo,R,Grande Alexandre 390 - Jardim Independência,Apucarana, PR,86811-270,43,99931-7784,99635-3200,99931-7785
+BEIJA-FLOR PRODUTOS AUTOMOTIVOS,troca de oleo,R,Gralha-Azul 110 - Vila Edio,Arapongas, PR,86705-270,,
+BENEDITO DELFINO & CIA,Oficina mecanica,R,Caneleiro 46 - Jardim Lorena,Arapongas, PR,86706-030,43,3276-2566
+BERTASSO SERVIÇOS AUTOMOTIVOS,Oficina mecanica,R,Maracahi 420 - Vila Feliz,Apucarana, PR,86808-030,43,3033-2233,3033-2232
+BIASI AUTOPEÇAS,centros automotivo,Av,Maracanã 1097 - Vila Industrial,Arapongas, PR,86706-000,43,3275-4348,3055-4348
+BIDOIA AUTOMÓVEIS,centros automotivo,R,Firman Neto 600 - A - - Vila São José,Apucarana, PR,86808-020,43,3424-0472,98405-6518,98405-6520
+BIGUATAO,Oficina mecanica,R,Gaturamo 486 - Jardim Primavera,Arapongas, PR,86702-001,43,3275-3596
+BORRACHARIA DO TUTTY,Oficina mecanica,R,Calamão 55 - Jardim Primavera,Arapongas, PR,86702-490,43,3152-3520
+BORRASCA & FOSSALUZA,centros automotivo,R,Surucuá-Açu 147 - Vila Araponguinha,Arapongas, PR,86705-590,43,3152-1036
+BORRASCA RINALDINI & SUGIHAMA,Oficina mecanica,Av,Curitiba 544 - Centro,Apucarana, PR,86800-005,43,3033-6066
+BOTICAR,centros automotivo,R,Doutor Nagib Daher 1005 - s-4 - - Centro,Apucarana, PR,86800-040,43,3422-7839
+BRAGUETO E FREITAS,Oficina mecanica,Av,Mato Grosso 151 - qd 2 lt 18 - - Jardim Apucarana,Apucarana, PR,86804-230,43,3423-9744
+CABELO AUTO PEÇAS,centros automotivo,Av,Maracanã 1385 - Vila Industrial,Arapongas, PR,86706-000,43,3252-5771
+CAR CENTER,centros automotivo,R,das Pombas 80 - FUNDOS - - Centro,Arapongas, PR,86701-410,43,3252-9055
+CAR HOUSE,centros automotivo,R,Uirapuru 1839 - Centro,Arapongas, PR,86701-010,43,3275-7549
+CARTECH MANUTENÇÃO VEICULAR,Oficina mecanica,Av,Santa Catarina 527 - Jardim Apucarana,Apucarana, PR,86804-015,43,3423-2218
+CASA DO ÓLEO ARAPONGAS,troca de oleo,R,Tangará 1090 - Jardim Petrópolis,Arapongas, PR,86709-000,43,3152-8193
+CASULA E CASULA,Oficina mecanica,R,Ponta Grossa 1821 - Centro,Apucarana, PR,86800-030,43,3422-6363
+CATOIA & GARCIA,centros automotivo,Av,Maracanã 3294 - Vila Bernardes,Arapongas, PR,86705-280,43,3276-1927,3276-3570
+CENTERLUB COMÉRCIO DE LUBRIFICANTES E FILTROS,troca de oleo,R,Rouxinol 2562 - Vila Aparecida,Arapongas, PR,86706-190,43,3152-0809
+CENTRAL DISTRIBUIDORA DE AUTOPEÇAS,centros automotivo,Av,Tiradentes 426 - Centro,Rolandia, PR,86600-059,43,3256-1783
+CENTRO AUTOMOTIVO APUCARANA,centros automotivo,Av,Minas Gerais 908 - Jardim Apucarana,Apucarana, PR,86804-000,43,3424-2905
+CENTRO AUTOMOTIVO ESTRELA,centros automotivo,R,Juriti 1488 - Vila Industrial,Arapongas, PR,86706-138,43,3152-4445
+CENTRO AUTOMOTIVO FUSCAR,centros automotivo,Av,Santa Catarina 2893 - Vila Minas Gerais,Apucarana, PR,86808-000,43,3423-9656
+CENTRO AUTOMOTIVO PAIVA SOUZA,centros automotivo,Av,Paraná 78 - Vila Cassala,Apucarana, PR,86800-001,43,3423-5242
+CENTRO AUTOMOTIVO PLÍNIO,centros automotivo,Av,Santa Catarina 415 - Jardim Apucarana,Apucarana, PR,86804-015,43,3122-3377
+CENTRO AUTOMOTIVO SM RECUPERADORA EM GERAL.,centros automotivo,R,Santa Rita 124 - Vila Nossa Senhora da Aparecida,Apucarana, PR,86810-020,43,3423-5561,99682-5058,99812-9204
+CENTRO AUTOMOTIVO TUCANOS,centros automotivo,R,Tucanos 619 - Centro,Arapongas, PR,86701-020,43,3056-4203,3056-4204
+CENTRO AUTOMOTIVO,centros automotivo,R,Jacutinga 510 - Centro,Arapongas, PR,86700-205,43,3152-1502,3152-7575
+CHARLES W SILVA,centros automotivo,R,Corruíra-Do-Brejo 112 - Jardim Caravelle,Arapongas, PR,86702-182,43,3276-3817
+CHIQUINHO AUTO CENTER,centros automotivo,Av,Minas Gerais 1330 - SL 3 - - Jardim Apucarana,Apucarana, PR,86808-015,43,98813-8287
+CHRISTIAN THEO FRANCISCO MEYER,Oficina mecanica,R,Drongo 358 - Vila Cascata,Arapongas, PR,86701-474,43,3276-5038
+CIA DOS MOTORES,Oficina mecanica,R,Cegonha 87 - Vila Araponguinha,Arapongas, PR,86705-635,43,3152-0037,3152-1131
+CIAVENA MOTOS,Oficina mecanica,R,Guaratinga 20 - Jardim Bandeirantes,Arapongas, PR,86703-010,43,3055-8400
+CLAUDEMIR F RODRIGUES,Oficina mecanica,R,Demétrio Santos Moreira 377 - Vila São José,Apucarana, PR,86800-730,43,3423-0711
+CLAUDEMIR MOLONHA,Oficina mecanica,R,Caminheiro-Ocre 537 - Jardim Casa Grande,Arapongas, PR,86706-678,43,3152-2753
+CLFC - SERVIÇOS DE MOLAS AUTOMOTIVAS,centros automotivo,R,Tricodomo 194 - Vila Edio,Arapongas, PR,86705-220,,
+CLINICAR AUTO MECÂNICA,Oficina mecanica,R,Antônio José de Oliveira 200 - Barra Funda,Apucarana, PR,86800-490,43,3424-2263
+CLÉBER F H TOSATTI,centros automotivo,R,Margarida 101 - Jardim das Flores I,Apucarana, PR,86810-200,43,3122-3950
+CLÍNICA DAS MOTOS,Oficina mecanica,R,Firman Neto 758 - Vila São José,Apucarana, PR,86808-020,43,3033-6691
+CLÍNICA DAS MOTOS,centros automotivo,R,Tangará 1510 - Jardim Petrópolis,Arapongas, PR,86709-000,43,99118-6895
+CM RACING PRODUCTS,centros automotivo,R,Araras 185 - Centro,Arapongas, PR,86700-085,43,3055-3496
+COMERCIAL ELITE,centros automotivo,Av,Curitiba 221 - Centro,Apucarana, PR,86800-005,43,3122-4865
+D. GERALDO MENDES & M. ANTÔNIA FORNAROLI MENDES,centros automotivo,R,Gralha-Azul 146 - Vila Edio,Arapongas, PR,86705-270,43,3055-3701,99917-5436,99917-5437
+DAKAR AUTOMÓVEIS,centros automotivo,Av,Corifeu de Azevedo Marques 135 - Centro,Apucarana, PR,86800-230,43,2102-8588
+DARCI A OLIVEIRA,Oficina mecanica,R,Joaquim Alves 34 - Jardim Bela Vista,Apucarana, PR,86811-350,43,3424-8888
+DELTA VEÍCULOS,Oficina mecanica,R,Goiás 28 - Jardim Apucarana,Apucarana, PR,86804-240,43,3422-8820
+DETROIT COMÉRCIO E REPRESENTAÇÃO DE ACES,centros automotivo,R,Rio Corumbataí 354 - Núcleo Habitacional Papa João Paulo I,Apucarana, PR,86801-040,43,3426-2384
+DIOCLÉCIO MORAIS,Oficina mecanica,R,Falcão 861 - Centro,Arapongas, PR,86700-165,43,3252-8552
+DIONÍSIO CHILEZE AUTO MECÂNICA POLO,Oficina mecanica,R,Rolinhas 1198 - Centro,Arapongas, PR,86701-030,43,3252-2835
+DONIZETE G MENDES,Oficina mecanica,R,Gralha-Azul 146 - Vila Edio,Arapongas, PR,86705-270,43,3276-5638
+EDI C RAMIRES,troca de oleo,R,Anambezinho 151 - Conjunto Palmares,Arapongas, PR,86706-380,43,3252-8894
+EDNILSON VALENTINO DOS SANTOS,Oficina mecanica,R,Rio Bulha 45 - Núcleo Habitacional Papa João Paulo I,Apucarana, PR,86801-160,43,99687-7023
+EDUVALDO CARVALHO SIQUEIRA,centros automotivo,R,Peru 33 - Jardim Diamantina,Apucarana, PR,86804-070,43,3426-7709
+EGR,centros automotivo,R,Doutor Oswaldo Cruz 1100 - AP 301 O - - Centro,Apucarana, PR,86800-720,43,99923-3582
+ELETRO MECÂNICA SANTA RITA,Oficina mecanica,R,Firman Neto 600 - Vila São José,Apucarana, PR,86808-020,43,3422-6170
+ELIAS VIEIRA,Oficina mecanica,R,Pedro Álvares Cabral 320 - Vila Santa Rosa,Apucarana, PR,86811-010,43,3423-7332
+EQUIPLUB,troca de oleo,Av,Ailton Rodrigues Alves 552 - Jardim Rosangelo,Rolandia, PR,86602-040,43,3256-5501
+ERMENEGILDO APARECIDO DE SOUZA,centros automotivo,R,Grande Alexandre 2780 - SL B - - Vila Nova,Apucarana, PR,86812-105,43,99976-9065
+FAILE E FALIE,Oficina mecanica,R,Alfredo Moreira Filho 940 - Centro,Rolandia, PR,86600-003,43,3256-3914
+FAMA DO BRASIL INDÚSTRIA DE MOLAS E AUTO PEÇAS,centros automotivo,R,Orquídea - km 365 - - Jardim das Flores I,Apucarana, PR,86810-250,43,3420-9002
+FARECAR OFICINA MULTIMARCAS,Oficina mecanica,R,Beija-Flor 401 - Centro,Arapongas, PR,86700-045,43,3152-2101
+FERNANDES & ZUNTA,Oficina mecanica,R,Falcão 1377 - Centro,Arapongas, PR,86700-165,,
+FISCHER TEC COMÉRCIO DE EQUIPAMENTOS AUTOMOTIVOS,centros automotivo,R,Apterix 214 - Vila Edio,Arapongas, PR,86705-260,43,3152-6832
+FR LATARIAS,centros automotivo,Av,Rio de Janeiro 152 - Jardim Apucarana,Apucarana, PR,86808-010,43,3422-3713
+FURGÕES NOVA OPÇÃO,centros automotivo,R,Pavãozinho-Do-Pará 1817 - Parque Industrial II,Arapongas, PR,86703-755,43,3152-8551,3274-7183
+FÁBIO F BAVILONI,Oficina mecanica,Av,Presidente Getúlio Vargas 1449 - Centro,Rolandia, PR,86600-000,43,3256-5885
+FÁBIO ROGÉRIO MENDES,centros automotivo,R,Tucanos 1474 - Centro,Arapongas, PR,86701-020,43,3056-1407
+G3 AUTO CENTER,centros automotivo,R,Rouxinol 922 - Vila Aratimbó,Arapongas, PR,86700-410,43,3152-9990
+G4 AUTO CENTER,centros automotivo,Av,Pirapó 180 - Barra Funda,Apucarana, PR,86800-500,43,3033-4464
+GABARDO E NOGUEIRA LAVAGEM E SERVIÇOS,centros automotivo,R,Rio Grande do Sul - SL 15 - - Jardim Apucarana,Apucarana, PR,86804-390,43,3423-1952
+GASPARETTO PEÇAS E SERVIÇOS AUTOMOTIVOS,Oficina mecanica,R,Rio Jacucaca 370 - Núcleo Habitacional Papa João Paulo I,Apucarana, PR,86801-175,43,3047-3900
+GASPARETTO PEÇAS SERVIÇOS AUTOMOTIVOS,centros automotivo,R,Padre Severino Cerutti 500 - Vila São José,Apucarana, PR,86808-080,43,3422-7114
+GD REPARAÇÕES AUTOMOTIVAS,Oficina mecanica,R,Maranhão 985 - Jardim Apucarana,Apucarana, PR,86804-380,43,3423-0016,3033-4054,3033-5772
+GEBE MOTOS,Oficina mecanica,Av,Presidente Getúlio Vargas 3070 - Centro,Rolandia, PR,86600-000,43,3255-3436
+GUEDES E MARÇAL,centros automotivo,R,Pará 54 - Jardim Apucarana,Apucarana, PR,86804-250,43,3423-4729,3033-1446,3252-4056
+HIDRAU SYSTEM,centros automotivo,Av,Minas Gerais 2999 - Vila São Miguel,Apucarana, PR,86812-490,43,3423-9773,99926-0218,99926-1234
+HIPERBATTERY,centros automotivo,Av,Governador Roberto da Silveira 414 - Barra Funda,Apucarana, PR,86800-520,43,3423-0777,3033-7007
+HOPKA & FILHO,Oficina mecanica,R,São Pedro 149 - Vila São José,Apucarana, PR,86809-020,43,3422-0033,3033-1037
+HOPKA E FILHO,Oficina mecanica,R,Horeslau Saviski 738 - Jardim Guanabara,Apucarana, PR,86809-070,43,3033-1038
+HORÁCIO RIBEIRO DE CASTRO,Oficina mecanica,R,Tapera-De-Garganta-Branca 317 - Jardim Nova Baroneza,Arapongas, PR,86706-686,43,99905-9315
+HOSP E FERRAGINI,centros automotivo,Av,Espírito Santo 625 - Jardim Apucarana,Apucarana, PR,86804-370,43,3122-0445
+HOSP E GOMES,Oficina mecanica,R,Caetano Lopes Pineda 187 - Jardim Apucarana,Apucarana, PR,86804-270,43,3033-1700
+HOSSAKA PEÇAS E SERVIÇOS PARA VEÍCULOS,centros automotivo,R,Galdino Gluck Júnior 635 - Centro,Apucarana, PR,86800-670,43,3033-1065,3033-5788
+IGAPÓ PNEUS,centros automotivo,R,Mutum-Pinima 158 - Vila Edio,Arapongas, PR,86705-240,,
+IGUAÇU AUTO CENTER,centros automotivo,Av,Minas Gerais 1448 - Jardim Apucarana,Apucarana, PR,86808-015,43,3426-2279
+INDÚSTRIA MECÂNICA CIDADE ALTA,Oficina mecanica,R,Francisco Antônio Consolaro 345 - Parque Industrial Zona Norte,Apucarana, PR,86806-410,43,3033-1284
+INJEFORTE COMÉRCIO E DISTRIBUIDORA DE PEÇAS AUTOMOTIVAS,Oficina mecanica,Av,Minas Gerais 2210 - Jardim Apucarana,Apucarana, PR,86808-015,43,3423-1858
+INJENOVAS AUTOPEÇAS,Oficina mecanica,R,Bahia 286 - Centro,Rolandia, PR,86026-020,43,3329-0060
+IRATAUA DIESEL,Oficina mecanica,R,Irataua 748 - Parque Industrial,Arapongas, PR,86700-001,43,3152-6900
+IRATAUA DIESEL,centros automotivo,R,Jacuguaçu 448 - Conjunto Flamingos,Arapongas, PR,86703-450,43,3152-8416
+IRINEU LEPRE,Oficina mecanica,R,Capanema 91 - Vila Vitória Régia,Apucarana, PR,86801-280,43,3422-5596
+ISAC G DA SILVA,Oficina mecanica,R,Padre Severino Cerutti 1233 - Vila São José,Apucarana, PR,86808-080,43,3423-7668
+IVANCAR LAVAGENS DE VEÍCULOS S/C,centros automotivo,Pc,Interventor Manoel Ribas 56 - FDS - - Centro,Apucarana, PR,86800-680,43,3422-6766,3427-0017
+IVO ROSILEI DEITOS,Oficina mecanica,R,Santos 425 - Manoel Müller,Rolandia, PR,86601-164,43,3256-7505
+J H BALLAN E CIA,centros automotivo,R,Noboru Fukuchima - Vila São Carlos,Apucarana, PR,86800-350,43,3422-7348,3424-5921,3425-3070
+JEFFERSON ROBERTO ROMANO,centros automotivo,Av,Irati 60 - Barra Funda,Apucarana, PR,86800-220,43,3423-1356
+JETOIL,troca de oleo,Av,Curitiba 1428 - Centro,Apucarana, PR,86800-005,43,3423-2121
+JIN ICHI OEDA E CIA,centros automotivo,R,Guaratinga 4455 - Jardim Bandeirantes,Arapongas, PR,86703-010,43,3152-2099
+JOAB N FERREIRA,centros automotivo,R,São Paulo 187 - Vila Feliz,Apucarana, PR,86808-070,43,3422-5948
+JOSÉ B OLIVEIRA,Oficina mecanica,R,Grande Alexandre 390 - Jardim Independência,Apucarana, PR,86811-270,43,3423-6093
+JOSÉ POLISELI,Oficina mecanica,R,Batuquira 268 - Vila Bernardes,Arapongas, PR,86705-030,43,3252-3604
+JOÃO J MANGOLIN,Oficina mecanica,Av,Minas Gerais 2291 - Jardim Apucarana,Apucarana, PR,86808-015,43,3425-8387
+JOÃO JOSÉ DA SILVA,centros automotivo,R,Gavião-do-brejo 267 - Jardim Vale das Perobas,Arapongas, PR,86709-756,43,3276-8376
+JOÃO JOSÉ MANGOLIN,Oficina mecanica,Av,Carlópolis 445 - Vila São Carlos,Apucarana, PR,86800-330,43,3422-6996
+JOÃO M REIS,Oficina mecanica,Av,Central do Paraná - Jardim Diamantina,Apucarana, PR,86804-190,43,3427-1290
+JR MOTOS,Oficina mecanica,R,Esmeralda 83 - Vila Oliveira,Rolandia, PR,86604-022,43,3256-7691
+JR MOTOS,Oficina mecanica,R,Firman Neto 134 - Vila São José,Apucarana, PR,86808-020,43,3033-1041,3033-3636,3422-1041
+JURANDIR ORLANDINI E CIA,Oficina mecanica,R,Estorninho 42 - Jardim Bandeirantes,Arapongas, PR,86703-020,43,3152-6090
+KCM MANUTENÇÃO,Oficina mecanica,Av,Governador Roberto da Silveira 215 - Barra Funda,Apucarana, PR,86800-520,43,3422-7264
+KM AUTO CENTER,centros automotivo,R,Condor 308 - Vila Cascata,Arapongas, PR,86701-472,43,3152-1500,3152-0217
+KM AUTO CENTER,centros automotivo,R,Suiriri-Do-Sul 380 - Jardim San Rafael II,Arapongas, PR,86703-526,43,3152-1038
+KM PNEU MATIC,centros automotivo,R,Carrancho 300 - Jardim Panorama,Arapongas, PR,86708-070,,
+KOSY MOTO PEÇAS,centros automotivo,Av,Minas Gerais 2897 - Vila São Miguel,Apucarana, PR,86812-490,43,3423-6066
+LALIN MECÂNICA,Oficina mecanica,R,Campo Largo 89 - Vila do Colégio,Apucarana, PR,86808-330,43,3423-7966,3423-8545
+LARA CENTRO AUTOMOTIVO E BORRACHARIA,centros automotivo,R,Firman Neto 604 - Vila São José,Apucarana, PR,86808-020,43,3033-2611,99151-4803,99151-4804
+LAÉRCIO LOURENÇO,Oficina mecanica,R,Ouro Verde 365 - Jardim América,Apucarana, PR,86807-040,43,3425-9182
+LEANDRO G OLIVEIRA,Oficina mecanica,R,Drongo 372 - Vila Cascata,Arapongas, PR,86701-474,43,3252-5227
+LITRINHO MOTOS,Oficina mecanica,R,Rio Floriano 143 - Prox Colegio Heitor Cavalcanti - - Núcleo Habitacional Papa João Paulo I,Apucarana, PR,86801-130,43,99672-5918,99600-6891
+LOCATELLI & MORAIS,centros automotivo,R,Falcão 861 - Centro,Arapongas, PR,86700-165,43,99984-7085
+LUBRICENTER SUPER TROCA DE OLEO,troca de oleo,Av,Aviação 1101 - Vila Nova,Apucarana, PR,86812-500,43,3423-9070,3423-9079,99604-4998
+LUBRIFIK LUBRIFICANTE FILTROS E TROCO DE ÓLEO,troca de oleo,R,Gaturamo 410 - Jardim Primavera,Arapongas, PR,86702-001,43,3274-3289
+LUBRIFIK LUBRIFICANTES E FILTROS,troca de oleo,R,Gaturamo 513 - Jardim Primavera,Arapongas, PR,86702-001,43,3274-3289,99153-2470,99153-2471
+LUBRIVALE FILTRO E LUBRIFICANTES,troca de oleo,Av,Minas Gerais 2579 - Vila São Miguel,Apucarana, PR,86812-490,43,3423-6163,3033-6163
+LUBRIVALE FILTROS E LUBRIFICANTES,troca de oleo,R,René Camargo de Azambuja 1110 - Centro,Apucarana, PR,86800-090,43,3033-6517
+LUCAS NASCIMENTO E CIA,Oficina mecanica,R,Hugo Maria do Valle 65 - Centro,Rolandia, PR,86600-000,43,3256-1391
+LUIZ CARLOS SZMIGIELSKI & CIA,centros automotivo,Av,Governador Roberto da Silveira 250 - EST FRA - - Barra Funda,Apucarana, PR,86800-520,,
+LUIZ H MITUTI,Oficina mecanica,R,Azulão-Da-Serra 32 - Conjunto Delegado Condor,Arapongas, PR,86703-350,43,3276-2397
+LÚCIO RUIZ MERINO,Oficina mecanica,R,das Pombas 1271 - Centro,Arapongas, PR,86701-410,43,3055-3019
+M. R. FÉLIX - MECÂNICA,centros automotivo,R,Antônio José de Oliveira 200 - TER - - Barra Funda,Apucarana, PR,86800-490,,
+MACEDO BATERIAS,centros automotivo,R,Rouxinol 1758 - Vila Aparecida,Arapongas, PR,86706-190,43,3252-8643
+MALAQUIAS OFICINA MECÂNICA,Oficina mecanica,Rod,PR-444 - Jardim Petrópolis,Arapongas, PR,86702-625,43,99137-3046,99174-0864,99174-1081
+MANOEL CAPAZORIO,Oficina mecanica,Av,Maracanã 262 - Vila Industrial,Arapongas, PR,86706-000,43,3252-0162
+MANOEL G MAGALHÃES,Oficina mecanica,Av,Maracanã 1380 - Vila Industrial,Arapongas, PR,86706-000,43,3275-1081
+MARCELO DE SOUZA ORTELANI,Oficina mecanica,Rod,BR-369 Saída para Rolândia 369 - Conjunto Aguias,Arapongas, PR,86703-735,,
+MARCOS PAGANINI MECÂNICA QUATRO RODAS,Oficina mecanica,Av,Presidente Getúlio Vargas 2200 - Centro,Rolandia, PR,86600-000,43,3256-3795
+MARIA G SILVA,troca de oleo,R,Corruíra-Do-Brejo 350 - Jardim Caravelle,Arapongas, PR,86702-182,43,3275-5863
+MARIA IRENE DOS SANTOS & CIA,Oficina mecanica,R,Bicudo 50 - Jardim Primavera,Arapongas, PR,86702-530,,
+MARLENE S RIBEIRO,Oficina mecanica,Av,Mato Grosso 160 - Jardim Apucarana,Apucarana, PR,86804-230,43,3422-5062
+MARQUES RODAS PEÇAS E SERVIÇOS DE TORNO,Oficina mecanica,Av,Mato Grosso 248 - Jardim Apucarana,Apucarana, PR,86804-230,43,3424-4470
+MATIOLLI MOTO PEÇAS,Oficina mecanica,R,Drongo 639 - Vila Cascata,Arapongas, PR,86701-474,43,3276-6710
+MATTIOLI MOTO PEÇAS,Oficina mecanica,R,Condor 188 - Vila Cascata,Arapongas, PR,86701-472,43,3276-6710
+MAURO APARECIDO GARCIA - AUTO SERVIÇOS,centros automotivo,Rod,PR-444 - Jardim Petrópolis,Arapongas, PR,86702-625,43,3275-4900
+MAURÍCIO A DELFINO,Oficina mecanica,R,Saurá-Fogo 218 - Jardim Santo Antônio,Arapongas, PR,86705-676,43,3152-5768
+MECÂNICA ADEMIR BARUSSO,Oficina mecanica,R,Tangará 499 - Vila Triângulo,Arapongas, PR,86709-224,43,3275-3759
+MECÂNICA AGRODISEL,Oficina mecanica,R,Erwin Giesen - Jardim Rosangelo,Rolandia, PR,86602-345,43,3256-4290
+MECÂNICA ANÍBAL,Oficina mecanica,Av,Maracanã 873 - Vila Industrial,Arapongas, PR,86706-000,43,3152-1411
+MECÂNICA ARANDIESEL,Oficina mecanica,R,Rio Grande do Sul 335 - Jardim Apucarana,Apucarana, PR,86804-390,43,3422-2941
+MECÂNICA BADAUTO,Oficina mecanica,R,Japim 81 - Jardim Bandeirantes,Arapongas, PR,86703-090,43,3276-5682
+MECÂNICA BARUSSO,Oficina mecanica,R,Tangará 499 - Arapongas - - Vila Triângulo,Arapongas, PR,86709-224,43,3152-9292
+MECÂNICA BERCAN,Oficina mecanica,R,Castro Alves 425 - Jardim América,Apucarana, PR,86807-340,43,3426-7274
+MECÂNICA BORGES,Oficina mecanica,Av,Minas Gerais 3380 - Vila São Miguel,Apucarana, PR,86812-490,43,3033-2197
+MECÂNICA BOVIS CAR OFICINA MECÂNICA,Oficina mecanica,R,Reinaldo Massi 956 - Centro,Rolandia, PR,86600-000,43,3015-4202,3015-4847
+MECÂNICA CHEVROCAR,Oficina mecanica,R,Américo Lunardelli 26 - Barra Funda,Apucarana, PR,86800-540,43,3033-3112,3424-0255
+MECÂNICA COMODORO,centros automotivo,R,Londrina 105 - Vila São Carlos,Apucarana, PR,86800-390,,
+MECÂNICA DELMASQUIO,Oficina mecanica,R,Caetano Lopes Pineda 75 - Jardim Apucarana,Apucarana, PR,86804-270,43,3422-3551
+MECÂNICA DIESEL E AUTO PEÇAS ESTRELA,Oficina mecanica,R,Brasília 515 - Vila Vera Cruz,Apucarana, PR,86804-440,43,3426-3531
+MECÂNICA DIESEL VANMAR,Oficina mecanica,Av,Maracanã 150 - Vila Industrial,Arapongas, PR,86706-000,43,3275-2507
+MECÂNICA DIESEL VANMAR,Oficina mecanica,R,Anambé-De-Cauda-Curta 150 - Vila Triângulo,Arapongas, PR,86709-225,43,3152-2507
+MECÂNICA E AUTOPEÇAS ARAESCANIA,centros automotivo,R,Pega 350 - Jardim Baroneza,Arapongas, PR,86706-110,43,3152-8980,3152-8981
+MECÂNICA E AUTOPEÇAS TIM CAR,Oficina mecanica,R,Tangará 615 - Vila Triângulo,Arapongas, PR,86709-224,43,3252-8504
+MECÂNICA ESPECIALIZADA,Oficina mecanica,R,Rouxinol 1534 - Vila Aparecida,Arapongas, PR,86706-190,43,3055-2560,3055-4272
+MECÂNICA ESTRELA,Oficina mecanica,R,Brasília 515 - Vila Vera Cruz,Apucarana, PR,86804-440,43,3422-0175,3422-4203
+MECÂNICA GEDAMA,centros automotivo,R,Uirapuru 846 - Centro,Arapongas, PR,86700-060,43,98828-4840,99660-1110,99660-1112
+MECÂNICA JEDAMA,Oficina mecanica,R,Uirapuru 846 - Centro,Arapongas, PR,86700-060,43,3055-2960,3055-2423
+MECÂNICA LOPES E FERREIRA,centros automotivo,R,Joaquim Alves 176 - Jardim Bela Vista,Apucarana, PR,86811-350,43,3425-6562
+MECÂNICA LUZAN,Oficina mecanica,Av,Curitiba 352 - Centro,Apucarana, PR,86800-005,43,3424-5323
+MECÂNICA MARCOS,Oficina mecanica,R,Pica-Pau 2263 - Centro,Arapongas, PR,86701-040,43,3252-3494
+MECÂNICA MERCEDAUTO,Oficina mecanica,R,Ceará 270 - Jardim Apucarana,Apucarana, PR,86804-210,43,3423-5633
+MECÂNICA MERCEDAUTO,centros automotivo,R,Ceará 270 - Jardim Apucarana,Apucarana, PR,86804-210,43,99155-6347,99173-9382,99974-5633
+MECÂNICA MOTOR 2000,Oficina mecanica,Av,Presidente Getúlio Vargas 2831 - Centro,Rolandia, PR,86600-000,43,3256-5222
+MECÂNICA PARATI,Oficina mecanica,R,Nicolau Kowalski 205 - Barra Funda,Apucarana, PR,86800-560,43,3423-1400
+MECÂNICA RODOVIA,Oficina mecanica,Av,Atlanta 389 - Conjunto Habitacional Santiago,Rolandia, PR,86606-008,43,3256-7570
+MECÂNICA SOZIM,Oficina mecanica,R,Tangará 1300 - Jardim Petrópolis,Arapongas, PR,86709-000,43,3275-2164
+MECÂNICA SÃO JORGE,Oficina mecanica,R,Geremias Lunardelli 319 - Barra Funda,Apucarana, PR,86800-600,43,3033-2271
+MECÂNICA TOTALFLEX,Oficina mecanica,R,Tangará 80 - Centro,Arapongas, PR,86701-350,43,3152-3288
+MECÂNICA V8,Oficina mecanica,R,Acantiso 774 - Vila Sampaio,Arapongas, PR,86705-100,43,99864-0036,99624-8880,99864-0042
+MF CENTRO AUTOMOTIVO,centros automotivo,R,Perdizes 305 - Centro,Arapongas, PR,86701-420,43,3152-0340,3152-0341
+MOACIR V SILVA,centros automotivo,R,Pega 438 - Jardim Baroneza,Arapongas, PR,86706-110,43,3152-0305
+MORO CAR AMORTECEDORES E MOLAS,centros automotivo,Av,Pirapó 22 - Barra Funda,Apucarana, PR,86800-500,43,3423-4050,3033-5030
+MOTO PEÇAS FLAMINGOS,Oficina mecanica,R,Rouxinol 617 - Centro,Arapongas, PR,86700-075,43,3152-1834
+MOTO SHOW,Oficina mecanica,Av,Maracanã 1028 - Vila Industrial,Arapongas, PR,86706-000,43,3252-9469
+MOTORIA,Oficina mecanica,R,Padre Severino Cerutti 305 - 2 - - Vila São José,Apucarana, PR,86808-080,43,3033-1100
+MOTOS M2R,Oficina mecanica,R,São Paulo 568 - Vila Feliz,Apucarana, PR,86808-070,43,3033-2280
+MULTILUB COMÉRCIO DE LUBRIFICANTES E PEÇAS PARA VEÍCULOS,troca de oleo,R,Saracura 68 - Fu - - Jardim São Cristóvão,Arapongas, PR,86709-400,43,3274-2152
+MULTILUB,troca de oleo,Av,Maracanã 1886 - Vila Bernardes,Arapongas, PR,86705-280,43,3055-2759,3275-2759
+MÁRIO JARROS,Oficina mecanica,R,Faisão 541 - Vila Sampaio,Arapongas, PR,86705-548,43,3276-5060
+NAJA AUTOMECÂNICA,Oficina mecanica,R,Clevelândia 107 - Vila São Carlos,Apucarana, PR,86800-510,43,3034-1030
+NELSON A SIANI,Oficina mecanica,Av,Maracanã 2769 - Vila Bernardes,Arapongas, PR,86705-280,,
+NJD 4X4,Oficina mecanica,Av,Maracanã 1642 - Vila Bernardes,Arapongas, PR,86705-280,43,3055-4881
+NOBRE SUPER TROCA DE ÓLEO,troca de oleo,Av,Minas Gerais 1664 - Jardim Apucarana,Apucarana, PR,86808-015,43,3422-4088
+NORT LATARIA E PINTURA,centros automotivo,Av,Governador Roberto da Silveira 569 - FDS - - Barra Funda,Apucarana, PR,86800-520,43,99902-7014
+NYTONCAR CENTRO AUTOMOTIVO,Oficina mecanica,Av,Siriema 22 - Vila Araponguinha,Arapongas, PR,86705-500,43,3276-5651
+NYTONCAR CENTRO AUTOMOTIVO,centros automotivo,Av,Siriema 22 - Vila Araponguinha,Arapongas, PR,86705-500,43,3276-5651
+O CORUJÃO ACESSÓRIOS,centros automotivo,R,Uirapuru 398 - Centro,Arapongas, PR,86700-060,43,3055-3765
+OFICINA 14,centros automotivo,R,Padre Severino Cerutti 825 - Vila São José,Apucarana, PR,86808-080,43,3034-0707
+OFICINA 14,centros automotivo,R,Rio Grande do Sul 825 - Jardim Apucarana,Apucarana, PR,86804-390,43,3422-5339,3424-0014
+OFICINA ALVORADA,Oficina mecanica,R,Uirapuru 1417 - Centro,Arapongas, PR,86700-130,43,3252-0575
+OFICINA AUTO IGUAÇU,Oficina mecanica,Av,Minas Gerais 1970 - Jardim Apucarana,Apucarana, PR,86808-015,43,3033-2605
+OFICINA BAND,Oficina mecanica,R,Iratauá 3800 - Jardim Monte Carlo,Arapongas, PR,86704-182,43,3276-2200,3152-2200
+OFICINA CATARINENSE,Oficina mecanica,R,Pintassilgo 26 - Vila Aratimbó,Arapongas, PR,86700-415,43,3252-4949
+OFICINA D A L,Oficina mecanica,R,Jurutau 1905 - Parque Industrial II,Arapongas, PR,86703-070,43,3276-3149
+OFICINA DELTA,Oficina mecanica,R,Gonçalves Dias 620 - Vila Ivone,Apucarana, PR,86804-280,43,3422-1998
+OFICINA DO TIDE,Oficina mecanica,R,Albatroz 192 - Vila Nova,Arapongas, PR,86707-170,43,3152-0045
+OFICINA GS DIESEL,Oficina mecanica,R,Ângelo Faccione 39 - Jardim Rosangelo,Rolandia, PR,86602-100,43,3255-1292
+OFICINA ING CAR,Oficina mecanica,R,Aldo Marcachini 678 - Parque Bela Vista,Apucarana, PR,86803-040,43,3034-2128
+OFICINA LORENA,Oficina mecanica,R,Cisne-Branco 148 - Jardim Lorena,Arapongas, PR,86707-270,43,3275-1720
+OFICINA MECÂNICA APUCARANA,Oficina mecanica,R,Desembargador Clotário Portugal 1973 - Centro,Apucarana, PR,86800-020,43,3422-3804,3424-1138
+OFICINA MECÂNICA AUTO MECÂNICA SCANIA,Oficina mecanica,Rod,BR-369 - Km 197 - - Parque Industrial Zona Norte,Apucarana, PR,86806-000,43,99974-6491
+OFICINA MECÂNICA BALAN,Oficina mecanica,R,Presidente Castelo Branco 35 - Centro,Rolandia, PR,86600-000,43,3256-7053
+OFICINA MECÂNICA DO JOAOZAO,Oficina mecanica,R,Piquiri - Jardim Nobre,Rolandia, PR,86602-503,43,3256-2586
+OFICINA MECÂNICA E AUTOPEÇAS GRILO CAR,Oficina mecanica,R,Geremias Lunardelli 500 - Barra Funda,Apucarana, PR,86800-600,43,3033-2006,3033-2007
+OFICINA MECÂNICA EMANUEL,Oficina mecanica,R,Tibagi 188 - Jardim Nobre,Rolandia, PR,86602-521,43,3256-3679
+OFICINA MECÂNICA FAISÃO DIESEL,Oficina mecanica,R,Faisão 997 - Vila Sampaio,Arapongas, PR,86705-548,43,3276-3925
+OFICINA MECÂNICA FÊNIX,Oficina mecanica,R,Netuno 312 - Vila Martins,Apucarana, PR,86800-460,43,3422-2489
+OFICINA MECÂNICA GÊNESIS MULTIMARCAS,Oficina mecanica,R,Japim 188 - Jardim Bandeirantes,Arapongas, PR,86703-090,43,3152-2589
+OFICINA MECÂNICA JOÃO CAZANGI,Oficina mecanica,Av,Irati 401 - Barra Funda,Apucarana, PR,86800-220,43,3422-1530
+OFICINA MECÂNICA JR,Oficina mecanica,R,Bacurau-Rupestre 224 - Jardim Novo Horizonte,Arapongas, PR,86705-698,43,3276-6991
+OFICINA MECÂNICA MOTOCAR,Oficina mecanica,Av,Irati 505 - Barra Funda,Apucarana, PR,86800-220,43,3424-4456
+OFICINA MECÂNICA NAGY LDA,Oficina mecanica,R,Faisão 1011 - Vila Sampaio,Arapongas, PR,86705-548,43,3276-5159
+OFICINA MECÂNICA NEGY,Oficina mecanica,R,Faisão 1011 - Vila Sampaio,Arapongas, PR,86705-548,43,3152-5159
+OFICINA MECÂNICA NEGY,centros automotivo,R,Faisão 1011 - Vila Sampaio,Arapongas, PR,86705-548,43,3152-5159
+OFICINA MECÂNICA NOSSA SENHORA APARECIDA,Oficina mecanica,R,Pavãozinho-Do-Pará 1985 - Parque Industrial II,Arapongas, PR,86703-755,43,3152-2566
+OFICINA MECÂNICA SANTOS,Oficina mecanica,R,Macuco 84 - Vila Aratimbó,Arapongas, PR,86700-420,43,3152-8671
+OFICINA MECÂNICA SANTOS,Oficina mecanica,R,Macuco 84 - Vila Aratimbó,Arapongas, PR,86700-420,43,3252-8671
+OFICINA MECÂNICA SIRIEMA,Oficina mecanica,Av,Siriema 390 - Vila Araponguinha,Arapongas, PR,86705-500,43,3276-1536
+OFICINA MECÂNICA TRUCK-CAR,Oficina mecanica,R,Juriti-Piranga 325 - SALAO - - Jardim San Rafael,Arapongas, PR,86703-480,,
+OFICINA MODERPEÇAS,Oficina mecanica,Av,Presidente Getúlio Vargas 960 - Centro,Rolandia, PR,86600-000,43,3256-1253,3256-3191
+OFICINA MOTRIZ MÁQUINAS PESADAS,Oficina mecanica,Av,Brasil 418 - Jardim Diamantina,Apucarana, PR,86804-410,43,3427-7421
+OFICINA OFIMAR,Oficina mecanica,Av,Iguaçu 309 - Jardim Nobre,Rolandia, PR,86602-506,43,3255-2733
+OFICINA OURO CAR,Oficina mecanica,R,Ouro 334 - Vila Oliveira,Rolandia, PR,86604-090,43,3256-8033
+OFICINA PANORAMA,Oficina mecanica,R,Rouxinol 1579 - Vila Aparecida,Arapongas, PR,86706-190,43,3055-2560
+OFICINA PARANAENSE,Oficina mecanica,Av,Santa Catarina 655 - Jardim Apucarana,Apucarana, PR,86804-015,43,3423-1806
+OFICINA PERDIGÃO,Oficina mecanica,R,Papagaio 280 - Centro,Arapongas, PR,86701-380,43,3252-6022
+OFICINA PISTER,Oficina mecanica,R,Tangará 646 - Vila Triângulo,Arapongas, PR,86709-224,43,3252-5105
+OFICINA RIBEIRO,Oficina mecanica,Av,Maracanã 2526 - Vila Bernardes,Arapongas, PR,86705-280,43,3152-6880
+OFICINA ROSIN,Oficina mecanica,R,Tangará 338 - Vila Triângulo,Arapongas, PR,86709-224,43,3056-1549
+OFICINA ROSSETTI,Oficina mecanica,R,Rio Grande do Sul 110 - Jardim Apucarana,Apucarana, PR,86804-390,43,3122-0919
+OFICINA SÃO CARLOS,Oficina mecanica,R,Nova Ukrânia 95 - Vila Nossa Senhora da Conceição,Apucarana, PR,86802-500,43,3422-0633
+OFICINA SÃO CARLOS,centros automotivo,R,Nova Ukrânia 95 - AP 1 - - Vila Nossa Senhora da Conceição,Apucarana, PR,86802-500,43,99114-2162,99145-6716,99152-2576
+OFICINA SÃO JOSÉ,Oficina mecanica,R,Francisco Kitano 775 - Parque Industrial Zona Norte,Apucarana, PR,86806-385,43,3424-2990
+OFICINA TAKASHINA,Oficina mecanica,Av,Minas Gerais 2054 - Jardim Apucarana,Apucarana, PR,86808-015,43,3423-7677
+OSVAIR DIAS,centros automotivo,R,Serra dos Porongos 122 - Núcleo Habitacional Adriano Correia,Apucarana, PR,86813-180,,
+PARATI CENTER SOUD,centros automotivo,Av,Minas Gerais 975 - Jardim Apucarana,Apucarana, PR,86804-000,43,3033-2809
+PAULINHO PEÇAS,centros automotivo,R,Alcatraz 35 - Vila Industrial,Arapongas, PR,86706-180,43,3055-3748
+PEDRINHO AUTOMÓVEIS,centros automotivo,R,Gralha-Azul 252 - FDS FDS - - Vila Edio,Arapongas, PR,86705-270,43,3423-5202
+PERFECT AUTOPEÇAS,centros automotivo,Av,Minas Gerais 1802 - Jardim Apucarana,Apucarana, PR,86808-015,43,3425-8997
+PETUTTI IND E COM DE MÓVEIS E ACESSÓRIOS,Oficina mecanica,R,Uirapuru 1337 - Centro,Arapongas, PR,86700-130,43,3274-3152
+PINTON SILVEIRA,Oficina mecanica,R,Gavião-Pintado 40 - Conjunto Padre Bernardo Merckel,Arapongas, PR,86706-270,43,3252-5033
+PIT STOP CAR,centros automotivo,R,Doutor Nagib Daher 934 - Centro,Apucarana, PR,86800-040,43,3422-0423
+PITONI PNEUS AUTOCENTER,Oficina mecanica,R,Maria Montessori 167 - Jardim Albino Biachi,Apucarana, PR,86802-110,,
+POLICAR VEÍCULOS FUNILARIA E PINTURA,Oficina mecanica,R,Tapajós 672 - Centro,Rolandia, PR,86600-000,43,3255-1838
+PORT CAR - OFICINA MECÂNICA,Oficina mecanica,R,Drongo 372 - Vila Cascata,Arapongas, PR,86701-474,43,3152-1070
+POSTO DE MOLA CAMBE,centros automotivo,Av,Maracanã 2443 - Vila Bernardes,Arapongas, PR,86705-280,43,3276-2005
+POSTO DE MOLAS APUCARANA,centros automotivo,R,Rio Grande do Sul 780 - Jardim Apucarana,Apucarana, PR,86804-390,43,3422-5478
+POSTO DE MOLAS ARAPONGAS,Oficina mecanica,Av,Maracanã 3294 - Vila Bernardes,Arapongas, PR,86705-280,43,3276-1927
+POSTO DE MOLAS BRASIL,centros automotivo,Av,Minas Gerais 4690 - Núcleo Habitacional Adriano Correia,Apucarana, PR,86813-250,43,3422-0481
+POSTO DE MOLAS OSTRUKA,centros automotivo,R,Humberto Vendramel 330 - Jardim Independência,Apucarana, PR,86811-250,43,3423-7547
+POSTO DE MOLAS PARANÁ,Oficina mecanica,R,Grande Alexandre 588 - Jardim Independência,Apucarana, PR,86811-270,43,3423-1280
+POSTO DE MOLAS ROLÂNDIA,centros automotivo,Av,Presidente Getúlio Vargas 931 - Centro,Rolandia, PR,86600-000,43,3256-3286
+PR DIESEL,Oficina mecanica,R,Guaratinga 145 - Parque Industrial II,Arapongas, PR,86703-010,43,3152-5839,3152-5840
+PRESENCE MOTOS E VEÍCULOS,centros automotivo,Av,Curitiba 1538 - Centro,Apucarana, PR,86800-005,43,3424-0094
+PREVENTIVA EMPILHADEIRA,Oficina mecanica,R,Rouxinol 1850 - bl-1 ap-404 - - Vila Aparecida,Arapongas, PR,86706-190,43,3152-4814
+PULSAR ELETRO MECÂNICA,Oficina mecanica,R,Cristiano Kussmaul 150 - Jardim Menegazzo,Apucarana, PR,86802-620,43,3033-7083
+Q S CENTRO TECN SIST HIDRÁULICOS,Oficina mecanica,R,Guaratinga 3515 - Jardim Bandeirantes,Arapongas, PR,86703-010,43,3152-1575
+RAC DA SILVA & CIA,centros automotivo,Pc,Interventor Manoel Ribas 125 - 6 - - Centro,Apucarana, PR,86800-680,43,3422-2670
+RAMOS & DURIGON,Oficina mecanica,Av,Rio de Janeiro 67 - Jardim Apucarana,Apucarana, PR,86808-010,43,3033-7810
+RANK PNEUS,centros automotivo,Av,Zilda Seixas Amaral 3578 - Parque Industrial Zona Norte,Apucarana, PR,86806-380,,
+RECUPERADORA CATRACA,centros automotivo,R,Tricodomo 238 - Vila Edio,Arapongas, PR,86705-220,43,3276-2644
+REFRAUTO REFRIGERAÇÃO AUTOMOTIVA,Oficina mecanica,Av,Minas Gerais 1661 - lj-B - - Jardim Apucarana,Apucarana, PR,86808-015,43,3423-7700,3033-1006,3033-6015
+REI DOS FREIOS,centros automotivo,Av,Brasil 510 - Jardim Diamantina,Apucarana, PR,86804-410,43,3426-6500
+RENATO DE LIMA TURBO DIESEL,centros automotivo,Rod,BR-369 - km-181 - - Parque Industrial Iv,Arapongas, PR,86706-430,43,3152-5800
+RENATO LIMA,centros automotivo,Av,Siriema 270 - Vila Araponguinha,Arapongas, PR,86705-500,43,3152-5804
+RENATO LIMA,centros automotivo,R,Pinta-Roxo 153 - km-181 - - Vila Cascata,Arapongas, PR,86701-460,43,3152-2461
+RENEE LINO PEREIRA,centros automotivo,Av,Minas Gerais 2560 - FDS - - Vila São Miguel,Apucarana, PR,86812-490,43,99975-0448,99975-1163,99975-2387
+RETIFICADORA ASSAMA,centros automotivo,Av,Minas Gerais 1970 - Jardim Apucarana,Apucarana, PR,86808-015,43,3423-7799
+RETIFICADORA GONÇALES DE PEÇAS DE VEÍCULOS,centros automotivo,R,Ícaro 396 - Vila Nova,Apucarana, PR,86812-040,43,3033-7440,3033-2407
+RETIFICADORA HUTYN,Oficina mecanica,R,Maranhão 583 - Jardim Apucarana,Apucarana, PR,86804-380,43,3422-7671
+RETÍFICA DE CICLOMOTORES BRACATO,centros automotivo,R,Firman Neto 434 - Vila São José,Apucarana, PR,86808-020,43,3424-5794
+RG AUTO MECÂNICA,Oficina mecanica,R,Gaturamo 238 - Jardim Primavera,Arapongas, PR,86702-001,43,3275-1210,3055-3009
+RINAVEL,Oficina mecanica,R,Apterix 148 - Vila Edio,Arapongas, PR,86705-260,43,3276-2632
+ROLANVEL VEÍCULOS,Oficina mecanica,R,Willie Davids 60 - Centro,Rolandia, PR,86600-000,43,3015-4400,3015-4401
+ROTARK AUTOPEÇAS,centros automotivo,R,São Paulo 187 - Vila Feliz,Apucarana, PR,86808-070,43,3423-4477
+S R III INDÚSTRIA E COMÉRCIO DE LUBRIFICANTES,troca de oleo,R,José Nicola Caliento 820 - Jardim Rosangelo,Rolandia, PR,86602-342,43,3255-4084
+S.G. FURTADO,centros automotivo,R,Guaratinga 2455 - -B - - Jardim Bandeirantes,Arapongas, PR,86703-010,43,3276-7100
+S.V. LUBRIFICANTES E FILTROS,centros automotivo,R,Doutor Oswaldo Cruz 1843 - CS 1843 - - Vila Vitória,Apucarana, PR,86802-260,43,3422-9026
+SADA LAVA CAR,centros automotivo,R,Ítalo Ado Fontanini - CS 1128 - - Vila São Paulo,Apucarana, PR,86800-630,43,3033-7181
+SALVADOR E PINE,centros automotivo,R,Rouxinol 854 - Vila Aratimbó,Arapongas, PR,86700-410,43,3275-4545
+SARGGES MOTO PEÇAS,Oficina mecanica,R,Desembargador Clotário Portugal 20 - Centro,Apucarana, PR,86800-020,43,3422-6600
+SARTORI E LIVRARI,centros automotivo,R,Caetano Lopes Pineda 75 - Jardim Apucarana,Apucarana, PR,86804-270,43,3033-1855,3424-0444,99105-3439
+SEGURAUTO MULTIMARCAS,Oficina mecanica,R,Esmeralda 143 - Vila Agari,Apucarana, PR,86808-420,43,3033-5010
+SERVIR COMÉRCIO DE PEÇAS E MANUTENÇÃO DE VEÍCULOS,centros automotivo,Av,Minas Gerais 989 - A - - Jardim Apucarana,Apucarana, PR,86804-000,,
+SHALON TINTAS E AUTOPEÇAS,centros automotivo,Av,Arapongas 2 - Centro,Arapongas, PR,86700-050,43,3252-5000
+SILVA & RUFINO,Oficina mecanica,R,Doutor José Franco Domingues Alexandre 120 - Barra Funda,Apucarana, PR,86800-590,43,3423-1990
+SILVACAR RECUPERADORA,Oficina mecanica,Av,Minas Gerais 1532 - Jardim Apucarana,Apucarana, PR,86808-015,43,3424-7000
+SISTENCAR POLIMENTOS,Oficina mecanica,R,Professor João Cândido Ferreira 562 - Centro,Apucarana, PR,86800-100,43,3424-0097
+SOLANGE MATHEUS,Oficina mecanica,R,Tricodomo 23 - Vila Edio,Arapongas, PR,86705-220,43,3276-5342
+SPEED AUTO MECÂNICA,Oficina mecanica,Av,Carlos Schmidt 246 - Jardim Apucarana,Apucarana, PR,86804-350,43,3033-3090
+SPEED RACING CENTRO AUTOMOTIVO,centros automotivo,R,Gralha-Azul 196 - Vila Edio,Arapongas, PR,86705-270,43,3312-2000,98414-2723,98414-2987
+SS DIESEL BOMBAS INJETORAS,centros automotivo,Rod,BR-369 - km-180 - - Parque Industrial Iv,Arapongas, PR,86706-430,43,3152-1631,3276-1631
+STOCK CAR AUTO MECÂNICA,Oficina mecanica,R,Tangará 625 - Vila Triângulo,Arapongas, PR,86709-224,43,3275-7585
+SUPER MOTO,Oficina mecanica,R,Condor 1423 - Centro,Arapongas, PR,86700-035,43,3252-3240
+SÉRGIO SILVA DE ALMEIDA,Oficina mecanica,R,Uirapuru 342 - Centro,Arapongas, PR,86700-060,43,3274-3174
+SÔNIA A SILVA,centros automotivo,R,Lapa 217 - Centro,Apucarana, PR,86800-310,43,3422-6482
+TACOGRAFOS APUCARANA VELOCIMETROS AUTORIZADO INMETROS,centros automotivo,R,Desembargador Clotário Portugal 384 - Centro,Apucarana, PR,86800-020,43,3033-3010
+TCHEKA MOTOS,Oficina mecanica,R,Pica-Pau 1227 - Centro,Arapongas, PR,86701-040,43,3055-4770
+TEC CAR OFICINA MECÂNICA,Oficina mecanica,Av,Siriema 220 - Vila Araponguinha,Arapongas, PR,86705-500,43,3276-6450
+TEREZA A CASAGRANDE,centros automotivo,R,Peru 1312 - Jardim Diamantina,Apucarana, PR,86804-070,43,3427-7401
+THOR RECUPERADORA,centros automotivo,R,Pirapó 125 - Vila Zanetti,Rolandia, PR,86025-320,43,3325-0656,3356-0656
+TIP DISTRIBUIDORA DE PEÇAS E ACESSÓRIOS,centros automotivo,Av,Minas Gerais 1972 - Jardim Apucarana,Apucarana, PR,86808-015,43,3425-6792
+TOP LUB,troca de oleo,R,Apterix 21 - Vila Edio,Arapongas, PR,86705-260,43,3152-0480
+TOP LUB,troca de oleo,R,Gralha-Azul 100 - Vila Edio,Arapongas, PR,86705-270,43,3152-2667
+TOP LUB,troca de oleo,R,Gralha-Azul 100 - Vila Edio,Arapongas, PR,86705-270,43,3276-2667
+TORNO E SOLDA GOLAS E ROMERO,Oficina mecanica,Av,Maracanã 2552 - Vila Bernardes,Arapongas, PR,86705-280,43,3276-2562
+TROCA DE ÓLEO VOLANTE,troca de oleo,R,Doutor Oswaldo Cruz 843 - Centro,Apucarana, PR,86800-720,43,3423-4101
+UIRAPURU AUTOPEÇAS,centros automotivo,R,Uirapuru 462 - Centro,Arapongas, PR,86700-060,43,3252-3701
+USSO MOTRS COM MOTOS E PEÇAS,Oficina mecanica,R,Doutor Oswaldo Cruz 1788 - Vila Vitória,Apucarana, PR,86802-260,43,3033-4757
+V. M. DE OLIVEIRA - OFICINA MECÂNICA,Oficina mecanica,R,Castro Alves 1280 - C - - Jardim Ponta Grossa,Apucarana, PR,86805-040,43,3426-7679
+V. M. DE OLIVEIRA - OFICINA MECÂNICA,centros automotivo,R,Castro Alves 1280 - C - - Jardim Ponta Grossa,Apucarana, PR,86805-040,43,3426-7679
+VACHTCHUK & VACHTCHUK,Oficina mecanica,R,Caetano Lopes Pineda 51 - Jardim Apucarana,Apucarana, PR,86804-270,43,3422-4611
+VALDINEI JOSÉ DA COSTA,centros automotivo,Rod,BR-376 - KM 7 - - Vila São Francisco,Apucarana, PR,86813-240,43,3424-1374,3423-2063,99637-1373
+VALDOMIRO METALÚRGICA,Oficina mecanica,Rod,PR-170 - Rolândia,Rolandia, PR,86600-000,43,3256-0744
+VANDERLEI PAULA DE ALMEIDA,centros automotivo,R,Lapa 37 - A - - Centro,Apucarana, PR,86800-310,43,99984-0038
+VIDANI VEÍCULOS USADOS,centros automotivo,Av,Maracanã 3200 - Vila Bernardes,Arapongas, PR,86705-280,43,3152-1649
+VISION CAR,centros automotivo,Av,Arapongas 1769 - Centro,Arapongas, PR,86700-140,43,3274-2644
+VOLKS CAR,Oficina mecanica,R,Falcão 1682 - Conjunto Padre Bernardo Merckel,Arapongas, PR,86708-210,43,3252-3799
+VOLKS DIESEL,Oficina mecanica,Rod,BR-369 - km-3 - - Parque Industrial Iv,Arapongas, PR,86706-430,43,3152-4220
+W F MOTO PEÇAS,Oficina mecanica,R,Gaturamo 486 - Jardim Primavera,Arapongas, PR,86702-001,43,3055-3536,3274-7381
+W FILM SOM E ALARMES AUTOMOTIVOS,centros automotivo,R,Quetzal 10 - Vila Bernardes,Arapongas, PR,86075-062,43,3252-8716
+WERIK RODRIGUES DA SILVA,Oficina mecanica,R,Rio Amazonas 94 - Jardim Santo Amaro,Rolandia, PR,86185-280,43,99661-0737,98462-4714
+ÁGUIA LUBRIFICANTES E AUTO MECÂNICA,troca de oleo,R,Doutor Munhoz da Rocha 537 - Centro,Apucarana, PR,86800-010,43,3423-0200
+ÉLCIO A MARCHIOLI,centros automotivo,R,Falcão-Mateiro 74 - Jardim Portal das Flores,Arapongas, PR,86701-500,43,3152-2149

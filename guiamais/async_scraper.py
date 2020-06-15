@@ -57,12 +57,19 @@ class Entry:
         row += ','.join(self.phones)
         return row
 
+    def __hash__(self):
+        return hash(str(self))
+
+    def __eq__(self, other):
+        return self.__hash__() == other.__hash__()
+
 class FileHandlerThread(threading.Thread):
 
     def __init__(self, filename):
         super().__init__()
         self.q = Queue()
         self.filename = filename
+        self.cache = set()
 
     def run(self):
         while True:
@@ -144,8 +151,8 @@ async def get_entry(item, query, city, session):
 async def get_pages(url, num_pages, session) -> list:
     pages = []
     for page in tqdm(range(1, num_pages + 1), desc='Pages'):
-        url += PAGE_MODIFIER + str(page)
-        html = await get_html(session, url)
+        full_url = url + PAGE_MODIFIER + str(page)
+        html = await get_html(session, full_url)
         pages.append(html)
 
     return pages
@@ -178,8 +185,10 @@ async def main(queries, cities):
                 for item in items:
                     entry = await get_entry(item, q, c, session)
 
-                    thread.q.put(entry)
-                    print(entry)
+                    if entry not in thread.cache:
+                        thread.q.put(entry)
+                        thread.cache.add(entry)
+                        print(entry)
 
             stats.append((c.replace('\n', ''), q.replace('\n', ''), results))
 
