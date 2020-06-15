@@ -13,7 +13,7 @@ PAGE_MODIFIER = '&page='
 class Entry:
 
     def __init__(self, **kwargs):
-        self.name = kwargs['name']
+        self.name = kwargs['name'].replace(',', ' ')
 
         if not kwargs['address']:
             self.address = ''
@@ -35,14 +35,17 @@ class Entry:
             else:
                 words = self.address.split()
 
-                i = 0
-                while i < len(words):
+                i = len(words) - 1
+                while i >= 0:
                     if words[i].isnumeric():
                         break
-                    i += 1
+                    i -= 1
 
-                self.address = ' '.join(words[:i])
-                self.comp = ' '.join(words[i:])
+                if i == -1:
+                    self.comp = ''
+                else:
+                    self.address = ' '.join(words[:i])
+                    self.comp = ' '.join(words[i:])
 
         if not kwargs['cep']:
             self.cep = ''

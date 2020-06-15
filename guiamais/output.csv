@@ -69,10 +69,10 @@ OFICINA MECÂNICA,Oficina mecanica,R,Antônio Milani,, Vila Rica,Jandaia do sul,
 OFICINA MECÂNICA DO CARNEIRO,Oficina mecanica,Av,Anunciato Sonni,2449,,Jandaia do sul, PR,86900-000,43,34323154
 OFICINA MECÂNICA COGO,Oficina mecanica,R,João Ruiz Galian,479,,Jandaia do sul, PR,86900-000,43,34321635
 OFICINA MECÂNICA DE CARROS,Oficina mecanica,Av,Anunciato Sonni,, Centro,Jandaia do sul, PR,86900-000,,
-BARQUEIRO OFICINA MECÂNICA,Oficina mecanica,R,Tancredo Neves,279 FUNDOS 1, Centro,Jandaia do sul, PR,86900-000,,
+BARQUEIRO OFICINA MECÂNICA,Oficina mecanica,R,Tancredo Neves 279 FUNDOS,1, Centro,Jandaia do sul, PR,86900-000,,
 OFICINA MECÂNICA MAREZE,Oficina mecanica,R,Cândido Rondon,1341 FRENTE, Centro,Jandaia do sul, PR,86900-000,,
-OFICINA MECÂNICA DE CAMINHÕES,Oficina mecanica,Rod,BR 369,, Vila Paiao,Jandaia do sul, PR,86900-000,,
 OFICINA MECÂNICA CAMINHÕES,Oficina mecanica,Rod,BR 369,, Vila Paiao,Jandaia do sul, PR,86900-000,,
+OFICINA MECÂNICA DE CAMINHÕES,Oficina mecanica,Rod,BR 369,, Vila Paiao,Jandaia do sul, PR,86900-000,,
 OSVALDO LOPES DA SILVA,Oficina mecanica,R,Senador Souza Naves,1093,,Jandaia do sul, PR,86900-000,43,34321724
 OFICINA DO MANÉ,Oficina mecanica,Av,Tancredo Almeida Neves,667,,Jandaia do sul, PR,86900-000,43,34321794
 AUTO MECÂNICA JANDACAR,Oficina mecanica,Av,Anunciato Sonni,2084,,Jandaia do sul, PR,86900-000,43,34324177
@@ -141,7 +141,7 @@ OFICINA TAVARES,Oficina mecanica,Av,Minas Gerais,311, Centro,Jaguapita, PR,86610
 IRMÃOS MANZAN,Oficina mecanica,Av,Paraná,877, Centro,Jaguapita, PR,86610-000,43,32721757
 MECÂNICA DE AUTOMÓVEIS,Oficina mecanica,Av,Paraná,, 09,Jaguapita, PR,86610-000,,
 OFICINA PRA MOTOS,Oficina mecanica,Av,Manoel Ribas,171 FRENTE, 04,Jaguapita, PR,86610-000,,
-MOTO MEL CONCERTOS,Oficina mecanica,R,João Antônio de Morais,470 FUNDOS 1, 04,Jaguapita, PR,86610-000,,
+MOTO MEL CONCERTOS,Oficina mecanica,R,João Antônio de Morais 470 FUNDOS,1, 04,Jaguapita, PR,86610-000,,
 OFICINA MECÂNICA FERNANDES,Oficina mecanica,Av,Minas Gerais,201 FDS, Centro,Jaguapita, PR,86610-000,43,984015165,984015219,984034968
 OFICINA MECÂNICA,Oficina mecanica,Rod,Pr546 FRENTE,, Loteamento Vila Nova,Bom sucesso, PR,86940-000,,
 OFICINA MECÂNICA,Oficina mecanica,R,Pedro Silveira,542, Centro,Bom sucesso, PR,86940-000,,
@@ -149,8 +149,8 @@ OFICINA MECÂNICA,Oficina mecanica,R,Hiromassa Yokoyama,, Centro,Bom sucesso, PR
 OFICINA MECÂNICA ELIO,Oficina mecanica,R,Nahur Vanzella FUNDOS,, Centro,Bom sucesso, PR,86940-000,,
 AUTO MECÂNICA SILVA,Oficina mecanica,Rod,BR-369 km-1040,,,Bom sucesso, PR,86940-000,43,34421433
 AUTO MECÂNICA PARANÁ,Oficina mecanica,Rod,BR 369 KM 14 BOM SUCESSO IT,, Zona Rural,Bom sucesso, PR,86940-000,,
-AUTO MECÂNICA E FUNILARIA,Oficina mecanica,Rod,Br369 278,, Centro,Bom sucesso, PR,86940-000,,
 AUTO MECÂNICA SILVA,Oficina mecanica,Rod,BR 369 Km 1,, Vila Bom Fim,Bom sucesso, PR,86940-000,,
+AUTO MECÂNICA E FUNILARIA,Oficina mecanica,Rod,Br369 278,, Centro,Bom sucesso, PR,86940-000,,
 OFICINA DE MOTO,Oficina mecanica,R,Nahur Vanzella FRENTE,, Centro,Bom sucesso, PR,86940-000,,
 OFICINA MECÂNICA,Oficina mecanica,R,Evencio Severino Ferreira,, Centro,Rio bom, PR,86830-000,,
 OFICINA MECÂNICA,Oficina mecanica,R,Doutor Rebouças,546, Centro,Rio bom, PR,86830-000,,
@@ -159,7 +159,7 @@ OFICINA,Oficina mecanica,Av,Rio Grande do Sul,297 FRENTE, Centro,Rio bom, PR,868
 OFICINA,Oficina mecanica,R,José Francisco dos Santos,, Centro,Rio bom, PR,86830-000,,
 OFICINA,Oficina mecanica,Av,Jitiswti Kishino FRENTE,, Centro,Rio bom, PR,86830-000,,
 OFICINA,Oficina mecanica,Av,Jitiswti Kishino,289 FRENTE, Centro,Rio bom, PR,86830-000,,
-OFICINA MECÂNICA,Oficina mecanica,Av,,7 de Setembro 78 FRENTE, Centro,Maua da serra, PR,86828-000,,
+OFICINA MECÂNICA,Oficina mecanica,Av,7 de Setembro,78 FRENTE, Centro,Maua da serra, PR,86828-000,,
 OFICINA DE TORNEARIA MECÂNICA,Oficina mecanica,Av,Ponta Grossa,, Centro,Maua da serra, PR,86828-000,,
 OFICINA MECÂNICA DE AUTOMÓVEIS LEVES E P,Oficina mecanica,Av,Ponta Grossa,, Centro,Maua da serra, PR,86828-000,,
 OFICINA,Oficina mecanica,R,Leodantes Fonseca,, Centro,Maua da serra, PR,86828-000,,
@@ -175,15 +175,15 @@ OFICINA MECÂNICA MAUAENSE,Oficina mecanica,Av,Ponta Grossa,, Centro,Maua da ser
 THOR RECUPERADORA,centro automotivo,R,Pirapó,125, Vila Zanetti,Sabaudia, PR,86025-320,43,33250656,33560656
 THIAGO FELIPE C ZAGO - AUTO ELÉTRICA,centro automotivo,Av,Campos Sales,365, Parque Industrial,Sabaudia, PR,86720-000,43,996754825
 ELIANI DIAS DA ROCHA,centro automotivo,Rod,PR 218 KM 8 SALAO A SN ESTR,, Rodovia,Sabaudia, PR,86720-000,44,32512336,25123360
-M GRADE,centro automotivo,Av,Campos Salles,7 Q 7, Conjunto Área Saboia,Sabaudia, PR,86720-000,43,988222740,33442654,33790515
+M GRADE,centro automotivo,Av,Campos Salles 7 Q,7, Conjunto Área Saboia,Sabaudia, PR,86720-000,43,988222740,33442654,33790515
 JOSÉ ACIR BISTERCO,centro automotivo,R,Jacomo Valério,62 FDS, Centro,Sabaudia, PR,86720-000,43,999197996
 SÍLVIO SALVADOR,centro automotivo,R,Manoel de Brito,68, Centro,Sabaudia, PR,86720-000,44,32511109
 K3 AUTO CENTER,centro automotivo,Av,Brasil,50 BARRACAO, Centro,Cambira, PR,86890-000,,
 NELMAR ACESSORIOS,centro automotivo,Av,Mauá,1660, Zona 03,Astorga, PR,87050-020,44,32695976
-PASQUINI & VALENTIM,centro automotivo,R,Projetada A Q,3 LT 3 SN BRCAO 1, Parque Industrial,Astorga, PR,86730-000,44,999290215
+PASQUINI & VALENTIM,centro automotivo,R,Projetada A Q 3 LT 3 SN BRCAO,1, Parque Industrial,Astorga, PR,86730-000,44,999290215
 ANTÔNIO CARLOS LOCATELI,centro automotivo,R,Belém,79, Jardim Verelena,Astorga, PR,86730-000,44,32341105
 P V COMÉRCIO DE AUTOPEÇAS,centro automotivo,Rod,PR-218 km-1,, Contorno Sul,Astorga, PR,86730-000,44,32343223
-FUNILARIA, PINTURA E MECÂNICA RODRIGUES,centro automotivo,R,,3 Projetada A, Parque Ind 4,Astorga, PR,86730-000,44,32344894
+FUNILARIA  PINTURA E MECÂNICA RODRIGUES,centro automotivo,R,,3 Projetada A, Parque Ind 4,Astorga, PR,86730-000,44,32344894
 AUTO OFICINA V C LOPES,centro automotivo,Rod,PR 218 Km 01,, Parque Industrial I,Astorga, PR,86730-000,44,32343175
 EDSON DROZINO,centro automotivo,R,Lnossa Senhora Aparecida,188 FDS, Jardim Paraná,Astorga, PR,86730-000,44,32343798
 LAVA JATO MAYKON,centro automotivo,R,São Pedro,, Vila São Benedito,Astorga, PR,86730-000,44,999101335
@@ -203,10 +203,10 @@ NARDINE & ESTEVAN,centro automotivo,R,José Maria Paula,790, Centro,Jandaia do s
 AFONSO CAETANO,centro automotivo,R,Doutor Clementino Schiavon Puppi,1299 ap-2, Centro,Jandaia do sul, PR,86900-000,43,34321969
 MECÂNICA PIERRE,centro automotivo,R,João Ruiz Galean,479 FDS, Centro,Jandaia do sul, PR,86900-000,43,34323501,34321635
 CENTER CAR CENTRO AUTOMOTIVO,centro automotivo,R,Clementino S Puppi,992, Centro,Jandaia do sul, PR,86900-000,43,34323207,999530280,999537134
-AUTOPEÇAS MARILÂNDIA,centro automotivo,Av,,3 de Outubro 327 fds,,Marilandia do sul, PR,86825-000,43,34281107
-AUTO MECÂNICA WW,centro automotivo,R,,3 de Outubro 341, Parque Industrial Menegotto,Marilandia do sul, PR,86825-000,43,34281186,999020183,999020185
+AUTOPEÇAS MARILÂNDIA,centro automotivo,Av,3 de Outubro,327 fds,,Marilandia do sul, PR,86825-000,43,34281107
+AUTO MECÂNICA WW,centro automotivo,R,3 de Outubro,341, Parque Industrial Menegotto,Marilandia do sul, PR,86825-000,43,34281186,999020183,999020185
 OFICINA LEÃO DO NORTE,centro automotivo,Rod,BR 376,, Leão do Norte,Marilandia do sul, PR,86825-000,43,999352451,999352446,999352448
-MARCOS ANTÔNIO FERREIRA,centro automotivo,Av,,28 de Setembro 1081 AND 1, Parque Industrial,Novo itacolomi, PR,86895-000,43,991739150
+MARCOS ANTÔNIO FERREIRA,centro automotivo,Av,28 de Setembro 1081 AND,1, Parque Industrial,Novo itacolomi, PR,86895-000,43,991739150
 MECÂNICA DO CATARINO,centro automotivo,R,João Fuzetti,508, Centro,Marumbi, PR,86910-000,43,34411224
 ONIEL LEONARDO DA SILVA,centro automotivo,Av,Bandeirantes,789 TER, Centro,Jaguapita, PR,86610-000,43,996298334
 MARCELO VIOLI,centro automotivo,Av,Bandeirantes,521, Centro,Jaguapita, PR,86610-000,43,999228855
@@ -216,14 +216,14 @@ AUTO MECÂNICA E ELÉTRICA H,centro automotivo,Rod,Nestor Ananias da Cruz Pr 340
 CALDINI & MASSARENTE,centro automotivo,Rod,BR-369,,,Bom sucesso, PR,86940-000,43,34421449
 EDNA PEREIRA DE QUADROS,centro automotivo,Av,Júlio Alves Machado,63,,Bom sucesso, PR,86940-000,,
 CENTRO AUTOMOTIVO SM RECUPERADORA EM GERAL.,centro automotivo,R,Santa Rita,124, Vila Nossa Senhora da Aparecida,Rio bom, PR,86810-020,43,34235561,996825058,998129204
-OFICINA SÃO CARLOS,centro automotivo,R,Nova Ukrânia,95 AP 1, Vila Nossa Senhora da Conceição,Rio bom, PR,86802-500,43,991142162,991456716,991522576
+OFICINA SÃO CARLOS,centro automotivo,R,Nova Ukrânia 95 AP,1, Vila Nossa Senhora da Conceição,Rio bom, PR,86802-500,43,991142162,991456716,991522576
 BATS CAR-MECANICA E COMÉRCIO DE PEÇAS P/ AUTOS,centro automotivo,R,Grande Alexandre,390, Jardim Independência,Rio bom, PR,86811-270,43,999317784,996353200,999317785
-S.V. LUBRIFICANTES E FILTROS,centro automotivo,R,Doutor Oswaldo Cruz,1843 CS 1843, Vila Vitória,Rio bom, PR,86802-260,43,34229026
+S.V. LUBRIFICANTES E FILTROS,centro automotivo,R,Doutor Oswaldo Cruz 1843 CS,1843, Vila Vitória,Rio bom, PR,86802-260,43,34229026
 KOSY MOTO PEÇAS,centro automotivo,Av,Minas Gerais,2897, Vila São Miguel,Rio bom, PR,86812-490,43,34236066
 POSTO DE MOLAS OSTRUKA,centro automotivo,R,Humberto Vendramel,330, Jardim Independência,Rio bom, PR,86811-250,43,34237547
 RENEE LINO PEREIRA,centro automotivo,Av,Minas Gerais,2560 FDS, Vila São Miguel,Rio bom, PR,86812-490,43,999750448,999751163,999752387
 SADA LAVA CAR,centro automotivo,R,Ítalo Ado Fontanini CS,1128, Vila São Paulo,Rio bom, PR,86800-630,43,30337181
-EGR,centro automotivo,R,Doutor Oswaldo Cruz,1100 AP 301 O, Centro,Rio bom, PR,86800-720,43,999233582
+EGR,centro automotivo,R,Doutor Oswaldo Cruz 1100 AP,301 O, Centro,Rio bom, PR,86800-720,43,999233582
 RETIFICADORA ASSAMA,centro automotivo,Av,Minas Gerais,1970, Jardim Apucarana,Rio bom, PR,86808-015,43,34237799
 TIP DISTRIBUIDORA DE PEÇAS E ACESSÓRIOS,centro automotivo,Av,Minas Gerais,1972, Jardim Apucarana,Rio bom, PR,86808-015,43,34256792
 GASPARETTO PEÇAS SERVIÇOS AUTOMOTIVOS,centro automotivo,R,Padre Severino Cerutti,500, Vila São José,Rio bom, PR,86808-080,43,34227114
@@ -236,12 +236,12 @@ IGUAÇU AUTO CENTER,centro automotivo,Av,Minas Gerais,1448, Jardim Apucarana,Rio
 HIPERBATTERY,centro automotivo,Av,Governador Roberto da Silveira,414, Barra Funda,Rio bom, PR,86800-520,43,34230777,30337007
 SÔNIA A SILVA,centro automotivo,R,Lapa,217, Centro,Rio bom, PR,86800-310,43,34226482
 DETROIT COMÉRCIO E REPRESENTAÇÃO DE ACES,centro automotivo,R,Rio Corumbataí,354, Núcleo Habitacional Papa João Paulo I,Rio bom, PR,86801-040,43,34262384
-CHIQUINHO AUTO CENTER,centro automotivo,Av,Minas Gerais,1330 SL 3, Jardim Apucarana,Rio bom, PR,86808-015,43,988138287
+CHIQUINHO AUTO CENTER,centro automotivo,Av,Minas Gerais 1330 SL,3, Jardim Apucarana,Rio bom, PR,86808-015,43,988138287
 VANDERLEI PAULA DE ALMEIDA,centro automotivo,R,Lapa,37 A, Centro,Rio bom, PR,86800-310,43,999840038
 DAKAR AUTOMÓVEIS,centro automotivo,Av,Corifeu de Azevedo Marques,135, Centro,Rio bom, PR,86800-230,43,21028588
 JEFFERSON ROBERTO ROMANO,centro automotivo,Av,Irati,60, Barra Funda,Rio bom, PR,86800-220,43,34231356
 PRESENCE MOTOS E VEÍCULOS,centro automotivo,Av,Curitiba,1538, Centro,Rio bom, PR,86800-005,43,34240094
-RAC DA SILVA & CIA,centro automotivo,Pc,Interventor Manoel Ribas,125 6, Centro,Rio bom, PR,86800-680,43,34222670
+RAC DA SILVA & CIA,centro automotivo,Pc,Interventor Manoel Ribas 125,6, Centro,Rio bom, PR,86800-680,43,34222670
 FAMA DO BRASIL INDÚSTRIA DE MOLAS E AUTO PEÇAS,centro automotivo,R,Orquídea km 365,, Jardim das Flores I,Rio bom, PR,86810-250,43,34209002
 VALDINEI JOSÉ DA COSTA,centro automotivo,Rod,BR-376 KM 7,, Vila São Francisco,Rio bom, PR,86813-240,43,34241374,34232063,996371373
 AUTOPEÇAS IMBATIVEL IMPORTAÇÃO E EXPORT,centro automotivo,Av,Curitiba,2081, Centro,Rio bom, PR,86800-005,43,34223695
@@ -282,12 +282,14 @@ AUTO MECÂNICA FERNANDES & PEREIRA LTDA M E,centro automotivo,Av,Ponta Grossa,, 
 JC ACESSÓRIOS AUTOMOTIVOS,centro automotivo,Av,Ponta Grossa,, Centro,Rio bom, PR,86828-000,,
 PARANÁ AUTOPEÇAS,centro automotivo,R,São Paulo,515,,Rio bom, PR,86840-000,43,34611483
 NEUDES MENDES DE OLIVEIRA,centro automotivo,R,São Paulo,412,,Rio bom, PR,86840-000,43,34612160,999743320,999744852
-T L SERVIÇOS,centro automotivo,Av,Tiradentes,300 SL 2, Jardim Shangri-lá Área,Rio bom, PR,86070-545,43,30261020,33048070,991497173
+T L SERVIÇOS,centro automotivo,Av,Tiradentes 300 SL,2, Jardim Shangri-lá Área,Rio bom, PR,86070-545,43,30261020,33048070,991497173
 SS DIESEL BOMBAS INJETORAS,centro automotivo,Rod,BR-369 km-180,, Parque Industrial Iv,Rio bom, PR,86706-430,43,31521631,32761631
 JWC COMÉRCIO E SERVIÇOS,centro automotivo,R,Arlindo Pereira de Araújo,543 INEXISTENTE, Centro,Rio bom, PR,86125-000,43,33980120,33980285,991230464
-AUTO MECÂNICA PANORAMA,centro automotivo,R,Rouxinol,1579 AP 9, Vila Aparecida,Rio bom, PR,86706-190,43,32522560,32528192,988288025
+AUTO MECÂNICA PANORAMA,centro automotivo,R,Rouxinol 1579 AP,9, Vila Aparecida,Rio bom, PR,86706-190,43,32522560,32528192,988288025
 BATERIAS MARCHIOLI II,centro automotivo,R,Rouxinol,1887 Arapongas, Vila Aparecida,Rio bom, PR,86706-190,43,31526032
 ARABENZ OFICINA MECÂNICA,centro automotivo,Av,Maracanã,736 FDS, Vila Industrial,Rio bom, PR,86706-000,43,32522269,30554838,32523349
+MACEDO BATERIAS,centro automotivo,R,Rouxinol,1758, Vila Aparecida,Rio bom, PR,86706-190,43,32528643
+PAULINHO PEÇAS,centro automotivo,R,Alcatraz,35, Vila Industrial,Rio bom, PR,86706-180,43,30553748
 AUTOELÉTRICA GUIZELINI,centro automotivo,R,Rene Tacola,395, Centro,Rio bom, PR,86975-000,44,32331845
 CHICO LAVA CAR E MOTO EXPRESS,centro automotivo,R,Manoel Antunes Pereira,751 FUNDOS, Centro,Rio bom, PR,86975-000,44,999370852
 MECÂNICA E AUTOPEÇAS ARAESCANIA,centro automotivo,R,Pega,350, Jardim Baroneza,Rio bom, PR,86706-110,43,31528980,31528981
@@ -307,7 +309,7 @@ AUTO PINTURAS MAURÍLIO,centro automotivo,R,Drongo,2135, Vila São João,Rio bom
 TONINHO AUTOCENTER,centro automotivo,Av,Amazonas,1913, Centro,Rio bom, PR,86975-000,44,32331870
 AMC - AUTO MECÂNICA CASTELINHO,centro automotivo,R,Turaco,49, Vila Bernardes,Rio bom, PR,86705-020,43,32767787
 W FILM SOM E ALARMES AUTOMOTIVOS,centro automotivo,R,Quetzal,10, Vila Bernardes,Rio bom, PR,86075-062,43,32528716
-AMAR ASSOCIAÇÃO DOS MOTOCICLISTAS DE ARAPONGAS E REGIÃO,centro automotivo,R,Gaturamo,486 AP 2, Jardim Primavera,Rio bom, PR,86702-001,,
+AMAR ASSOCIAÇÃO DOS MOTOCICLISTAS DE ARAPONGAS E REGIÃO,centro automotivo,R,Gaturamo 486 AP,2, Jardim Primavera,Rio bom, PR,86702-001,,
 AUTOELÉTRICA PETE,centro automotivo,R,Gaturamo,437, Jardim Primavera,Rio bom, PR,86702-001,43,32745611,30563611
 FÁBIO ROGÉRIO MENDES,centro automotivo,R,Tucanos,1474, Centro,Rio bom, PR,86701-020,43,30561407
 SHALON TINTAS E AUTOPEÇAS,centro automotivo,Av,Arapongas,2, Centro,Rio bom, PR,86700-050,43,32525000
@@ -324,8 +326,6 @@ KM PNEU MATIC,centro automotivo,R,Carrancho,300, Jardim Panorama,Rio bom, PR,867
 A.W.- PRESTADORA DE SERVIÇO DE POLIMENTO E ESPELHAMENTO,centro automotivo,R,Uirapuru,1480, Centro,Rio bom, PR,86700-130,43,30561417
 AUTOPEÇAS FALCÃO,centro automotivo,R,Falcão,1015, Centro,Rio bom, PR,86700-165,43,32524719
 CAR CENTER,centro automotivo,R,das Pombas,80 FUNDOS, Centro,Rio bom, PR,86701-410,43,32529055
-LOCATELLI & MORAIS,centro automotivo,R,Falcão,861, Centro,Rio bom, PR,86700-165,43,999847085
-D. GERALDO MENDES & M. ANTÔNIA FORNAROLI MENDES,centro automotivo,R,Gralha-Azul,146, Vila Edio,Rio bom, PR,86705-270,43,30553701,999175436,999175437
 ARAPONGAS PNEUS,centro automotivo,Av,Maracanã,2741, Vila Bernardes,Rio bom, PR,86705-280,,
 CM RACING PRODUCTS,centro automotivo,R,Araras,185, Centro,Rio bom, PR,86700-085,43,30553496
 SPEED RACING CENTRO AUTOMOTIVO,centro automotivo,R,Gralha-Azul,196, Vila Edio,Rio bom, PR,86705-270,43,33122000,984142723,984142987
@@ -334,7 +334,6 @@ OFICINA MECÂNICA NEGY,centro automotivo,R,Faisão,1011, Vila Sampaio,Rio bom, P
 AUTONORTE CENTRO AUTOMOTIVO,centro automotivo,Av,Arapongas,1173, Centro,Rio bom, PR,86700-140,43,30552007
 AUTOPEÇAS E MECÂNICA RODICAR,centro automotivo,R,Sangue-De-Boi,280, Vila Araponguinha,Rio bom, PR,86705-510,43,32764664,31524665
 NYTONCAR CENTRO AUTOMOTIVO,centro automotivo,Av,Siriema,22, Vila Araponguinha,Rio bom, PR,86705-500,43,32765651
-AUTO ELÉTRICA PARANÁ,centro automotivo,Av,Siriema,22, Vila Araponguinha,Rio bom, PR,86705-500,43,991990680,30553263,32528196
 CENTRO AUTOMOTIVO,centro automotivo,R,Jacutinga,510, Centro,Rio bom, PR,86700-205,43,31521502,31527575
 RENATO LIMA,centro automotivo,Av,Siriema,270, Vila Araponguinha,Rio bom, PR,86705-500,43,31525804
 RENATO LIMA,centro automotivo,R,Pinta-Roxo 153 km-181,, Vila Cascata,Rio bom, PR,86701-460,43,31522461
@@ -344,6 +343,9 @@ BORRASCA & FOSSALUZA,centro automotivo,R,Surucuá-Açu,147, Vila Araponguinha,Ri
 S/C RADIADORES E ESCAPAMENTOS,centro automotivo,Av,das Indústrias LT,302,,Rio bom, PR,86975-000,44,32334513,32334484,32335053
 VIDANI VEÍCULOS USADOS,centro automotivo,Av,Maracanã,3200, Vila Bernardes,Rio bom, PR,86705-280,43,31521649
 KM AUTO CENTER,centro automotivo,R,Condor,308, Vila Cascata,Rio bom, PR,86701-472,43,31521500,31520217
+CAR HOUSE,centro automotivo,R,Uirapuru,1839, Centro,Rio bom, PR,86701-010,43,32757549
+VISION CAR,centro automotivo,Av,Arapongas,1769, Centro,Rio bom, PR,86700-140,43,32742644
+AUTOCAR - PEÇAS E SERVIÇOS,centro automotivo,R,Tangará,66 FDS, Centro,Rio bom, PR,86701-350,11,32756818,22031228
 CATOIA & GARCIA,centro automotivo,Av,Maracanã,3294, Vila Bernardes,Rio bom, PR,86705-280,43,32761927,32763570
 JP QUÍMICA,centro automotivo,Av,Chaker Abrahim,495, Parque Industrial,Rio bom, PR,86975-000,44,32332287,32333028
 ÉLCIO A MARCHIOLI,centro automotivo,R,Falcão-Mateiro,74, Jardim Portal das Flores,Rio bom, PR,86701-500,43,31522149
@@ -359,7 +361,7 @@ AUTOPEÇAS TREVÃO,centro automotivo,R,Guaratinga,2815, Parque Industrial II,Rio
 BRAUNA SERVIÇOS E MECÂNICA,centro automotivo,R,João Batista,315, Centro,Rio bom, PR,86945-000,43,999028888
 ADSOM CAR,centro automotivo,R,Corifeu Azevedo Marques,328,,Rio bom, PR,86945-000,43,34511349
 TOP DRY,centro automotivo,Rod,Celso Garcia Cid KM 377 1 S 1 1,, Jardim Portal de Versalhes 1,Rio bom, PR,86057-250,44,30334050,30348043
-JUAREZ RIBEIRO VASCONCELOS E & CIA,centro automotivo,R,Amintas de Barros,405 AP 405, Centro,Rio bom, PR,86930-000,43,34772660
+JUAREZ RIBEIRO VASCONCELOS E & CIA,centro automotivo,R,Amintas de Barros 405 AP,405, Centro,Rio bom, PR,86930-000,43,34772660
 R. A. PERCEGUEIRO - LUNARDELLI,centro automotivo,Av,Pedro II,349, Centro,Rio bom, PR,86935-000,43,984315757,984325757,984335757
 MAURÍCIO MARREGAS,centro automotivo,Av,Pedro II,165, Centro,Rio bom, PR,86935-000,43,984092385,984092429,984092432
 LUCIANO HERNANDES NALIN,centro automotivo,Av,Cristóvão Colombo,2321, Centro,Rio bom, PR,86990-000,44,32321489,32321577,32327672
@@ -386,12 +388,12 @@ AUTO ELÉTRICA SATURNO,auto eletrico,Av,Anunciato Sonni,1721 TERREO,,Jandaia do 
 AUTO ELÉTRICA PARATI,auto eletrico,R,Senador Souza Naves,103,,Jandaia do sul, PR,86900-000,43,34327425
 AUTO ELÉTRICA BATS,auto eletrico,R,Tancredo Neves,, Centro,Jandaia do sul, PR,86900-000,,
 AUTO ELÉTRICA BRASIL,auto eletrico,Rod,BR 376 Lote 158-r-r,, Gleba Patrimônio Jandaia,Jandaia do sul, PR,86900-000,43,999795394
-AUTO ELÉTRICA SATURNO,auto eletrico,Av,,3 Anunciato Sonni 1721, Centro,Jandaia do sul, PR,86900-000,43,991385221,991439216,991544640
+AUTO ELÉTRICA SATURNO,auto eletrico,Av,3 Anunciato Sonni,1721, Centro,Jandaia do sul, PR,86900-000,43,991385221,991439216,991544640
 AUTO ELÉTRICA,auto eletrico,Rod,do Café Br 376,, Leão do Norte,Marilandia do sul, PR,86825-000,,
-AUTO ELÉTRICA E MS MOTO,auto eletrico,Av,,3 de Outubro 3 ESQ C R MARIA LUIZA,,Marilandia do sul, PR,86825-000,43,991659484
+AUTO ELÉTRICA E MS MOTO,auto eletrico,Av,3 de Outubro,3 ESQ C R MARIA LUIZA,,Marilandia do sul, PR,86825-000,43,991659484
 AUTO ELÉTRICA ANDRADE,auto eletrico,Av,Porecatu,410,,Prado ferreira, PR,86618-000,43,32441208
 AUTO ELÉTRICA ANDRADE,auto eletrico,Av,Porecatu,410, Cidade Ferreira,Prado ferreira, PR,86618-000,,
-AUTO ELÉTRICA,auto eletrico,Av,,28 de Setembro 1219 OUTROS, Centro,Novo itacolomi, PR,86895-000,,
+AUTO ELÉTRICA,auto eletrico,Av,28 de Setembro,1219 OUTROS, Centro,Novo itacolomi, PR,86895-000,,
 COMPANHIA PARANAENSE DE ENERGIA,auto eletrico,Av,Dona Madalena,190, Centro,Miraselva, PR,86615-000,43,32731137
 ALEX AUTO ELÉTRICO,auto eletrico,R,de Caxias,168, Centro,Marumbi, PR,86910-000,43,34411777,996401924
 AUTO ELÉTRICA,auto eletrico,R,Santos Dumont,, Centro,Marumbi, PR,86910-000,,
@@ -420,7 +422,6 @@ JETOIL,troca de oleo,Av,Curitiba,1428, Centro,Sabaudia, PR,86800-005,43,34232121
 TROCA DE ÓLEO VOLANTE,troca de oleo,R,Doutor Oswaldo Cruz,843, Centro,Sabaudia, PR,86800-720,43,34234101
 NOBRE SUPER TROCA DE ÓLEO,troca de oleo,Av,Minas Gerais,1664, Jardim Apucarana,Sabaudia, PR,86808-015,43,34224088
 LUBRIVALE FILTROS E LUBRIFICANTES,troca de oleo,R,René Camargo de Azambuja,1110, Centro,Sabaudia, PR,86800-090,43,30336517
-LUBRICENTER SUPER TROCA DE OLEO,troca de oleo,Av,Aviação,1101, Vila Nova,Sabaudia, PR,86812-500,43,34239070,34239079,996044998
 LUBRIFIKY LUBRIFICANTES,troca de oleo,Av,Getúlio Vargas,108 B TER, Centro,Sabaudia, PR,86760-000,44,32581018
 MEGA PARTS DISTRIBUIDORA DE PEÇAS AUTOMOTIVAS,troca de oleo,Av,Getúlio Vargas,599 B, Centro,Sabaudia, PR,86760-000,44,999106969,32581366,999106968
 LUBRIVALE FILTRO E LUBRIFICANTES,troca de oleo,Av,Minas Gerais,2579, Vila São Miguel,Sabaudia, PR,86812-490,43,34236163,30336163
@@ -430,10 +431,10 @@ SOMAR LUBRIFICANTES,troca de oleo,Av,Cristóvão Colombo,2471, Centro,Sabaudia, 
 POSTO BRASIL,troca de oleo,R,Antônio Alexandrino,8, Jardim Planalto Verde,Sabaudia, PR,86192-300,43,31549078
 P S F COMÉRCIO E SERVIÇOS,troca de oleo,Av,Antônio Raminelli,1080, Parque Residencial Ana Rosa,Sabaudia, PR,86183-502,43,999150264,999150337,999150345
 COMÉRCIO DE LUBRIFICANTE,troca de oleo,Av,Anunciato Sonni,1642 TERREO, Centro,Sabaudia, PR,86900-000,,
-PAIVA & MARTINS,troca de oleo,Pc,Café,92 CENTRO 92,,Sabaudia, PR,86900-000,,
+PAIVA & MARTINS,troca de oleo,Pc,Café 92 CENTRO,92,,Sabaudia, PR,86900-000,,
 CASA DO ÓLEO,troca de oleo,Pc,Café,92,,Sabaudia, PR,86900-000,43,34325410
 LUBRIVALLE,troca de oleo,Av,Anunciato Sonni,1642,,Sabaudia, PR,86900-000,43,34323742
-LIMA & DUARTE LUBRIFICANTES,troca de oleo,Av,Jácomo Rossini,599 sl 2, Parque Residencial Ana Rosa,Sabaudia, PR,86183-650,43,32535755
+LIMA & DUARTE LUBRIFICANTES,troca de oleo,Av,Jácomo Rossini 599 sl,2, Parque Residencial Ana Rosa,Sabaudia, PR,86183-650,43,32535755
 PROCAR LUBRIFICANTES,troca de oleo,R,José Emiliano de Gusmão,750 s-04, Centro,Sabaudia, PR,87111-230,44,999389344
 LWART LUBRIFICANTES,troca de oleo,R,Odila Toriani Lemuchi,158, Parque Alvamar,Sabaudia, PR,87113-430,,
 STOP CAR,troca de oleo,Av,Deputado Borsari Neto,627, Jardim Independência,Sabaudia, PR,87113-300,44,30355200,998183019
@@ -457,7 +458,7 @@ OVETRIL,troca de oleo,Av,Colombo,3404, Zona 07,Sabaudia, PR,87030-120,44,3268955
 BRASIL FILTRO E LUBRIFICANTE,troca de oleo,Av,Brasil,1160, Zona 03,Sabaudia, PR,87050-000,44,30253700
 ORIGINAL LUBRIFICANTES,troca de oleo,Av,Laguna,2310, Zona 01,Sabaudia, PR,87050-260,44,30349008
 W M LUBRIFICANTES,troca de oleo,Av,Laguna,2310, Zona 01,Sabaudia, PR,87050-260,44,30317900
-BORGHESI MOTOS,troca de oleo,Av,Tiradentes,2700 BOX 1, Rodocentro,Sabaudia, PR,86071-000,43,33042526,33780245
+BORGHESI MOTOS,troca de oleo,Av,Tiradentes 2700 BOX,1, Rodocentro,Sabaudia, PR,86071-000,43,33042526,33780245
 IDEAL LUBRIFICANTES,troca de oleo,Av,Colombo,3912 FDS, Zona 07,Sabaudia, PR,87030-120,,
 BICUDINHO LUBRIFICANTES E TROCA DE OLEO,troca de oleo,Av,Jules Verne,185, Conjunto Santa Rita 7,Sabaudia, PR,86072-450,43,33385694
 J. SILVÉRIO FERREIRA & CIA,troca de oleo,Av,Laguna,1994, Zona 01,Sabaudia, PR,87050-260,44,30289677
@@ -469,12 +470,12 @@ LUBRIMAX,troca de oleo,Av,Tiradentes,1592, Jardim Shangri-lá Área,Sabaudia, PR
 LUBRICAR LUBRIFICANTES E FILTROS,troca de oleo,R,Abélio Benatti,4692, Jardim do Sol,Sabaudia, PR,86070-370,43,33287776
 ONOBRAS LUBRIFICANTES,troca de oleo,Av,Brasília,806, Rodocentro,Sabaudia, PR,86070-020,43,33481008,33480582
 LUBRIMIL,troca de oleo,Av,São Judas Tadeu,1196, Jardim Copacabana,Sabaudia, PR,87023-200,44,30313079
-LUBRIMIL LUBRIFICANTES,troca de oleo,Av,São Judas Tadeu,1196 CJ 94 LT 16, Jardim Copacabana,Sabaudia, PR,87023-200,44,988263258,998166262,998538485
+LUBRIMIL LUBRIFICANTES,troca de oleo,Av,São Judas Tadeu 1196 CJ 94 LT,16, Jardim Copacabana,Sabaudia, PR,87023-200,44,988263258,998166262,998538485
 ÁGUIA LUBRIFICANTES,troca de oleo,Av,Colombo,5278, Zona 7,Sabaudia, PR,87030-121,44,33559000,33559050
 COLIZEU COMÉRCIO ATACADISTA DE LUBRIFICANTES E DERIVADOS DE PETRÓLEO,troca de oleo,R,Arcindo Sardo,999, Jardim das Américas,Sabaudia, PR,86076-140,43,30255538
 MAX-LUB LUBRIFICANTES,troca de oleo,Av,Maringá,89 s-4, Vitória,Sabaudia, PR,86060-000,43,33385969
-LUCIANO L SANTOS,troca de oleo,R,Sofia Kloc,215 ap 42, Jardim Imagawa,Sabaudia, PR,86080-500,43,33470675
-MAX LUB - LUBRIFICANTES,troca de oleo,Av,Maringá,89 SL 4, Vitória,Sabaudia, PR,86060-000,43,34403070,30621577,999453297
+LUCIANO L SANTOS,troca de oleo,R,Sofia Kloc 215 ap,42, Jardim Imagawa,Sabaudia, PR,86080-500,43,33470675
+MAX LUB - LUBRIFICANTES,troca de oleo,Av,Maringá 89 SL,4, Vitória,Sabaudia, PR,86060-000,43,34403070,30621577,999453297
 LUBRIFICANTES VIALUB,troca de oleo,Av,Colombo,6142, Jardim Universitário,Sabaudia, PR,87020-000,44,32622824
 NACIONAL LUBRIFICANTES,troca de oleo,R,Pioneiro José dos Santos,144, Jardim Itaipu,Sabaudia, PR,87065-440,44,32207600
 NORTOIL LUBRIFICANTES,troca de oleo,Estr,200 km-5,, Parque Industrial 200,Sabaudia, PR,87035-520,44,32675611
@@ -485,7 +486,7 @@ A DOMINGUES LUBRIMAX,troca de oleo,Av,Colombo,6624, Jardim Universitário,Sabaud
 TOP LUB ESCAPAMENTOS,troca de oleo,Av,Doutor Alexandre Rasgulaeff,5818, Jardim Dourados,Sabaudia, PR,87040-550,44,33540013
 MEGA FILTROS E LUBRIFICANTES,troca de oleo,R,João Pessoa,111, Jardim Agari,Sabaudia, PR,86020-220,43,33361119
 MOTORLUB COMÉRCIO DE LUBRIFICANTES,troca de oleo,Av,Rio Branco,650, Jardim Agari,Sabaudia, PR,86025-595,43,33485510,30241573,30275512
-D. S. D. COL & CIA,troca de oleo,Av,Henrique Mansano,38 SL 4, Alpes,Sabaudia, PR,86075-000,43,33283282,33226260,33282511
+D. S. D. COL & CIA,troca de oleo,Av,Henrique Mansano 38 SL,4, Alpes,Sabaudia, PR,86075-000,43,33283282,33226260,33282511
 LUBRICENTER LUBRIFICANTES,troca de oleo,Av,Henrique Mansano,38, Alpes,Sabaudia, PR,86075-000,43,33283282
 FORT LUB - LUBRIFICANTES E FILTROS,troca de oleo,R,Francisco Claret de Rezende,35, Alto da Boa Vista,Sabaudia, PR,86083-270,43,33392969
 VISA LUBRIFICANTES,troca de oleo,R,Winston Churchill,1767, Coliseu,Sabaudia, PR,86080-120,43,33482302
@@ -502,7 +503,7 @@ LUBRI,troca de oleo,R,Bahia,1307, Jardim Palmares,Sabaudia, PR,86025-010,43,3321
 LUBRI LÍDER LUBRIFICANTES,troca de oleo,R,Guaporé,1435, Jardim Palmares,Sabaudia, PR,86025-000,43,33213112,30243112,30263112
 LUBRIVAM LUBRIFICANTES,troca de oleo,Av,Doutor Luiz Teixeira Mendes,910, Zona 04,Sabaudia, PR,87015-000,44,30265788,30254217,30255939
 AUTOTROCA BAHIA,troca de oleo,R,Tibagi,373, Recreio,Sabaudia, PR,86025-270,43,33250505
-L L SANTOS COMÉRCIO ATACADISTA DE LUBRIFICANTES,troca de oleo,R,Santa Catarina,50 lj 47, Centro,Sabaudia, PR,86010-470,43,33220096
+L L SANTOS COMÉRCIO ATACADISTA DE LUBRIFICANTES,troca de oleo,R,Santa Catarina 50 lj,47, Centro,Sabaudia, PR,86010-470,43,33220096
 SÔNIA M BAPTISTELLA,troca de oleo,R,Doutor Lisímaco Ferreira da Costa,111, Recreio,Sabaudia, PR,86025-090,43,33216290
 LUFIL LUBRIFICANTES E FILTROS,troca de oleo,Av,Duque de Caxias,2698, Jardim Londrilar,Sabaudia, PR,86010-190,43,33243130
 AMÉRICA DISTRIBUIDORES,troca de oleo,Av,Duque de Caxias,1859, Jardim Londrilar,Sabaudia, PR,86010-190,43,33240377
@@ -532,13 +533,14 @@ M A FILTROS E LUBRIFICANTES,troca de oleo,Av,Celso Garcia Cid,1621, Vila Siam,Sa
 DISTRIBUIDORA GOMES E BATISTELLA,troca de oleo,Av,do Café,655 c-18, Conjunto Café,Sabaudia, PR,86038-000,43,33266295
 LUBRIMAIS,troca de oleo,Av,São João,2145, Antares,Sabaudia, PR,86036-030,43,33399010
 PAULO R SECCO,troca de oleo,Av,Robert Koch,1000 qd-07 lt-10, Operária,Sabaudia, PR,86038-350,43,33212791
-CAMILA C MENEGOLO,troca de oleo,Av,Jamil Scaff,977 lj 1, Conjunto Habitacional Alexandre Urbanas,Sabaudia, PR,86037-000,43,33291480
+CAMILA C MENEGOLO,troca de oleo,Av,Jamil Scaff 977 lj,1, Conjunto Habitacional Alexandre Urbanas,Sabaudia, PR,86037-000,43,33291480
 PAIÇANDU LUBRIFICANTES,troca de oleo,Av,Campos Elísios,1174, Jardim Bela Vista,Sabaudia, PR,87140-000,44,32447140
 RECILUB LUBRIFICANTES,troca de oleo,R,João Marques Nóbrega,245,,Sabaudia, PR,86200-000,43,31581527
 PETROBRI COMÉRCIO DE LUBRIFICANTES,troca de oleo,R,Foz do Iguaçu,91 s-B, Jardim Ana Eliza,Pitangueiras, PR,86188-370,43,31541704
+LUBRICENTER SUPER TROCA DE OLEO,troca de oleo,Av,Aviação,1101, Vila Nova,Pitangueiras, PR,86812-500,43,34239070,34239079,996044998
+DISTP PRODUTOS AUTOMOTIVOS,troca de oleo,Av,Lucílio de Held,155, Coliseu,Pitangueiras, PR,86076-110,43,33283040
+LUEMAN COMÉRCIO DE LUBRIFICANTES,troca de oleo,R,Guaporé,1186, Jardim Palmares,Pitangueiras, PR,86025-000,43,33296954
 ALLTECH BRASIL AGROINDUSTRIAL,troca de oleo,Estr,Marisa km-3,,,Cambira, PR,86945-000,43,34511203,34518200
-NEI LUBRIFICANTES,troca de oleo,Av,Ponta Grossa,, Centro,California, PR,86828-000,,
-DISTP PRODUTOS AUTOMOTIVOS,troca de oleo,Av,Lucílio de Held,155, Coliseu,California, PR,86076-110,43,33283040
+NEI LUBRIFICANTES,troca de oleo,Av,Ponta Grossa,, Centro,Marilandia do sul, PR,86828-000,,
 CAFRAN,troca de oleo,Av,Prefeito Mário de Menezes,2261, Centro,Prado ferreira, PR,86200-000,43,32582753
 LUBRIMIX CENTRO AUTOMOTIVO,troca de oleo,Av,Doutor Joaquim V Castro,1025, Centro,Marumbi, PR,86950-000,44,32721218
-LUEMAN COMÉRCIO DE LUBRIFICANTES,troca de oleo,R,Guaporé,1186, Jardim Palmares,Jaguapita, PR,86025-000,43,33296954
