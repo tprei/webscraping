@@ -41,8 +41,8 @@ class Entry:
                         break
                     i += 1
 
-                self.address = ''.join(words[:i])
-                self.comp = ''.join(words[i:])
+                self.address = ' '.join(words[:i])
+                self.comp = ' '.join(words[i:])
 
         if not kwargs['cep']:
             self.cep = ''
@@ -78,7 +78,7 @@ class Entry:
         return row
 
     def __hash__(self):
-        return hash(str(self))
+        return hash(self.name + self.address + self.comp + self.neighbour + self.cep)
 
     def __eq__(self, other):
         return self.__hash__() == other.__hash__()
