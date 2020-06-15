@@ -26,9 +26,23 @@ class Entry:
             self.type = words[0]
             self.address = ' '.join(words[1:-1])
 
-            words = self.address.split('-')
+            words = self.address.split(' -')
             self.neighbour = ''.join(words[-1])
             self.address = ''.join(words[:-1])
+
+            if 'km' in self.address.lower() or self.type.lower() == 'rod':
+                self.comp = ''
+            else:
+                words = self.address.split()
+
+                i = 0
+                while i < len(words):
+                    if words[i].isnumeric():
+                        break
+                    i += 1
+
+                self.address = ''.join(words[:i])
+                self.comp = ''.join(words[i:])
 
         if not kwargs['cep']:
             self.cep = ''
@@ -55,6 +69,7 @@ class Entry:
         row += self.query + ','
         row += self.type + ','
         row += self.address + ','
+        row += self.comp + ','
         row += self.neighbour + ','
         row += self.city + ','
         row += self.cep + ','
