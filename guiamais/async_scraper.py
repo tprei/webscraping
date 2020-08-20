@@ -5,7 +5,6 @@ import threading
 from bs4 import BeautifulSoup as soup
 from queue import Queue
 from time import time
-from tqdm import tqdm
 
 DEFAULT_URL = 'https://www.guiamais.com.br/encontre?searchbox=true'
 PAGE_MODIFIER = '&page='
@@ -18,6 +17,8 @@ class Entry:
         if not kwargs['address']:
             self.address = ''
             self.type = ''
+            self.comp = ''
+            self.neighbour = ''
         else:
             self.address = kwargs['address'].replace(',', ' ')
             self.address = ' '.join(self.address.split())
@@ -173,54 +174,51 @@ async def get_entry(item, query, city, session):
 
 async def get_pages(url, num_pages, session) -> list:
     pages = []
-    for page in tqdm(range(1, num_pages + 1), desc='Pages'):
+    for page in range(1, num_pages + 1):
         full_url = url + PAGE_MODIFIER + str(page)
         html = await get_html(session, full_url)
         pages.append(html)
 
     return pages
 
+async def scrape(q, c, stats, thread):
+    url, num_pages, session = await setup(q, c)
+    pages = await get_pages(url, num_pages, session)
+
+    results = 0
+    for html in pages:
+        parsed = soup(html, 'html.parser')
+
+        # get query results
+        items = parsed.findAll('div', {'itemprop': 'itemListElement'})
+
+        results += len(items)
+
+        for item in items:
+            entry = await get_entry(item, q, c, session)
+
+            if entry not in thread.cache:
+                thread.q.put(entry)
+                thread.cache.add(entry)
+                print(entry)
+
+    stats.append((c.replace('\n', ''), q.replace('\n', ''), results))
+    await session.close()
+
 async def main(queries, cities):
     thread = FileHandlerThread('output.csv')
     thread.start()
 
-    session = None
     initial_time = time()
     count = 0
     stats = []
 
-    for q in tqdm(queries, desc='Queries'):
-        for c in tqdm(cities, desc='Cities'):
-            url, num_pages, session = await setup(q, c)
-
-            pages = await get_pages(url, num_pages, session)
-
-            results = 0
-            for html in pages:
-                parsed = soup(html, 'html.parser')
-
-                # get query results
-                items = parsed.findAll('div', {'itemprop': 'itemListElement'})
-
-                results += len(items)
-                count += results
-
-                for item in items:
-                    entry = await get_entry(item, q, c, session)
-
-                    if entry not in thread.cache:
-                        thread.q.put(entry)
-                        thread.cache.add(entry)
-                        print(entry)
-
-            stats.append((c.replace('\n', ''), q.replace('\n', ''), results))
-
-            if session:
-                await session.close()
+    await asyncio.gather(*[scrape(q, c, stats, thread) for q in queries for c in cities])
 
     end_time = time()
 
     for stat in stats:
+        count += stat[2]
         print(f'City: {stat[0]} | Query: {stat[1]} | Count: {stat[2]}')
 
     print(f'Scraped {count} results in {round(end_time - initial_time, 2)}s')
