@@ -9,6 +9,16 @@ from webdriver_manager.chrome import ChromeDriverManager
 class LinkedinScraper:
 
     def __init__(self, queries):
+
+        '''
+        Parameters
+        ------------
+
+        queries: list
+            list containing linkedin queries. Ex: Data Scientist São Paulo
+        
+        '''
+
         self.setup()
         self.queries = queries
 
@@ -21,6 +31,19 @@ class LinkedinScraper:
             users = self.search(lookup, num_pages=5)
     
     def search(self, query, num_pages=5):
+
+        '''
+        Get all results from a certain query in the first few pages.
+
+        Parameters
+        ------------
+
+        query: str
+        
+        num_pages: int
+            Number of pages to be scraped for each lookup
+        '''
+
         self.driver.get('http://www.google.com')
         search_box = self.driver.find_element_by_name('q')
         search_box.send_keys(query)
@@ -45,6 +68,8 @@ class LinkedinScraper:
         return list(URLs)
 
 if __name__ == '__main__':
+
+    # Reading queries file
     try:
         with open('queries.in', 'r') as f:
             queries = f.readlines()
