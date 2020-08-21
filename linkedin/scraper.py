@@ -29,7 +29,7 @@ class LinkedinScraper:
 
     def scrape(self):
         for query in self.queries:
-            lookup = 'site:linkedin.com/in ' + query
+            lookup = 'site:linkedin.com/in ' + query.strip()
             users = self.search(lookup, num_pages=5)
         
         return users
@@ -55,6 +55,7 @@ class LinkedinScraper:
         '''
 
         self.driver.get('http://www.google.com')
+
         search_box = self.driver.find_element_by_name('q')
         search_box.send_keys(query)
         search_box.send_keys(Keys.ENTER)
