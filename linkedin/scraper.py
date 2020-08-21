@@ -6,6 +6,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from webdriver_manager.chrome import ChromeDriverManager
 
+import json
+
 class LinkedinScraper:
 
     def __init__(self, queries):
@@ -29,6 +31,8 @@ class LinkedinScraper:
         for query in self.queries:
             lookup = 'site:linkedin.com/in ' + query
             users = self.search(lookup, num_pages=5)
+        
+        return users
     
     def search(self, query, num_pages=5):
 
@@ -42,6 +46,12 @@ class LinkedinScraper:
         
         num_pages: int
             Number of pages to be scraped for each lookup
+
+        Return
+        ---------
+
+        user: list
+            List containing all user URLs
         '''
 
         self.driver.get('http://www.google.com')
@@ -78,4 +88,9 @@ if __name__ == '__main__':
         exit(-1)
 
     scraper = LinkedinScraper(queries)
-    scraper.scrape()
+    scraped_users = scraper.scrape()
+
+    output = {"profiles": scraped_users}
+
+    with open('users.json', 'w') as f:
+        f.write(json.dumps(output))
