@@ -1,0 +1,15 @@
+{
+  "name": "kabum",
+  "version": "1.0.0",
+  "description": "Kabum store scraper. Use this for educational purposes only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thiago Preischadt",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
