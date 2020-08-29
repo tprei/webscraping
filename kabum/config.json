@@ -1,0 +1,5 @@
+{
+    "filters": ["hardware", "perifericos"],
+    "root_url": "https://www.kabum.com.br/",
+    "headless": false
+}
