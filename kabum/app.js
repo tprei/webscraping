@@ -2,14 +2,17 @@ const fs = require('fs')
 const puppeteer = require('puppeteer');
 const scraper = require('./scraper');
 
-function loadConfig(file) {
-    const configFile = fs.readFileSync(file);
-    return JSON.parse(configFile);
-}
-
 module.exports = (async () => {
-    const configFile = loadConfig('config.json');
-    const browser = await puppeteer.launch({headless: configFile.headless});
-
-    await scraper.start(browser, configFile);
+    try {
+        fs.readFile('config.json', async (err, data) => {
+            if (err){
+                throw err;
+            }
+            const configFile = JSON.parse(data);
+            const browser = await puppeteer.launch({headless: configFile.headless});
+            await scraper.start(browser, configFile);
+        });
+    } catch (e) {
+        console.log('Error', e);
+    }
 })();

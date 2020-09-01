@@ -1,17 +1,27 @@
 const pageScraper = require('./pageScraper')
 
 exports.start = (async (browser, config) => {
-    let pages = []
+    let results = {};
+    for (const p of config.filters) {
+        let allProducts = [];
+        for (let i = 1; i <= config.maxPages; i++) {
 
-    for (const p of config.filters){
-        const prodURL = config.root_url + p;
-        const productPage = await browser.newPage();
-        await productPage.goto(prodURL);
+            const URL = config.root_url + p + '?pagina=' + i;
 
-        pages.push(productPage);
+            const page = await browser.newPage();
+            await page.setUserAgent(config.userAgent);
+            await page.goto(URL);
+
+            products = await pageScraper.scrape(page);
+            allProducts = allProducts.concat(products);
+
+            if (allProducts.length === 0) {
+                break;
+            }
+        }
+        results[p] = allProducts;
     }
 
-    for (const page of pages){
-        products = await pageScraper.scrape(page);
-    }
+    console.log(results);
+
 });
