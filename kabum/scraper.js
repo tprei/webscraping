@@ -2,6 +2,7 @@ const pageScraper = require('./pageScraper')
 
 exports.start = (async (browser, config) => {
     let results = {};
+    let totalResults = 0;
     for (const p of config.filters) {
         let allProducts = [];
         for (let i = 1; i <= config.maxPages; i++) {
@@ -13,16 +14,20 @@ exports.start = (async (browser, config) => {
             await page.goto(URL);
 
             products = await pageScraper.scrape(page);
-            allProducts = allProducts.concat(products);
 
-            if (allProducts.length === 0) {
+            if (products === null) {
+                await page.close();
                 break;
             }
 
+            allProducts = allProducts.concat(products);
             await page.close();
         }
+
         results[p] = allProducts;
+        totalResults += allProducts.length;
     }
 
+    console.log(totalResults);
     return results;
 });

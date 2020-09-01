@@ -6,7 +6,7 @@ exports.scrape = (async (page) => {
     // Nothing was found
     if (productList.length === 0) {
         console.log(`No results found on page ${await page.title()}`);
-        return [];
+        return null;
     }
 
     let products = [];
