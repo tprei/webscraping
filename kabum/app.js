@@ -10,7 +10,10 @@ module.exports = (async () => {
             }
             const configFile = JSON.parse(data);
             const browser = await puppeteer.launch({headless: configFile.headless});
-            await scraper.start(browser, configFile);
+            const results = await scraper.start(browser, configFile);
+
+            await browser.close();
+            fs.writeFileSync('results.json', JSON.stringify(results, null, 4));
         });
     } catch (e) {
         console.log('Error', e);

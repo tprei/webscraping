@@ -18,10 +18,11 @@ exports.start = (async (browser, config) => {
             if (allProducts.length === 0) {
                 break;
             }
+
+            await page.close();
         }
         results[p] = allProducts;
     }
 
-    console.log(results);
-
+    return results;
 });

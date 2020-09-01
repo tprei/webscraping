@@ -1,0 +1,304 @@
+{
+    "hardware": [
+        {
+            "nameText": "SSD Kingston A400, 240GB, SATA, Leitura 500MB/s, Gravação 350MB/s - SA400S37/240G",
+            "creditText": "R$ 329,29",
+            "boletoText": "R$ 279,90"
+        },
+        {
+            "nameText": "Memória HyperX Fury, 8GB, 2666MHz, DDR4, CL16, Preto - HX426C16FB3/8",
+            "creditText": "R$ 321,06",
+            "boletoText": "R$ 272,90"
+        },
+        {
+            "nameText": "Memória XPG Spectrix D41 TUF, RGB, 8GB, 3000MHz, DDR4, CL16 - AX4U300038G16-SB41",
+            "creditText": "R$ 325,76",
+            "boletoText": "R$ 276,90"
+        },
+        {
+            "nameText": "SSD Kingston A400, 480GB, SATA, Leitura 500MB/s, Gravação 450MB/s - SA400S37/480G",
+            "creditText": "R$ 494,00",
+            "boletoText": "R$ 419,90"
+        },
+        {
+            "nameText": "SSD Kingston A400, 120GB, SATA, Leitura 500MB/s, Gravação 320MB/s - SA400S37/120G",
+            "creditText": "R$ 223,41",
+            "boletoText": "R$ 189,90"
+        },
+        {
+            "nameText": "SSD Crucial BX500, 240GB, SATA, Leitura 540MB/s, Gravação 500MB/s - CT240BX500SSD1",
+            "creditText": "R$ 317,53",
+            "boletoText": "R$ 269,90"
+        },
+        {
+            "nameText": "SSD Lexar NS100, 256GB, SATA, Leitura 520MB/s - LNS100-256RB",
+            "creditText": "R$ 435,18",
+            "boletoText": "R$ 369,90"
+        },
+        {
+            "nameText": "SSD Crucial BX500, 480GB, SATA, Leitura 540MB/s, Gravação 500MB/s - CT480BX500SSD1",
+            "creditText": "R$ 470,47",
+            "boletoText": "R$ 399,90"
+        },
+        {
+            "nameText": "Memória HyperX Fury, 8GB, 2400MHz, DDR4, CL15, Preto - HX424C15FB3/8",
+            "creditText": "R$ 305,76",
+            "boletoText": "R$ 259,90"
+        },
+        {
+            "nameText": "Memória XPG Gammix D30, 8GB, 2666Mhz, DDR4, CL16 - AX4U266638G16-SB30",
+            "creditText": "R$ 341,06",
+            "boletoText": "R$ 289,90"
+        },
+        {
+            "nameText": "Placa-Mãe Gigabyte GA-AB350M-DS3H V2, AMD AM4, mATX, DDR4",
+            "creditText": "R$ 741,06",
+            "boletoText": "R$ 629,90"
+        },
+        {
+            "nameText": "SSD HP S700, 120GB, SATA, Leituras: 500Mb/s e Gravações: 480Mb/s - 2DP97AA#ABL",
+            "creditText": "R$ 241,06",
+            "boletoText": "R$ 204,90"
+        },
+        {
+            "nameText": "SSD Crucial BX 500, 120GB, SATA, Leitura 540MB/s, Gravação 500MB/s - CT120BX500SSD1",
+            "creditText": "R$ 210,47",
+            "boletoText": "R$ 178,90"
+        },
+        {
+            "nameText": "SSD WD Green, 240GB, SATA, Leitura 545MB/s, Gravação 465MB/s - WDS240G2G0A",
+            "creditText": "R$ 341,06",
+            "boletoText": "R$ 289,90"
+        },
+        {
+            "nameText": "Memória Corsair Vengeance LPX, 8GB, 2400MHz, DDR4, CL16, Preto - CMK8GX4M1A2400C16",
+            "creditText": "R$ 288,12",
+            "boletoText": "R$ 244,90"
+        },
+        {
+            "nameText": "Processador AMD Ryzen 5 1600, Cache 19MB, 3.2GHz (3.6GHz Max Turbo), AM4 - YD1600BBAFBOX",
+            "creditText": "R$ 823,41",
+            "boletoText": "R$ 699,90"
+        },
+        {
+            "nameText": "SSD Lexar NS100, 128GB, SATA, Leitura 520MB/s - LNS100-128RB",
+            "creditText": "R$ 176,35",
+            "boletoText": "R$ 149,90"
+        },
+        {
+            "nameText": "SSD HP S700, 250GB, SATA, Leituras: 555Mb/s e Gravações: 515Mb/s - 2DP98AA#ABL",
+            "creditText": "R$ 341,06",
+            "boletoText": "R$ 289,90"
+        },
+        {
+            "nameText": "SSD WD Green, 120GB, SATA, Leitura 545MB/s, Gravação 430MB/s - WDS120G2G0A",
+            "creditText": "R$ 223,41",
+            "boletoText": "R$ 189,90"
+        },
+        {
+            "nameText": "Kingston Adaptador de SSD 2,5´ para Baia 3,5´ - SNA-BR2/35",
+            "creditText": "R$ 105,76",
+            "boletoText": "R$ 89,90"
+        },
+        {
+            "nameText": "HD WD Blue, 1TB, 3.5´, SATA - WD10EZEX",
+            "creditText": "R$ 341,06",
+            "boletoText": "R$ 289,90"
+        },
+        {
+            "nameText": "HD Seagate BarraCuda, 2TB, 3.5´, SATA - ST2000DM008",
+            "creditText": "R$ 470,47",
+            "boletoText": "R$ 399,90"
+        },
+        {
+            "nameText": "Processador Intel Core i5-9400F Coffee Lake, Cache 9MB, 2.9GHz (4.1GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I59400F",
+            "creditText": "R$ 1.176,35",
+            "boletoText": "R$ 999,90"
+        },
+        {
+            "nameText": "HD Seagate BarraCuda, 1TB, 3.5´, SATA - ST1000DM010",
+            "creditText": "R$ 423,41",
+            "boletoText": "R$ 359,90"
+        },
+        {
+            "nameText": "Processador AMD Ryzen 5 3600X Cache 32MB 3.8GHz (4.4GHz Max Turbo) AM4, Sem Vídeo - 100-100000022BOX",
+            "creditText": "R$ 1.882,24",
+            "boletoText": "R$ 1.599,90"
+        },
+        {
+            "nameText": "SSD WD Green, 480GB, SATA, Leitura 545MB/s, Gravação 430MB/s - WDS480G2G0A",
+            "creditText": "R$ 524,59",
+            "boletoText": "R$ 445,90"
+        },
+        {
+            "nameText": "Placa-Mãe Asus Prime B450M Gaming/BR, AMD AM4, mATX, DDR4",
+            "creditText": "R$ 788,12",
+            "boletoText": "R$ 669,90"
+        },
+        {
+            "nameText": "Placa-Mãe ASRock B450M Steel Legend, AMD AM4, mATX, DDR4 - 90-MXB9Y0-A0BAYZ",
+            "creditText": "R$ 1.058,71",
+            "boletoText": "R$ 899,90"
+        },
+        {
+            "nameText": "Memória Crucial Ballistix Sport LT, 8 GB (2X4),2400MHz, DDR4, CL16, Preta - BL2K4G24C16U4B",
+            "creditText": "R$ 311,65",
+            "boletoText": "R$ 264,90"
+        },
+        {
+            "nameText": "Placa-Mãe Asus Prime A320M-K/BR, AMD AM4, mATX, DDR4",
+            "creditText": "R$ 646,94",
+            "boletoText": "R$ 549,90"
+        },
+        {
+            "nameText": "Placa-Mãe Asus TUF H310M-Plus Gaming/BR, Intel LGA 1151, mATX, DDR4",
+            "creditText": "R$ 705,76",
+            "boletoText": "R$ 599,90"
+        },
+        {
+            "nameText": "Cooler FAN Rise 120mm Branco RM-FN-01-BW",
+            "creditText": "R$ 46,94",
+            "boletoText": "R$ 39,90"
+        },
+        {
+            "nameText": "SSD WD Green, 240GB, M.2, Leitura 545MB/s - WDS240G2G0B",
+            "creditText": "R$ 305,76",
+            "boletoText": "R$ 259,90"
+        },
+        {
+            "nameText": "Case C3 Tech p/ HD 2.5´ USB 3.0, Preto - CH-300BK",
+            "creditText": "R$ 76,35",
+            "boletoText": "R$ 64,90"
+        },
+        {
+            "nameText": "Cooler para Processador CoolerMaster Blizzard T2 AMD/Intel - RR-T2-22FP-R1",
+            "creditText": "R$ 85,76",
+            "boletoText": "R$ 72,90"
+        },
+        {
+            "nameText": "SSD XPG SX8100 256GB, M.2, Leitura 3500MB/s, Gravação 1200MB/s - ASX8100NP-256GT-C",
+            "creditText": "R$ 455,18",
+            "boletoText": "R$ 386,90"
+        },
+        {
+            "nameText": "Processador AMD Ryzen 5 2600, Cooler Wraith Stealth, Cache 19MB, 3.4GHz (3.9GHz Max Turbo), AM4, Sem Vídeo - YD2600BBAFBOX",
+            "creditText": "R$ 1.094,00",
+            "boletoText": "R$ 929,90"
+        },
+        {
+            "nameText": "Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 OC Low Profile, 4GB, GDDR5 - GV-N1650OC-4GL",
+            "creditText": "R$ 1.399,89",
+            "boletoText": "R$ 1.329,90"
+        },
+        {
+            "nameText": "Placa-Mãe Gigabyte H310M M.2 2.0, Intel LGA 1151, mATX, DDR4",
+            "creditText": "R$ 705,76",
+            "boletoText": "R$ 599,90"
+        },
+        {
+            "nameText": "Cooler FAN C3 Tech F7-100 BK Storm 12cm C3T",
+            "creditText": "R$ 26,94",
+            "boletoText": "R$ 22,90"
+        },
+        {
+            "nameText": "Processador AMD Ryzen 5 3400G, Cache 6MB, 3.7GHz (4.2GHz Max Turbo), AM4 - YD3400C5FHBOX",
+            "creditText": "R$ 1.482,24",
+            "boletoText": "R$ 1.259,90"
+        },
+        {
+            "nameText": "Placa-Mãe Gigabyte GA-A320M-S2H, AMD AM4, mATX, DDR4",
+            "creditText": "R$ 606,94",
+            "boletoText": "R$ 515,90"
+        },
+        {
+            "nameText": "Memória XPG Gammix D30, 8GB, 2666MHz, DDR4, CL16, Vermelho - AX4U266638G16-SR30",
+            "creditText": "R$ 288,12",
+            "boletoText": "R$ 244,90"
+        },
+        {
+            "nameText": "Memória Corsair Vengeance LPX, 8GB, 2666MHz, DDR4, C16, Preto - CMK8GX4M1A2666C16",
+            "creditText": "R$ 349,29",
+            "boletoText": "R$ 296,90"
+        },
+        {
+            "nameText": "Fonte Corsair 550W 80 Plus White VS550 - CP-9020171",
+            "creditText": "R$ 552,82",
+            "boletoText": "R$ 469,90"
+        },
+        {
+            "nameText": "Placa-Mãe Asus TUF Gaming X570-PLUS/BR, AMD AM4, ATX, DDR4",
+            "creditText": "R$ 1.835,18",
+            "boletoText": "R$ 1.559,90"
+        },
+        {
+            "nameText": "Fonte Corsair CV550, 550W, 80 Plus Bronze - CP-9020210-BR",
+            "creditText": "R$ 554,00",
+            "boletoText": "R$ 470,90"
+        },
+        {
+            "nameText": "SSD XPG SX8100 512GB, M.2, Leitura 3500MB/s, Gravação 1900MB/s - ASX8100NP-512GT-C",
+            "creditText": "R$ 676,35",
+            "boletoText": "R$ 574,90"
+        },
+        {
+            "nameText": "Cooler FAN Rise Mode Wind W1, 120mm, LED Branco - RM-WN-01-BW",
+            "creditText": "R$ 35,18",
+            "boletoText": "R$ 29,90"
+        },
+        {
+            "nameText": "Pasta Térmica MD9 Bisnaga 10g 3376",
+            "creditText": "R$ 4,59",
+            "boletoText": "R$ 3,90"
+        },
+        {
+            "nameText": "Fonte EVGA 600W 80 Plus White - 100-W1-0600-K",
+            "creditText": "R$ 588,12",
+            "boletoText": "R$ 499,90"
+        },
+        {
+            "nameText": "Placa-Mãe Gigabyte Z390 M Gaming, Intel LGA 1151, mATX, DDR4",
+            "creditText": "R$ 1.152,82",
+            "boletoText": "R$ 979,90"
+        },
+        {
+            "nameText": "SSD Adata SU650, 240GB, SATA, Leitura 520MB/s, Gravação 450MB/s - ASU650SS-240GT-R",
+            "creditText": "R$ 446,94",
+            "boletoText": "R$ 446,94"
+        },
+        {
+            "nameText": "Placa de Vídeo Asus TUF NVIDIA GeForce RTX 2060 6GB, GDDR6 - TUF-RTX2060-O6G-GAMING",
+            "creditText": "R$ 2.658,71",
+            "boletoText": "R$ 2.259,90"
+        },
+        {
+            "nameText": "Pasta Térmica DeepCool Z3 DP-TIM-Z3-2",
+            "creditText": "R$ 22,24",
+            "boletoText": "R$ 18,90"
+        },
+        {
+            "nameText": "SSD Kingston A2000, 250GB, M.2 NVMe, Leitura 2000MB/s, Gravação 1100MB/s - SA2000M8/250G",
+            "creditText": "R$ 635,18",
+            "boletoText": "R$ 539,90"
+        },
+        {
+            "nameText": "SSD Adata SU650, 120GB, SATA, Leitura 520MB/s, Gravação 450MB/s - ASU650SS-120GT-R",
+            "creditText": "R$ 209,90",
+            "boletoText": "R$ 209,90"
+        },
+        {
+            "nameText": "Processador Intel Pentium G5400 Coffee Lake, 8a Geração, Cache 4MB, 3.7Ghz, LGA 1151 - BX80684G5400",
+            "creditText": "R$ 705,76",
+            "boletoText": "R$ 599,90"
+        },
+        {
+            "nameText": "Memória Corsair Vengeance, 8GB, 2400MHz, DDR4, Notebook, C16 - CMSX8GX4M1A2400C16",
+            "creditText": "R$ 341,06",
+            "boletoText": "R$ 289,90"
+        },
+        {
+            "nameText": "Placa de Vídeo Asus TUF3 NVIDIA GeForce GTX 1660 SUPER 6GB, GDDR6 - TUF 3-GTX1660S-O6G-GAMING",
+            "creditText": "R$ 2.420,95",
+            "boletoText": "R$ 2.299,90"
+        }
+    ]
+}
