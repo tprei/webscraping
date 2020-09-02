@@ -1,0 +1,5 @@
+echo "Scraping Kabum"
+npm start
+
+echo "Getting best results and saving to .csv"
+python3 get_best.py

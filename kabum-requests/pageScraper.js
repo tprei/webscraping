@@ -1,5 +1,4 @@
 const got = require('got');
-const Iconv = require('iconv').Iconv;
 
 function isNumber(char) {
     return char >= '0' && char <= '9';
