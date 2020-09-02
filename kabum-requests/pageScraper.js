@@ -1,4 +1,5 @@
 const got = require('got');
+const Iconv = require('iconv').Iconv;
 
 function isNumber(char) {
     return char >= '0' && char <= '9';
@@ -7,14 +8,13 @@ function isNumber(char) {
 module.exports.scrape = 
     async ({fullUrl, config}) => {
         try {
-            const response = await got(fullUrl, headers={'user-agent': config.userAgent});
+            const response = await got(fullUrl, headers={'user-agent': config.userAgent, 'encoding': 'binary'});
 
             if (response.statusCode != 200) {
                 return [];
             }
 
-            const htmlString = response.body;
-            
+            let htmlString = response.body;
             let i = htmlString.search("listagemDados");
 
             if (i == -1) {
@@ -50,7 +50,11 @@ module.exports.scrape =
 
 module.exports.getNumPages = async ({filterUrl, config}) => {
     try {
-        const response = await got(filterUrl, headers={'user-agent': config.userAgent});
+        const response = await got(filterUrl, 
+            headers={'user-agent': config.userAgent, 
+            "Content-Type": "text/plain",
+            "charset": "latin1"});
+
         const htmlString = response.body;
 
         let i = htmlString.search("listagemCount");

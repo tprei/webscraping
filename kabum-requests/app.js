@@ -1,6 +1,10 @@
 const fs = require('fs');
 const pageScraper = require('./pageScraper');
 
+function min (a, b) {
+    return a < b ? a : b;
+}
+
 (async () => {
     try {
         fs.readFile('config.json', async (err, data) => {
@@ -21,7 +25,7 @@ const pageScraper = require('./pageScraper');
                 if (numProducts % 30) 
                     numPages++;
 
-                for (let i = 1; i <= numPages; i++) {
+                for (let i = 1; i <= min(config.maxPages, numPages); i++) {
                     let fullUrl = filterUrl + '?pagina=' + i;
                     promises.push(pageScraper.scrape({fullUrl, config}));
                 }
@@ -29,7 +33,7 @@ const pageScraper = require('./pageScraper');
 
             Promise.all(promises)
                 .then((result) => {
-                    fs.writeFileSync('results.json', JSON.stringify(result, null, 4));
+                    fs.writeFileSync('results.json', JSON.stringify(result, null, 4), {'encoding': 'latin1'});
             })
                 .catch(err => console.log(`Error in promises ${err}`))
         });
