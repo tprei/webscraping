@@ -14,9 +14,16 @@ const pageScraper = require('./pageScraper');
             let promises = [];
 
             for (filter of config.filters) {
-                for (let i = 1; i <= config.maxPages; i++) {
-                    let fullUrl = kabumUrl + '/' + filter + '?pagina=' + i;
-                    promises.push(pageScraper({fullUrl, config}));
+                const filterUrl = kabumUrl + '/' + filter;
+                const numProducts = await pageScraper.getNumPages({filterUrl, config});
+                let numPages = numProducts / 30;
+
+                if (numProducts % 30) 
+                    numPages++;
+
+                for (let i = 1; i <= numPages; i++) {
+                    let fullUrl = filterUrl + '?pagina=' + i;
+                    promises.push(pageScraper.scrape({fullUrl, config}));
                 }
             }
 

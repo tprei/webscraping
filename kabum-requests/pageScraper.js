@@ -1,6 +1,10 @@
 const got = require('got');
 
-module.exports = 
+function isNumber(char) {
+    return char >= '0' && char <= '9';
+}
+
+module.exports.scrape = 
     async ({fullUrl, config}) => {
         try {
             const response = await got(fullUrl, headers={'user-agent': config.userAgent});
@@ -43,3 +47,31 @@ module.exports =
             return [];
         }
     }
+
+module.exports.getNumPages = async ({filterUrl, config}) => {
+    try {
+        const response = await got(filterUrl, headers={'user-agent': config.userAgent});
+        const htmlString = response.body;
+
+        let i = htmlString.search("listagemCount");
+
+        if (i == -1) {
+            return 0;
+        } else {
+            i += 15;
+        }
+
+        let result = "";
+
+        while(isNumber(htmlString[i]) || htmlString[i] == ' ') {
+            result += htmlString[i];
+            i++;
+        }
+
+        return parseInt(result);
+
+    } catch (e) {
+        console.log(e);
+        return [];
+    }
+}
