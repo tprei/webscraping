@@ -109,6 +109,9 @@ async def get_html(session, url):
         return await response.text()
     
 async def setup(query, city) -> int:
+    query = query.replace(' ', '').strip()
+    city = city.replace(' ', '').strip()
+
     WHAT = '&what='
     WHERE = '&where='
     MAX_PAGES = '9999'
@@ -137,40 +140,43 @@ async def setup(query, city) -> int:
     return initial_url, num_pages, session
 
 async def get_entry(item, query, city, session):
-    address = None
-    cep = None
-    
-    name = item.find('h2', {'class':'aTitle'}).text
-    name = name.lstrip().rstrip()
+    try:
+        address = None
+        cep = None
+        
+        name = item.find('h2', {'class':'aTitle'}).text
+        name = name.lstrip().rstrip()
 
-    phone_url = 'https://www.guiamais.com.br/' + item.find('h2', {'class':'aTitle'}).find('a')['href']
-    phone_url = phone_url.lstrip().rstrip()
+        phone_url = 'https://www.guiamais.com.br/' + item.find('h2', {'class':'aTitle'}).find('a')['href']
+        phone_url = phone_url.lstrip().rstrip()
 
-    phone_html = await get_html(session, phone_url)
-    parsed = soup(phone_html, 'html.parser')
+        phone_html = await get_html(session, phone_url)
+        parsed = soup(phone_html, 'html.parser')
 
-    phones = None
-    phones = parsed.findAll('li', {'class':'detail'})
-    phones = [phone.text.lstrip().rstrip() for phone in phones]
+        phones = None
+        phones = parsed.findAll('li', {'class':'detail'})
+        phones = [phone.text.lstrip().rstrip() for phone in phones]
 
-    address_div = parsed.find('span', {'class':'tp-address'})
+        address_div = parsed.find('span', {'class':'tp-address'})
 
-    if address_div:
-        address = address_div.text.lstrip().rstrip()
+        if address_div:
+            address = address_div.text.lstrip().rstrip()
 
-    cep_div = parsed.find('span', {'class': 'tp-postalCode'})
+        cep_div = parsed.find('span', {'class': 'tp-postalCode'})
 
-    if cep_div:
-        cep = cep_div.text.lstrip().rstrip()
+        if cep_div:
+            cep = cep_div.text.lstrip().rstrip()
 
-    return Entry (
-            name=name,
-            address=address,
-            cep=cep,
-            phones=phones,
-            query=query,
-            city=city
-    )
+        return Entry (
+                name=name,
+                address=address,
+                cep=cep,
+                phones=phones,
+                query=query,
+                city=city
+        )
+    except:
+        return None
 
 async def get_pages(url, num_pages, session) -> list:
     pages = []
@@ -190,17 +196,18 @@ async def scrape(q, c, stats, thread):
         parsed = soup(html, 'html.parser')
 
         # get query results
-        items = parsed.findAll('div', {'itemprop': 'itemListElement'})
+        items = parsed.findAll('div', {'class': 'free'})
 
         results += len(items)
 
         for item in items:
             entry = await get_entry(item, q, c, session)
 
-            if entry not in thread.cache:
-                thread.q.put(entry)
-                thread.cache.add(entry)
-                print(entry)
+            if entry is not None:
+                if entry not in thread.cache:
+                    thread.q.put(entry)
+                    thread.cache.add(entry)
+                    print(entry)
 
     stats.append((c.replace('\n', ''), q.replace('\n', ''), results))
     await session.close()
