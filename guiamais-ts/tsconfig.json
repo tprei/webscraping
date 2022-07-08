@@ -4,7 +4,6 @@
     "extends": "@tsconfig/node17/tsconfig.json",
     "compilerOptions": {
         "outDir": "dist",
-        "noImplicitAny": true,
     },
     "include": [
         "src",
