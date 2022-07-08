@@ -4,6 +4,10 @@
     "extends": "@tsconfig/node17/tsconfig.json",
     "compilerOptions": {
         "outDir": "dist",
+        "lib": [
+            "ES2021"
+        ],
+        "esModuleInterop": true
     },
     "include": [
         "src",
