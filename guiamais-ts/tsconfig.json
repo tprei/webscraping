@@ -1,0 +1,16 @@
+{
+    "target": "es5",
+    "skipLibCheck": true,
+    "extends": "@tsconfig/node17/tsconfig.json",
+    "compilerOptions": {
+        "outDir": "dist",
+        "noImplicitAny": true,
+    },
+    "include": [
+        "src",
+        "public"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+}

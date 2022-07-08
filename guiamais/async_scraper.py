@@ -104,9 +104,10 @@ class FileHandlerThread(threading.Thread):
 
             self.q.task_done()
 
-async def get_html(session, url):
-    async with session.get(url) as response:
-        return await response.text()
+async def get_html(url):
+    async with aiohttp.ClientSession() as session:
+        async with session.get(url) as response:
+            return await response.text()
     
 async def setup(query, city) -> int:
     query = query.replace(' ', '').strip()
@@ -124,22 +125,21 @@ async def setup(query, city) -> int:
 
     url += PAGE_MODIFIER + MAX_PAGES
 
-    session = aiohttp.ClientSession()
-    html = await get_html(session, url)
+    html = await get_html(url)
         
     parsed = soup(html, 'html.parser')
 
     no_results = parsed.find('section', {'class': 'notFound'})
 
     if no_results:
-        return None, 0, None
+        return None, 0
 
     pagination = parsed.find('nav', {'class': 'pagination'})
     num_pages = int(pagination.text.split('\n')[-2])
 
-    return initial_url, num_pages, session
+    return initial_url, num_pages
 
-async def get_entry(item, query, city, session):
+async def get_entry(item, query, city):
     try:
         address = None
         cep = None
@@ -150,7 +150,7 @@ async def get_entry(item, query, city, session):
         phone_url = 'https://www.guiamais.com.br/' + item.find('h2', {'class':'aTitle'}).find('a')['href']
         phone_url = phone_url.lstrip().rstrip()
 
-        phone_html = await get_html(session, phone_url)
+        phone_html = await get_html(phone_url)
         parsed = soup(phone_html, 'html.parser')
 
         phones = None
@@ -178,18 +178,18 @@ async def get_entry(item, query, city, session):
     except:
         return None
 
-async def get_pages(url, num_pages, session) -> list:
+async def get_pages(url, num_pages) -> list:
     pages = []
     for page in range(1, num_pages + 1):
         full_url = url + PAGE_MODIFIER + str(page)
-        html = await get_html(session, full_url)
+        html = await get_html(full_url)
         pages.append(html)
 
     return pages
 
 async def scrape(q, c, stats, thread):
-    url, num_pages, session = await setup(q, c)
-    pages = await get_pages(url, num_pages, session)
+    url, num_pages = await setup(q, c)
+    pages = await get_pages(url, num_pages)
 
     results = 0
     for html in pages:
@@ -201,7 +201,7 @@ async def scrape(q, c, stats, thread):
         results += len(items)
 
         for item in items:
-            entry = await get_entry(item, q, c, session)
+            entry = await get_entry(item, q, c)
 
             if entry is not None:
                 if entry not in thread.cache:
@@ -210,7 +210,6 @@ async def scrape(q, c, stats, thread):
                     print(entry)
 
     stats.append((c.replace('\n', ''), q.replace('\n', ''), results))
-    await session.close()
 
 async def main(queries, cities):
     thread = FileHandlerThread('output.csv')
@@ -220,7 +219,7 @@ async def main(queries, cities):
     count = 0
     stats = []
 
-    await asyncio.gather(*[scrape(q, c, stats, thread) for q in queries for c in cities])
+    await asyncio.gather(*[scrape(q.replace('\n', '').strip(), c.replace('\n', '').strip(), stats, thread) for q in queries for c in cities])
 
     end_time = time()
 
